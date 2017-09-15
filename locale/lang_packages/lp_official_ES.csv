@@ -699,8 +699,8 @@ MsgReceiptCashLogCheckOutBankDrop,Deposito Bancario
 MsgReceiptCashLogOpenedBy,Abierto por
 MsgReceiptCashLogHeldBy,Realizado por
 MsgReceiptCashLogClosedBy,Cerrado por
-MsgReceiptCashLogPayOut,Salida
-MsgReceiptCashLogPayIn,Ingreso
+MsgReceiptCashLogPayOut,Ingreso
+MsgReceiptCashLogPayIn,Salida
 MsgReceiptMadeBy,Hecho por
 MsgTillsOwnedBy,propiedad de
 MsgReceiptGiftCardCertificateNumber,Numero de Tarj. Regalo
@@ -1960,6 +1960,7 @@ MsgOrderHistDateDue,Fecha de vencimiento
 MsgOrderHistEmployeeName,Nombre del empleado
 MsgOrderHistOrderTotal,Total
 MsgOrderHistPrintId,Imprimir
+MsgOrderHistInvoiced,Project-Id-Version: \nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2017-03-02 16:59:07\nPO-Revision-Date: 2017-03-02 16:59:07\nLast-Translator: \nLanguage-Team: \nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nLanguage: es\nPlural-Forms: nplurals=2; plural=(n != 1);\nX-Generator: Poedit 1.8.7\n
 MsgOrderHistBar,Barra #%d
 MsgOrderInvoiceToOrderConfirmation,Esto creará un pedido a partir de la factura. ¿Está seguro?
 MsgOrderFullyPaidInvoiceToOrderConfirmation,Este invoice está pagado por completo.\n¿Convertirlo en pedido?
@@ -2192,8 +2193,8 @@ MsgScreenPayoutReasonEmpty,Razon de Retiro obligatoria
 MsgScreenPayinReasonEmpty,La razón del depósito no puede estar vacía.
 MsgScreenTillManagementSetTillAmounts,Caja Supervisor - Fijar cantidad
 MsgScreenTillManagementCashDropTitle,Gestión de gaveta- Depósito de efectivo
-MsgScreenPayIn,Ingreso
-MsgScreenPayout,Salida
+MsgScreenPayIn,Salida
+MsgScreenPayout,Ingreso
 MsgScreenOpenCashDrawer,Abrir Caja
 MsgScreenPrintBankDrop,Imprimir Deposito Bancario
 MsgScreenPrintEmptySafeDrop,Imprimir depósito de caja fuerte vacío

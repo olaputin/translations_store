@@ -1977,6 +1977,7 @@ MsgOrderHistDateDue,Pietų data
 MsgOrderHistEmployeeName,Darbuotojo vardas
 MsgOrderHistOrderTotal,Iš viso
 MsgOrderHistPrintId,Spausdinti
+MsgOrderHistInvoiced,Project-Id-Version: \nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2017-03-02 17:05:30\nPO-Revision-Date: 2017-03-02 17:05:30\nLast-Translator: \nLanguage-Team: \nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nLanguage: lt\nPlural-Forms: nplurals=2; plural=(n != 1);\nX-Generator: Poedit 1.8.7\n
 MsgOrderHistBar,%d baras
 MsgOrderInvoiceToOrderConfirmation,Užsakymas bus sukurtas pagal šią sąskaitą faktūrą. Tikrai norite tęsti?
 MsgOrderFullyPaidInvoiceToOrderConfirmation,Ši sąskaita faktūra pilnai apmokėta.\nKonvertuoti ją į užsakymą?

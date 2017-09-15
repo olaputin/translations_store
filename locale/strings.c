@@ -5,7 +5,6 @@
 
 /* COMMON */
 
-"MsgOr" = "or";
 "MsgError" = "Error";
 "MsgNotFound" = "Not Found";
 "MsgConfirm" = "Confirm";
@@ -147,7 +146,6 @@
 "BtnAccess" = "Access";
 "BtnNetworkSync" = "Network Sync";
 "BtnManagementConsole" = "Management Console";
-"BtnRemoveLoyalty" = "Remove\nLoyalty";
 
 "MsgYes" = "Yes";
 "MsgNo" = "No";
@@ -158,15 +156,9 @@
 "MsgNote" = "Note";
 
 "MsgDoYouWantToContinue" = "Do you want to continue?";
-"MsgDoYouHaveReceipt" = "Do you have a receipt?";
 
-"MsgApplicationIsDisabledJailbrokenDevicePart1" = "It appears that operating system of this device has been modified. In order to maintain security, Revel POS requires this to be corrected in order to run. Please contact ";
-"MsgApplicationIsDisabledRevelSupport" = "Revel Support";
-"MsgUnsupportedDevice" = "Unsupported Device";
-"MsgTakeMeThere" = "Take Me There!";
-"MsgApplicationUnsupportedHardwarePart1" = "Unfortunately, Rev is not\nsupported on your iPad. Please\nvisit the ";
-"MsgApplicationUnsupportedHardwarePart2" = " for a\ncomplete list of supported devices.";
-"MsgApplicationRevHelpCenter" = "Rev Help Center";
+"MsgApplicationIsDisabledJailbrokenDevice" = "It appears that operating system of this device has been modified. In order to maintain security, Revel POS requires this to be corrected in order to run. Please contact Revel support.";
+"MsgApplicationIsDisabledUnsupportedHardware" = "App may not be compatible with this device. Please check your hardware type.";
 
 "MsgPaymentDueWarning" = "Your monthly bill remains unpaid, despite multiple reminders. If this is not resolved immediately, your POS application access will be terminated.\n\nTo continue transacting, please make your payment using our billing portal by clicking on the link located at the top right end corner of your Revel management console. If you are not able to pay through the portal, please call our billing team between 9 AM and 6 PM PST at 415-744-1433 ext 3.\n\nThank you,\n\nRevel Systems";
 "MsgPaymentDueWarningDisableBackend" = "IMMEDIATE ACTION REQUIRED: Account Deactivation Imminent";
@@ -316,7 +308,6 @@
 "MsgGasStationNeedClear" = "Need to Clear";
 "MsgGasStationCantHoldTransaction" = "Can't hold transaction. Transaction includes fuel products.";
 "MsgGasStationCantRemoveTransaction" = "Can't remove current transaction. Transaction includes fuel products.";
-"MsgGasStationCantRefundTransaction" = "Can't refund current transaction. Transaction includes fuel products.";
 "MsgGasStationStopPumpConfirmation" = "Do you really want to stop pump %@?";
 "MsgGasStationStopAllPumpsConfirmation" = "Do you really want to stop ALL pumps?";
 "MsgGasStationConfirmationTitle" = "Confirmation:";
@@ -348,14 +339,10 @@
 "MsgGasStationPumpTestErrorCantProcess" = "To process the transaction as a Pump Test, please have only a single fuel item in the transaction.";
 
 "MsgGasStationPump"  = "Pump";
-"MsgGasStationPumps"  = "Pumps";
 "MsgGasStationHose"  = "Hose";
 "MsgGasStationSourceTank" = "Source Tank";
 "MsgGasStationTargetTank" = "Target Tank";
 "MsgGasStationTestAmount" = "Test Amount";
-
-"MsgGasStationPumpOrders"  = "Pump Orders";
-"MsgGasStationPumpNumberOrders"  = "Pump %d Orders";
 
 "MsgGasStationClearTypeNormal"    = "Normal";
 "MsgGasStationClearTypeTest"      = "Test";
@@ -482,9 +469,7 @@
 "MsgDiscountENTNotSupported" = "ENT Cards are not supported in current POS mode";
 "MsgDiscountENTCardCantUpdate" = "Balance of ENT card can't be updated";
 "MsgStoreCreditCardCantUpdate" = "Balance of Store Credit card can't be updated";
-"MsgDiscountPaymentsRestriction" = "%@ cannot be used with %@.";
-"MsgLoyaltyTierPaymentsRestriction" = "This rewards card cannot be used with these methods of payment:\n%@. Add Rewards Card to order?";
-"MsgLoyaltyTierDiscountRestriction" = "This discount is not allowed with this rewards card. Remove reward card?";
+"MsgDiscountPaymentsRestriction" = "{%@} cannot be used with\n{%@}. Continue?";
 
 "BtnDiscountScan" = "Scan";
 "BtnDiscountPart" = "% Discount";
@@ -557,9 +542,6 @@
 "BtnOrderPay" = "Pay";
 "BtnOrderPayAgain" = "Pay Again";
 
-"MsgOrderPaymentAmount" = "Payment Amount";
-"MsgOrderNoPaymentHaveBeenMade" = "No payments have been made";
-
 "BtnOrderSetGuestCount" = "Guest\nCount";
 "BtnOrderDeliveryClockOut" = "Driver\nClock Out";
 "BtnOrderDeliveryClockIn" = "Driver\nClock In";
@@ -588,7 +570,7 @@
 "BtnFindLinkedOrder" = "Find Linked\nOrders";
 "BtnOrderPrintInvoice" = "Print\nInvoice";
 "BtnOrderSendToKitchen" = "Send to\nKitchen";
-"BtnOrderNextBill" = "Round Up\nCash";
+"BtnOrderNextBill" = "Round Up Cash";
 "BtnOrderAddStoreCredit" = "Add\nStore Credit";
 
 "BtnInclude" = "Include";
@@ -693,7 +675,6 @@
 "MsgOrderTags" = "Tags";
 "MsgOrderCategory" = "Category";
 "MsgOrderSubCategory" = "Sub Category";
-"MsgOrderTagsUntaggedProducts" = "Untagged Products";
 "MsgOrderProducts" = "Products";
 "MsgOrderTopMenu" = "Top Menu";
 
@@ -748,15 +729,6 @@
 "MsgOrderExtraItem" = "Item";
 "BtnOrderAddItem" = "Add Item";
 "MsgOrderAddItemCopying" = "Copying Items";
-"MsgOrderAddItemRevProductName" = "PRODUCT NAME*";
-"MsgOrderAddItemRevPrice" = "PRICE*";
-"MsgOrderAddItemRevTax" = "TAX (PERCENTAGE)";
-"MsgOrderAddItemRevDescription" = "DESCRIPTION";
-"MsgOrderAddItemRevBarcode" = "BARCODE";
-"MsgOrderAddItemRevCost" = "COST";
-"MsgOrderAddItemRevAddPrinters" = "Add Printers";
-"MsgOrderAddItemRevPrinters" = "PRINTERS";
-"MsgOrderAddItemRevSelectPrinters" = "Select Printers";
 
 "MsgOrderPrintReceiptsTitle" = "Print Receipts";
 "MsgOrderPrintReceiptsPrintWhat" = "Order has credit card receipts. Which receipts would you like to print?";
@@ -835,7 +807,6 @@
 "MsgOrderOrdersPopoverSortPreference" = "Sort Preference";
 "MsgOrderUnsyncedOrder" = "Unsynced Order";
 "MsgOrderUnsyncedOrders" = "Unsynced Orders";
-"MsgOrderFiscalDocuments" = "Fiscal Documents";
 "MsgOrderOpenWebOrder" = "Open Online Order";
 "MsgOrderOpenWebOrders" = "Open Online Orders";
 "MsgOrderUnprinted" = "Unprinted";
@@ -855,6 +826,7 @@
 "MsgOrderFoundProductsWithSN" = "Found products with S/N %@";
 "MsgOrderProductWithIdNotFoundInDb" = "Failed to add combo.\nProduct with id \"%d\" not found.";
 "MsgOrderSearchBySN" = "Orders by S/N: ";
+"MsgOrderSearchBySNFromAnotheEstablishment" = "Order %@ was created on another establishment.  If you need to return this item, please go to Settings/Returns.";
 "MsgReceiptlessReturnSearchBySN" = "Find by S/N";
 "MsgOrderSerialNumberMissingTitle" = "Missing Serial Number(s)";
 "MsgOrderAddSerialNumbersBeforeContinuing" = "Please add serial numbers before continuing.";
@@ -1217,8 +1189,6 @@
 "MsgReceiptSiteId" = "Site ID";
 "MsgReceiptTerminalId" = "Terminal ID";
 
-"MsgSelecItemsToAddToOrder" = "Select items to add to the order";
-
 /* BAR TABS */
 
 "MsgBarTabNumber" = "Tab #";
@@ -1355,9 +1325,6 @@
 "MsgPaymentSwipeCreditCard" = "Swipe Credit Card";
 "MsgPaymentPayWithEFTPOS" = "Pay with EFTPOS";  //Do not translate
 "MsgPaymentPayWithAdyen" = "Pay with Adyen";  //Do not translate
-"MsgPaymentPayWithVerifoneOcius" = "VeriFone Ocius"; //Do not translate
-"MsgPaymentPayWithVerifonePoint" = "VeriFone Point"; //Do not translate
-"MsgPaymentPayWithIngenicoPosGate" = "Ingenico PosGate"; //Do not translate
 "MsgPaymentPayWithStanfordCard" = "Pay with Stanford Card";
 "MsgPaymentCardSwipeWaiting" = "Waiting for you to swipe a card.";
 "MsgPaymentCardSwipeBad" = "Bad Swipe!";
@@ -1619,8 +1586,6 @@
 "MsgTillAlertMessageToCashier" = "The cash in the till has exceeded the %@ limit.\n Please perform a safe drop now.";
 "MsgTillsTillNameSingular" = "Till";
 "MsgTillsReassignTill" = "Do you wish to reassign this till?";
-"MsgTillsReassignDrawer" = "Reassign Drawer";
-"MsgTillsDrawerOwnerChanged" = "Owner of '%@' changed.";
 "MsgTillsNoActiveTills" = "No active tills.";
 "MsgSystemHasActiveTills" = "System has active till owned by another employee.";
 "MsgTillMaxAmountReached" = "You have reached the cash limit %@ for this till. All transactions are now suspended.  Please perform a safe drop for this till to continue taking transactions or close/hold this till and open a new till.";
@@ -1733,7 +1698,6 @@
 
 /* SPECIAL REQUESTS */
 
-"MsgSpecialSpecialModifiers" = "Special Modifiers";
 "MsgSpecialRequestSelect" = "Select Special Request";
 "MsgSpecialRequestEnter" = "Enter Special Request";
 "MsgSpecialRequestTooLong" = "Special Request cannot be longer than 280 symbols";
@@ -1767,7 +1731,6 @@
 "Invoice" = "Invoice";
 "InvoiceCancel" = "Cancel Invoice";
 "OrderCancel" = "Cancel Order";
-"BtnConvertToOrder" = "Convert\nto Order";
 
 "MsgSplitItemTitle" = "Select Checks";
 "MsgSplitItemAddBill" = "Add Check";
@@ -1778,19 +1741,14 @@
 "ActionExchangeSeveralItems" = "Exchange Several Items";
 "ActionVoidSelectedItem" = "Void Selected Item";
 "ActionVoidSeveralItems" = "Void Several Items";
-"ActionRemoveSelectedItem" = "Remove Selected Item";
-"ActionRemoveSeveralItems" = "Remove Several Items";
 "ActionReturnSelectedItem" = "Return Selected Item";
 "ActionReturnSeveralItems" = "Return Several Items";
 "ActionVoidReturnSeveralItems" = "Void/Return Several Items";
 "ActionMoveSelectedItem" = "Move Selected Item";
 "ActionMoveSeveralItems" = "Move Several Items";
 "ActionChangeSeat" = "Change Seat";
-"ActionChangeSeatForAll" = "Change Seat For All";
 "ActionAddQuantity" = "Add Quantity";
-"ActionAddQuantityForAll" = "Add Quantity For All";
 "ActionDiscountItem" = "Discount Item(s)";
-"ActionDiscountForAll" = "Discount All Items";
 "ActionSplitItem" = "Split Item";
 "ActionEditModifiers" = "Edit Modifiers";
 "ActionChangeDining" = "Change Dining";
@@ -1801,24 +1759,16 @@
 "ActionCopyItems" = "Copy Several Items";
 "ActionLayawayItem" = "Layaway Item";
 "ActionLayawayItems" = "Layaway Items";
-"ActionLayawayItemsForAll" = "Layaway All Items";
 "ActionReprintItem" = "Reprint Item";
 "ActionReprintItems" = "Reprint Items";
 "ActionRemakeItem" = "Remake Item";
 "ActionRemakeItems" = "Remake Items";
 "ActionManageCommission" = "Allocate Commission";
 "ActionReprintToKitchen" = "Send to Kitchen";
-"ActionSendToKitchenItems" = "Send to Kitchen Item(s)";
-"ActionReprintToKitchenForAll" = "Send to Kitchen All";
 "ActionServiceFee" = "Service Fee";
-"ActionAddServiceFee" = "Add Service Fee";
-"ActionAddServiceFeeForAll" = "Add Service Fee For All";
 "ActionCompSelectedItem" = "%@ Selected Item";
 "ActionCompSeveralItems" = "%@ Several Items";
 "ActionReprintOrderItems" = "Reprint Item(s)";
-"ActionReprintOrderItemsForAll" = "Reprint All Items";
-"ActionRemakeOrderItems" = "Remake Item(s)";
-"ActionRemakeOrderItemsForAll" = "Remake All Items";
 "ActionSendSelectedItem" = "Send Selected Item";
 "ActionSendSeveralItems" = "Send Several Items";
 "ActionSendAllItems" = "Send All Items";
@@ -1827,34 +1777,23 @@
 "ActionDiscountSeveralItems" = "Discount Several Items";
 "ActionSelectItemsTo" = "Select Item(s) to %@";
 "ActionOverridePrice" = "Override Price";
-"ActionChangeDeliveryDate" = "Change Delivery Date";
-"ActionChangeDeliveryDateForAll" = "Change Delivery Date For All";
-"ActionCopyItemsForAll" = "Copy All Items";
 
 "ActionCopy" = "Copy Item(s)";
 "ActionVoid" = "Void Item(s)";
-"ActionVoidForAll" = "Void All Items";
 "ActionLayaway" = "Layaway";
 "ActionMove" = "Move Item(s)";
-"ActionMoveForAll" = "Move All Items";
 "ActionExchange" = "Exchange Item(s)";
-"ActionExchangeForAll" = "Exchange All Items";
 "ActionReturn" = "Return Item(s)";
 "ActionVoidReturn" = "Void/Return Item(s)";
 "ActionReturnToPump" = "Return To Pump";
 "ActionComp" = "Comp";
 "ActionComps" = "Comp Item(s)";
-"ActionCompForAll" = "Comp All Items";
 "ActionsForItem" = "Actions for [%@]";
 "AdditionalActions" = "Additional Actions";
 "ActionManageShipping" = "Manage Shipping";
-"ActionShipItems" = "Ship Item(s)";
-
 "MsgComp" = "Comp";
 
 "MsgActionScreenItemSentAt" = "Item sent at";
-
-"MsgNumberOfSelected" = "%ld selected";
 
 "GiftCardCreate" = "Create Certificate";
 "GiftCardManage" = "Manage Gift Card";
@@ -1980,16 +1919,7 @@
 "MsgDataStorageReportsOrderDiscounts" = "Order Discounts";
 "MsgDataStorageReportsCoupons" = "Coupons";
 "MsgDataStorageReportsTotalDiscounts" = "Total Discounts";
-"MsgDataStorageReportsDiscounts" = "Discounts";
-"MsgDataStorageReportsVoided" = "Voided";
 "MsgDataStorageReportsNetSales" = "Net Sales";
-"MsgDateStorageReportsHourlySalesTrans" = "Trans";
-"MsgDateStorageReportsHourlySalesItems" = "Items";
-"MsgDateStorageReportsHourlySalesAvgSale" = "Avg. Sale";
-"MsgDateStorageReportsHourlySalesSales" = "Sales";
-"MsgDateStorageReportsHourlySalesTotal" = "Total";
-"MsgDateStorageReportsLaborCost" = "Labor cost";
-"MsgDateStorageReportsLaborPercent" = "Labor %";
 "MsgDataStorageReportsSalesTax" = "Sales Tax";
 "MsgDataStorageReportsSurcharges" = "Surcharges";
 "MsgDataStorageReportsRoundingDeltas" = "Rounding Deltas";
@@ -1998,11 +1928,7 @@
 "MsgDataStorageReportsTotalTaxes" = "TOTAL TAXES";
 "MsgDataStorageReportsDepositTotal" = "Deposits";
 "MsgDataStorageReportsApplDepTotal" = "Appl.Dep.";
-"MsgDataStorageReportsDepositPayments" = "Deposit Payments";
 "MsgDataStorageReportsAppliedDepositsTotal" = "Applied Deposits";
-"MsgDataStorageReportsStoreToStoreReturns" = "Store to Store Returns";
-"MsgDataStorageReportsDueTo" = "Due To";
-"MsgDataStorageReportsDueFrom" = "Due From";
 "MsgDataStorageReportsTotalTax" = "Total Tax";
 "MsgDataStorageReportsNetToAccountFor" = "NET TO ACCOUNT FOR";
 "MsgDataStorageReportsNetToAccountForLower" = "Net to Account for";
@@ -2034,7 +1960,6 @@
 "MsgDataStorageReportsDueToFrom" = "Due To/Due From";
 "MsgDataStorageReportsCash" = "Cash";
 "MsgDataStorageReportsTips" = "TIPS";
-"MsgDataStorageReportsPayableTips" = "PAYABLE TIPS";
 "MsgDataStorageReportsTipsLowercase" = "Tips";
 "MsgDataStorageReportsCashTips" = "Cash Tips";
 "MsgDataStorageReportsCreditTips" = "Credit Tips";
@@ -2043,11 +1968,6 @@
 "MsgDataStorageReportsGiftTips" = "Gift Tips";
 "MsgDataStorageReportsDebitTips" = "Debit Tips";
 "MsgDataStorageReportsHouseAccountTips" = "House Account Tips";
-"MsgDataStorageReportsHouseAccount" = "House Account";
-"MsgDataStorageReportsHouseAccountPaymentsAgainst" = "Payments against HA";
-"MsgDataStorageReportsHouseAccountPaymentsWith" = "Payments with HA";
-"MsgDataStorageReportsAccrued" = "Accrued";
-"MsgDataStorageReportsRedeemed" = "Redeemed";
 "MsgDataStorageReportsSSMCTips" = "SSMC Tips";
 "MsgDataStorageReportsTradeTips" = "Trade Tips";
 "MsgDataStorageReportsWoraPayTips" = "WoraPay Tips";
@@ -2466,35 +2386,25 @@
 "MsgCustomerCompanyNameLabel" = "Company name:";
 "MsgCustomerAddressNameLabel" = "Address name:";
 "MsgCustomerCompleteRequiredFields" = "Please complete the missing required field(s).";
-"MsgCustomerRequiredField" = "Field is required";
-"MsgCustomerPhoneNumberisNotUniqueField" = "Phone # is not unique";
-"MsgCustomerEmailisNotUniqueField" = "Email is not unique";
 "MsgCustomerHasEnoughPoints" = "%@ has enough points for a reward.  Redeem now?";
 "MsgCustomerHasEnoughRewards" = "%@ has enough rewards.  Redeem now?";
 "MsgRewardCardsPromptToLinkCustomerTitle" = "Link Customer";
 "MsgRewardCardsPromptToLinkCustomer" = "Card %@ belongs to %@. Would you like to attach %@ to order?";
 "MsgRewardCardsPromptToLinkCustomerForExistingCard" = "Would you like to link customer to this card?";
-"MsgRewardCardsPromptToLinkCustomerToCard" = "Would you like to link customer to card %@?";
 "MsgRewardCardPoints" = "%d Points";
 "MsgRewardCardTotalPoints" = "%@ Points";
 "MsgRewardCardAddPoints" = "Add Item Points";
 "MsgRewardCardPromptToAddPoints" = "Would you like to add item points to %@'s rewards card?";
 "MsgRewardCardNumberPromptToAddPoints" = "Would you like to add item points to rewards card #%@?";
 "MsgRewardCardsManage" = "Manage Rewards";
-"MsgRewardsCard" = "Rewards Card";
+"MsgRewardsCard" = "Rewards card";
 "MsgRewardsCardNew" = "New Reward Card";
-"MsgLinkedRewardsCard" = "Linked Rewards Card";
-"MsgTotalRewardsPoints" = "Total Rewards Points";
-"MsgItemRewardsPoints" = "Item Rewards Points";
-"MsgTotalPurchasePoints" = "Total Purchase Points";
-"MsgTotalVisitPoints" = "Total Visit Points";
 "MsgRewardsCardNotUsedCreateNew" = "This rewards card has not been used before. Would you like to create a new rewards card?";
 "MsgRewardsCardNotUsedCreateNewForCustomer" = "This rewards card has not been used before. Would you like to create a new rewards card linked to %@?";
 "MsgRewardChooseRewardAccount" = "Choose reward account";
 "MsgRewardCardsCustomerHasNoCards" = "%@ does not yet have any linked rewards.";
 "MsgRewardCardIncorrectNumber" = "Card number was not found. Please try again.";
-"MsgRewardCardNumberNotFoundInSystem" = "No Rewards Card %@ found in system.";
-"MsgRewardCardDoYouWantToCreate" = "Do you want to create this reward card?";
+"MsgRewardCardNumberNotFound" = "%@ cannot be found.  Please try again.";
 "MsgRewardCardGeneratingNumber" = "Generating reward card number";
 "MsgRewardCardDiscountVisitsTitle" = "Visits reward discount";
 "MsgRewardCardDiscountPurchasesTitle" = "Purchases reward discount";
@@ -2545,8 +2455,6 @@
 "MsgRewardAutomaticLoyaltyGeneration" = "Automatic Loyalty Generation";
 "MsgRewardNewNumber" = "New Loyalty number for %@ is\n%@";
 "MsgRewardFetchingAwardingInformation" = "Fetching awarding information";
-"MsgRewardAddLoaylty"="Add Loyalty";
-"MsgEnterOrScanRewardsBarcode" = "Enter or Scan Rewards Card Barcode";
 
 /*Payment*/
 "BtnUpdateLinkedCard" = "Update Linked Card";
@@ -2618,8 +2526,6 @@
 "MsgGenPaymentGiftCardInfo" = "Gift Card Info";
 "MsgGenPaymentStoreCreditInfo" = "Store Credit Info";
 "MsgGenPaymentGiftCardActivationSuccessful" = "Activation Successful";
-"MsgGenPaymentGiftCardNumberNotFoundInSystem" = "No Gift Card %@ found in system.";
-"MsgGenPaymentGiftCardDoYouWantToCreate" = "Do you want to create this gift card?";
 "BtnGenPaymentAddValue" = "Add Value";
 "MsgGenPaymentAmountFormat" = "Amount";
 "MsgGenPaymentTipFormat" = "Tip";
@@ -2752,7 +2658,6 @@
 "MsgOrderFindOrderByID" = "Find Order by ID";
 "MsgOrderFindOrderByCallNumber" = "Find Order by Call Number";
 "MsgOrderCloseHeldOrders" = "Close Held Orders";
-"MsgOrderCloseHeldOrdersMessage" = "Are you sure you want to proceed? This will void any held orders that have not been paid in full. (Held orders with partial payment will not be affected).";
 "MsgOrderCloseOpenOrders" = "Close Open Orders";
 "MsgOrderScanBarCode" = "Scan Barcode";
 "MsgOrderinvalidScanBarCode" = "Invalid Scan Data. Please try again.";
@@ -2780,7 +2685,6 @@
 "MsgOrderNotActivatedGiftOrdersNotClosed" = "The following orders were not closed as the order has unactivated gift card(s).  Please resolve these orders manually:\n\n";
 "MsgOrderEnterOrderID" = "Enter Order ID";
 "MsgOrderEnterOrderIDorScanBarcode" = "Enter Order ID or Scan Barcode";
-"MsgOrderEnterOrderIDorScanReceiptBarcode" = "Enter Order ID or Scan Receipt Barcode";
 "MsgOrderEnterLast4CardDigits" = "Enter Last 4 Card Digits";
 "MsgOrderReverse" = "Reverse";
 "MsgOrderByTime" = "By Time";
@@ -2792,19 +2696,15 @@
 "MsgOrderLinkingCardToOrder" = "Linking Card ...";
 "MsgOrderPrintOpenChecks" = "Print Open Checks";
 "MsgManageCustomersSearchFieldPlaceHolderV2" = "Search by Name, Company, Phone, Email, Ref. Code";
-"MsgManageCustomersSearchFieldPlaceHolderLite" = "Search by Name, Company, Phone, Email";
 "MsgOrderHistSearchFieldPlaceHolder" = "Search by Order ID, Customer Name, Employee Name";
 "MsgTipProcessingSearchFieldPlaceHolder" = "Order ID, Customer";
-"MsgOrderHistSearchFieldPlaceHolderCallNumberCustomer" = "Call Number, Customer";
 "MsgOrderHistSearchFieldPlaceHolderInvoice" = "Search by Invoice ID, Customer Name, Employee Name";
 "MsgOrderHistSearchFieldPlaceHolderWeb" = "Search by Order ID, Customer Name";
-"MsgOrderHistSearchFieldPlaceHolderGasStation" = "Order ID, Customer Name, Pump #";
 "MsgOrderHistSearchFieldPlaceHolderCallNumber" = "Search by Call#, Customer Name, Employee Name";
 "MsgOrderHistSearchFieldPlaceHolderRevelLite" = "Search by Order ID, Employee Name";
 "MsgOrderHistSortByCustomerName" = "Customer Name";
 "MsgOrderHistSortByOrderType" = "Order Type";
 "MsgOrderHistOrderID" = "Order #";
-"MsgOrderHistCallID" = "Call #";
 "MsgOrderHistInvoiceID" = "Invoice #";
 "MsgOrderHistTableID" = "Table #";
 "MsgOrderHistCustomerName" = "Customer";
@@ -2830,8 +2730,6 @@
 "MsgSomeModifiersNoLongerAvailable" = "Some of the modifiers above are no longer available.";
 "MsgSomeProductsCantbeReordered" = "Some of the products cannot be re-ordered and must be added to the new order manually.";
 "MsgOrderHistFailedToLoadOrder" = "Failed to load order. Please try again.";
-"MsgOrderTotalItem" = "Total Item:";
-"MsgOrderLastAdded" = "Last Added:";
 
 /*Fullscreen Order*/
 "MsgOrderTotalItems" = "Total Items";
@@ -2846,7 +2744,6 @@
 "BtnCustomerManageAddresses" = "Manage\nAddresses";
 "MsgCustomerFilter" = "Filter";
 "MsgCustomerEnterName" = "Enter Name";
-"MsgCustomerEnterNumber" = "Enter Number";
 "MsgCustomerEnterPhone" = "Enter Phone";
 "MsgCustomerEnterRef" = "Enter Ref Code";
 "MsgCustomerEnterEmail" = "Enter Email";
@@ -2941,11 +2838,6 @@
 "MsgCustomerServerSearching" = "Searching Server...";
 "MsgCustomerServerSearchTooShort" = "Must be at least %ld symbols to search server.";
 "MsgCustomerServerSearch" = "Search Server";
-"MsgCustomerSelectCountry" = "Select Country";
-"MsgCustomerSelectState" = "Select State";
-"MsgCustomerUnlinkCardConfirmation" = "Are you sure you want to unlink this card?";
-"MsgCustomerViewPastOrders" = "View Past Orders";
-"MsgCustomerCantAddToOrder" = "Can't add customer to the order. Customer details are not complete.";
 
 /*Check Scanner*/
 "MsgServicesCheckScanPrinterError" = "Printer Error";  //Do not translate
@@ -2959,8 +2851,6 @@
 "MsgGenServicesPhoto" = "Photo Edit Mode";
 "MsgGenServicesAddPhoto" = "Add Photo";
 "MsgGenServicesAssociatePhotoProduct" = "Associate a photo to a product.";
-"MsgGenServicesAssociatePhotoCategory" = "Associate a photo to a category.";
-"MsgGenServicesAssociatePhotoSubCategory" = "Associate a photo to a subcategory.";
 "MsgGenServicesCamera" = "Camera";
 "BtnGenServicesPhotoLibrary" = "Photo Library";
 "MsgUploadingImage" = "Uploading image";
@@ -3080,7 +2970,6 @@
 /*Settings - Tills*/
 "MsgScreenDollars" = "Dollars";
 "MsgScreenCurrencySign" = "$";
-"MsgScreenCurrency" = "Currency";
 "MsgScreenOtherTotal" = "Other Total";
 "MsgScreenSumTotal" = "Sum Total";
 "MsgScreenTillManagementCheckout" = "Checkout";
@@ -3088,9 +2977,7 @@
 "MsgScreenByAmount" = "Amt.";
 "MsgScreenByCoinType" = "Coin\nType";
 "MsgScreenSetCashDatetime" = "Till was set on";
-"MsgScreenSetCashDatetimeShift" = "Till was set. Your shift starts on";
 "MsgScreenTillsCLosedDate" = "Till was closed on";
-"MsgScreenTillsClosedDateShift" = "Till was closed. Your shift has ended at";
 "MsgScreenTillManagementPayOut" = "Pay-Out";
 "MsgScreenEnterPayOutReason" = "Enter Pay-Out Reason";
 "MsgScreenTillManagementPayIn" = "Pay-In";
@@ -3106,8 +2993,6 @@
 "MsgScreenPrintEmptySafeDrop" = "Print Empty Safe Drop";
 "MsgScreenAmountSafe" = "Amount in Safe";
 "MsgScreenSafeDrop" = "Safe Drop";
-"MsgScreenEnvelopeNumber" = "Envelope Number";
-"MsgScreenOptional" = "(Optional)";
 "MsgScreenTotalEndingCash" = "Total Ending Cash:";
 "MsgScreenEndingCash" = "Ending Cash:";
 "MsgScreenTotalStartingCash" = "Total Starting Cash:";
@@ -3171,7 +3056,7 @@
 "MsgScreenTillsBills" = "Bills";
 "MsgScreenTillsCoins" = "Coins";
 "MsgScreenTillsTotalEndingCash" = "Total Ending Cash";
-"MsgScreenTillsVariance" = "Variance";
+"MsgScreenTillsOverUnder" = "Over/Under";
 "MsgScreenTillsPresetReasons" = "Preset Reasons";
 
 /*Settings*/
@@ -3203,35 +3088,6 @@
 "MsgScrSettingsLock" = "Lock";
 "MsgScrSettingsLogging" = "Logging";
 "MsgScrSettingsBluetoothFiltering" = "Bluetooth Filtering";
-"MsgScrSettingsBluetooth" = "Bluetooth";
-"MsgScrSettingsEthernet" = "Ethernet";
-"MsgScrSettingsReceiptPrinter" = "Receipt Printer";
-"MsgScrSettingsKitchenPrinter" = "Kitchen Printer";
-"MsgScrSettingsCustomerDisplays" = "Customer Displays";
-"MsgScrSettingsCustomerDisplay" = "Customer Display";
-"MsgScrSettingsConnectedDevices" = "Connected %@";
-"MsgScrSettingsShowConnectedDevices" = "Only Show Connected %@";
-"MsgScrSettingsMAC" = "MAC Address";
-"MsgScrSettingsNickname" = "Nickname";
-"MsgScrSettingsDeviceType" = "%@ Type";
-"MsgScrSettingsDeviceHelp" = "%@ Setup";
-"MsgScrSettingsDeviceHelpSetupPrinters" = "Need additional help setting up your printers?";
-"MsgScrSettingsDeviceHelpCenter" = "Visit our Help Center";
-"MsgScrSettingsDeviceHelpCenterFull" = "For Full Help, Visit Rev’s Support Site";
-"MsgScrSettingsConnectionType" = "Connection Type";
-"MsgScrSettingsWifi" = "Wifi";
-"MsgScrSettingsAllDevices" = "All %@";
-"MsgScrSettingsShowAllDevices" = "Show All %@";
-"MsgScrSettingsScanForDevices" = "Scan For %@";
-"MsgScrSettingsDeactivateDeviceTitle" = "Deactivate Device";
-"MsgScrSettingsDeactivateDevice" = "Are you sure you want to deactivate this device?";
-"MsgScrSettingsPrintTestPage" = "Print Test Page";
-"MsgScrSettingsTestDrawer" = "Test Drawer";
-"MsgScrSettingsTestDrawerInfo" = "Cash Drawers must be connected to an active Receipt Printer. Please make sure your printer is powered on and connected before testing the Cash Drawer.";
-"MsgScrSettingsTestBarcodeScannerInfo" = "Barcode Scanners must be paired with this iPad via Bluetooth. For instructions on pairing your scanner, tap the Help button below or visit the Help Center.";
-"MsgScrSettingsNeedHelpPrinters" = "Need help with your printers?";
-"MsgScrSettingsVisitHelpCenter" = "Visit our Help Center";
-"MsgScrSettingsDeviceInformation" = "%@ Information";
 "MsgScrSettingsTableFiltering2" = "Table Filtering";
 "MsgScrSettingsQuestPinPadManager" = "Quest PinPad Manager";
 "MsgScrSettingsPOSSettings" = "POS Settings";
@@ -3339,10 +3195,7 @@
 "MsgScrSettingsTills" = "Tills";
 "MsgScrSettingsSelectCurrentTill" = "Select Current Till";
 "MsgScrSettingsCurrentTill" = "Current Till";
-"MsgScrSettingsDiscoverHardware" = "Discover Hardware";
 "MsgScrSettingsCashDrawers" = "Cash Drawers";
-"MsgScrSettingsCardReaders" = "Card Readers";
-"MsgScrSettingsBarcodeScanners" = "Barcode Scanners";
 "MsgScrSettingsOfflineCreditCards" = "Offline Credit Cards";
 "MsgScrSettingsPaymentConfiguration" = "Payment Configuration";
 "MsgScrSettingsSystemInfo" = "System Info";
@@ -3739,8 +3592,6 @@
 "MsgScrOrderApplyDiscount" = "Apply Discount";
 "MsgScrOrderHelp" = "Help";
 "MsgScrOrderRemoveItems" = "Remove Items";
-"MsgScrOrderRemoveItem" = "Remove Item";
-"MsgScrOrderVoidItem" = "Void Item";
 "MsgScrOrderThankYouApproved" = "Approved.\nThank you!";
 "MsgScrOrderNotManagersPIN" = "PIN Entered is not a Manager PIN! Please try again!";
 "MsgScrOrderReceiptManager" = "Receipt Manager";
@@ -3756,10 +3607,8 @@
 "MsgScrOrderAdjustCourseBuffer" = "Adjust Course Buffer";
 "MsgScrOrderOverrideAutoFireFeature" = "This will override the auto-fire feature.\n Remaining courses of this order must be sent manually.";
 
-"MsgPromiseTimeTakeAwayMin" = "Your order will be ready in approximately %d minutes";
-"MsgPromiseTimeDeliveryMin" = "Your order will arrive in approximately %d minutes";
-"MsgPromiseTimeTakeAwayHr" = "Your order will be ready in approximately %d:%02d hours";
-"MsgPromiseTimeDeliveryHr" = "Your order will arrive in approximately %d:%02d hours";
+"MsgPromiseTimeTakeAway" = "Your order will be ready in approximately %d minutes";
+"MsgPromiseTimeDelivery" = "Your order will arrive in approximately %d minutes";
 
 "MsgScrOrderSetTillBeforePerformAction" = "The till must be set before the\n desired action can be performed.";
 "MsgScrOrderSetTillContactManager" = "Till must be set.\nPlease contact your manager";
@@ -3777,13 +3626,6 @@
 "BtnPromptSelectCallName" = "Select a\nCall Name";
 "BtnPromptAddSerialNumber" = "Add Serial Numbers";
 "BtnPromptChooseItemsForLocalDelivery" = "Choose Item(s) for Local Delivery";
-
-"MsgScrExpandLabelMore" = "more";
-"MsgScrExpandLabelLess" = "less";
-
-"MsgSrcNoPermissionTodayOrders" = "You do not have permission to access Today's Orders. Please contact your manager for access.";
-"MsgSrcNoPermissionOpenOrders" = "You do not have permission to access Open Orders. Please contact your manager for access.";
-"MsgSrcEnterManagerPin" = "Enter Manager PIN";
 
 /*Libraries*/
 /*AdyenService*/
@@ -3843,6 +3685,15 @@
 /*Quest Payment*/
 "MsgLibQuestPayment" = "Quest Payment";  //Do not translate
 "MsgLibQuestIsSignatureCorr" = "Is the signature correct?";  //Do not translate
+
+/*BlueBamboo*/
+"MsgLibBBPortablePrinterStatus" = "Portable Printer Status";  //Do not translate
+"MsgLibBBP25iHasConn" = "P25i is Connected";  //Do not translate
+"MsgLibBBP25iHasDisConn" = "P25i is Disconnected";  //Do not translate
+"MsgLibBBPortablePrinterError" = "Portable Printer Error";  //Do not translate
+"MsgLibBBP25iNotConn" = "P25i is not Connected. Please check the cable.";  //Do not translate
+"MsgLibBBBusy" = "Busy printing... Try again later...";  //Do not translate
+"MsgLibBBTextLength0" = "Nothing to print. Text length is ZERO.";  //Do not translate
 
 /*MagTek*/
 "MsgLibMagTekPortableCardSwipe" = "Portable Card Swipe";
@@ -4003,7 +3854,6 @@
 "MsgApplyCoupon" = "Apply Coupon";
 "MsgApplyCouponPRNotAllowed" = "PR coupon is not available in this flow";
 "MsgCouponIsNotAvailable" = "Coupon is not available at this site.";
-"MsgCouponNoApplicableItems" = "This order does not meet the requirements for this coupon, so no discount will be applied.";
 
 
 /* Inventory */
@@ -4094,11 +3944,6 @@
 "MsgInventoryUpdateCost" = "Update Cost";
 "MsgInventoryAdjustCost" = "Adjust Cost";
 "MsgInventoryPriceUpdated" = "Price Updated";
-"MsgInventoryPriceUpdateSuccessful" = "Price Update Successful";
-"MsgInventoryPriceUpdateFailed" = "Price Update Failed";
-"MsgInventoryPriceUpdateFailedDescription" = "Price was unable to be updated due to connection issues. Please try again later or contact Support for assistance.";
-"MsgInventoryPriceUpdateSuccessDescription" = "Prices were successfully updated on all synced POS. If any POS present a price mismatch error upon next fuel transaction, cancel the transaction and process sale on this POS. Please refresh the POS or perform this same price update process on that and all other POS additionally.";
-"MsgInventoryPriceUpdateSuccessNotSyncedDescription" = "Prices were successfully updated on ITL controller, but unable to sync new prices to the other POS stations";
 "MsgInventoryCostUpdated" = "Cost Updated";
 "MsgInventoryNewPrice" = "New Price: %@";
 "BtnShowResultsPrinterDetails" = "Print Details";
@@ -4146,8 +3991,6 @@
 "MsgInventoryReceivedSerialNumbers" = "Received";
 "MsgInventoryWastedSerialNumbers" = "Wasted";
 "MsgInventoryMatchedSerialNumbers" = "Matched";
-"MsgInventoryLookup" = "Inventory Lookup";
-"MsgInventoryAtThisLocation" = "at this location";
 
 "MsgInventoryCheckingInventory" = "Checking Inventory...";
 "MsgInventorySerialNumberIs" = "with serial number";
@@ -4637,8 +4480,6 @@
 "MsgEditModeSearchPlaceholder" = "Search Name, Barcode, SKU, or ALU";
 "MsgEditModeEnterInfoBelow" = "Enter information below, then press save.";
 "MsgEditCreateNewProduct" = "Create a New Product";
-
-"MsgEditLabelPricingOptions" = "Pricing Options";
 
 "MsgSpecifiedProductOutOfStock" = "Product %@ is out of stock.";
 "MsgProductsFromComboOutOfStock" = "The following product(s) are out of stock:";
@@ -5526,7 +5367,6 @@
 "MsgVoidSelectItems" = "Item(s) to Void";
 "MsgReturnSelectItems" = "Item(s) to Return";
 "MsgVoidReturnSelectItems" = "Item(s) to Void/Return";
-"MsgRemoveSelectItems" = "Item(s) to Remove";
 "MsgCompSelectItems" = "Item(s) to Comp";
 "MsgVoidQtyLeft" = "Qty Left";
 
@@ -5703,8 +5543,6 @@
 "MsgForecourtControllerTimeNotMatch" = "Forecourt Controller and POS time does not match.";
 "MsgForecourtControllerTapHere" = "Tap here";
 "MsgForecourtControllerTimeNotMatchBriefText" = "Forecourt Controller and POS time does not match. This can cause issues with reporting and fiscal devices. Please check POS time, and if it is correct, contact Support for further assistance";
-"MsgCantConnectToEnabler" = "Can't connect to Enabler";
-"MsgCantConnectToRevelCloud" = "Can't connect to Revel cloud";
 
 //Move merge orders
 "BtnMoveOrdersMove" = "Move";
@@ -5825,10 +5663,7 @@
 
 "MsgPriceChangesWarning" = "Warning: Your configuration station is not set on the backend. Your Forecourt Controller will not be updated.";
 "MsgPriceChangesCurrentPrice" = "Current Price";
-"MsgPriceChangesFuturePrice" = "Future Price";
 "MsgPriceChangesNewPrice" = "New Price";
-"MsgFuelPriceChanges" = "Fuel Price Changes";
-"MsgPriceConfirmPriceUpdate" = "Prices will be immediately updated on any pumps not in use. Confirm price update?";
 "MsgPriceChangesWetstockMessage" = "Price changes for Wetstock are available.";
 "MsgGasStationSettingsRefreshRequired" = "Settings update and/or price changes are waiting to be accepted.";
 "MsgAppliedPumpPricePrice" = "Applied Pump Price";
@@ -5868,7 +5703,6 @@
 "MsgITLSendMeterReadings" = "Send Meter Readings";
 "MsgITLFetchingMeterReadings" = "Fetching meter readings";
 "MsgITLFetchingMeterReadingsFailed" = "Fetch failed";
-"MsgITLLogoutRequestFailed" = "ITL logout request failed";
 
 //hints
 "MsgHintPosSettings" = "POS Settings";
@@ -6065,7 +5899,6 @@
 
 //Individual/Company customers
 
-"MsgCustomerType" = "Customer Type";
 "MsgCustomerIndividual" = "Individual";
 "MsgCustomerCompany" = "Company";
 
@@ -6291,7 +6124,6 @@
 "MsgSettingsShowReports" = "Show Reports";
 "MsgSettingsSecondary" = "Secondary";
 "MsgSettingsCardSwipe" = "Card Swipe";
-"MsgSettingsCardReader" = "Card Reader";
 "MsgSettingsScale" = "Scale";
 "MsgSettingsCoinDispenser" = "Coin Dispenser";
 "MsgSettingsRFIDReader" = "RFID Reader";
@@ -6395,6 +6227,7 @@
 
 // Scheduled Database dump
 "MsgScheduledDatabaseDump" = "Scheduled Backup";
+"MsgScheduledDatabaseDumpAlert" = "This POS station has been scheduled to upload its database to the cloud.\n\n Press Cancel to abort the upload. \n Press Delay to postpone this alert by a minute. \n Press OK to logout now and being the upload.";
 "MsgScheduledDatabaseDumpNotificationBody" = "Time to send backup";
 
 // Revel Lite Welcome Tour & Onboarding
@@ -6415,7 +6248,6 @@
 //ITL updater messages
 "MsgFetchingGradesFromItl" = "Fetching Grades from ITL";
 "MsgFetchingPriceProfiles" = "Fetching Price Profiles";
-"MsgLoadingPrices" = "Loading Prices";
 "MsgUploadingPrices" = "Uploading Prices";
 "MsgUploadingGradeNames" = "Uploading Grade Names";
 
@@ -6444,424 +6276,12 @@
 "MsgGasAtgPrintReadings" ="Polling successful. Would you like to print these readings?";
 
 "MsgPrinterPleaseCheckPaper" = "Please check the receipt paper and confirm that the printer cover is closed. Then press OK. Printing receipt will be continued.";
-
 //Charts
-"MsgChartTop10" = "Top 10";
 "MsgChartNoData" = "no data available";
-"MsgChartOptionsTitle" = "Options";
-"MsgChartTotal" = "Total";
 "MsgChartViewBy" = "VIEW BY";
 "MsgChartView" = "VIEW";
-"MsgChartViewThousandSuffix" = "K";
-"MsgChartViewMillionSuffix" = "M";
 "MsgProductMixReport" = "Product Mix";
 "MsgPieChartQty" = "Quantity Sold";
 "MsgPieChartProfit" = "Profits";
 "MsgPieChartByQty" = "by Quantity Sold";
 "MsgPieChartByProfit" = "by Profit";
-
-// Rev Hardware
-"MsgRevDiscoverHardware" = "Discover Hardware";
-"MsgRevScanForDevices" = "Scan for Devices";
-"MsgRevConnectDevices" = "Connect Devices";
-"MsgBarcodeScanners" = "Barcode Scanners";
-"MsgNeedHelpSettingUpDevices" = "Need help setting up your devices?";
-"MsgBeforeScanningForHardware" = "Before scanning for hardware, please make sure all Bluetooth devices are paired with this iPad and Ethernet devices are connected to the same wireless network.";
-"MsgVisitOurHelpCenter" = "Visit our Help Center";
-"MsgSelectDevicesToConnect" = "Select the devices you'd like to connect to your POS.";
-
-// Device discover
-"MsgReceiptPrinter" = "Receipt Printer";
-"MsgReceiptPrinters" = "Receipt Printers";
-"MsgKitchenPrinter" = "Kitchen Printer";
-"MsgKitchenPrinters" = "Kitchen Printers";
-"MsgCardReader" = "Card Reader";
-"MsgCardReaders" = "Card Readers";
-"MsgDeviceDiscoverDiscoverHardware" = "Discover Hardware";
-"MsgDeviceDiscoverScanForDevices" = "Scan for Devices";
-"MsgDeviceDiscoverConnectDevices" = "Connect Devices";
-"MsgDeviceDiscoverBarcodeScanners" = "Barcode Scanners";
-"MsgDeviceDiscoverNeedHelpSettingUpDevices" = "Need help setting up your devices?";
-"MsgDeviceDiscoverBeforeScanningForHardware" = "Before scanning for hardware, please make sure all Bluetooth devices are paired with this iPad and Ethernet devices are connected to the same wireless network.";
-"MsgDeviceDiscoverVisitOurHelpCenter" = "Visit our Help Center";
-"MsgDeviceDiscoverSelectDevicesToConnect" = "Select the devices you'd like to connect to your POS.";
-"MsgDeviceDiscoverNotFinding" = "Not finding anything? Please make sure all devices are paired and/or connected to your network.";
-"MsgDeviceDiscoverNoDevicesFound" = "No Devices Found";
-"MsgDeviceDiscoverReplace" = "Replace";
-"MsgDeviceDiscoverMultipleDevicesTitle" = "Multiple %@";
-"MsgDeviceDiscoverMultipleDevicesText" = "It looks like there's already an active %@ assigned to the POS. Would you like to replace it?";
-"MsgDeviceDiscoverSuccessfullyConnected" = "The devices listed below have now been successfully connected to your POS.";
-"MsgDeviceDiscoverTestPageNotPrinting" = "Test page not printing?";
-"MsgDeviceDiscoverTapTestButton" = "Tap the Test button to print a test page.";
-"MsgDeviceDiscoverSelectSingleDevice" = "Please select a single device to connect.";
-
-// EOD tooltips
-"MsgEODTooltipReconcileOpenOrders" = "If there are any orders left open, this screen will show orders left with an outstanding balance. On each order, you can then select 'Carry to Next Day', 'Void', or 'Make a Payment' to manually close and reconcile the orders.\n\nIf there are no orders with outstanding balances, you’ll see a checkbox signifying that all open orders are properly closed.";
-"MsgEODTooltipOfflinePayments" = "This screen will display all orders that have not been sent to the server because they were created when the system was offline. Tap the order to manually push it to the server.";
-"MsgEODTooltipDeclinedPayments" = "This screen will display all credit card payments that were taken when the system was in Offline Mode but were declined when they were eventually sent to the payment processor.";
-"MsgEODTooltipProcessAllCreditCards" = "Any unsynced credit card payments will show up on this screen, along with the reason for the unsynced payment (e.g., 'Check Internet Connection')";
-"MsgEODTooltipConfirmEmployeeTimeCards" = "This screen will display all employees who have not been clocked out.\n\nYou can choose to have them 'Continue Shift' or 'Clock Out'.";
-"MsgEODTooltipCloseAllTills" = "'Close All Tills' displays a list of tills that have not been closed. Tap 'Close Tills' in the top right corner to go to the till 'Checkout' window.";
-"MsgEODTooltipAdditionalTasks" = "Based on your entry selection in the Management Console, this screen will display miscellaneous steps that need to be completed before closing out for the day.\n\nWhen complete, tap 'Mark as Complete' to finish.";
-"MsgEODTooltipUnsyncedQueue" = "'Unsynced Queue' displays any orders that have not been sent to the server. On this page, you can manually force the items to send.";
-"MsgEODTooltipSyncFailures" = "This log will display a list of all orders and items that have not synced to the server.";
-"MsgEODTooltipPrintReport" = "Tap 'Print Report' to print your sales report for the day. You can choose to consolidate employees’ sales into one report or print all employees’ sales individually.";
-"MsgEODTooltipPrintFiscalReports" = "The Print icon gives you the ability to print year-to-date reports for sales conducted on the Point of Sale.";
-"MsgEODTooltipLockChildStations" = "This feature prevents employees from accessing child stations until the End-of-Day Process is complete.";
-"MsgEODTooltipCheckInProgressOrders" = "This screen displays a list of all open or outstanding orders.";
-"MsgEosTillTotalAmount" = "The total amount in this till is %@.";
-"MsgEosDoSafeDrop" = "Please do a safe drop for %@ which will leave a starting amount of %@ for the next shift.";
-
-// Rev trial mode.
-"MsgRevTrialModeCreditTitle" = "Add Secure Payment Processing";
-"MsgRevTrialModeCreditMessage" = "Revel has teamed up with TSYS and Freedompay to bring you fast, easy payment processing at the lowest rates possible.\nTo configure your Payment Settings, visit revelsystems.com/rev and Go Live!";
-"MsgRevTrialModeHardwareTitle" = "Rev Has Hardware to Help Run Your Business ";
-"MsgRevTrialModeHardwareMessage" = "From Printers to Card Readers, Cash Drawers to Barcode Scanners, we can help you choose devices that will seamlessly integrate with your POS.\nTo configure your Hardware Settings, visit revelsystems.com/rev and Go Live!";
-"BtnRevTrialModeUpgradeNow" = "Upgrade Now";
-"MsgRevTrialModeTrialPeriodExpiredTitle" = "Trial Period Expired";
-"MsgRevTrialModeTrialPeriodExpiredMessage" = "Your trial period has expired. To keep your work up to this point and get access to Rev's full functionality, you'll need to activate the full Rev solution within (%d) days.";
-"BtnRevTrialModeNotYet" = "Not Yet";
-"MsgRevTrialModeCallbackTitle" = "Talk to You Soon!";
-"MsgRevTrialModeCallbackMessage" = "You will be contacted within one business day by a Rev specialist who will help you get set up on the full Rev solution, including integrated payment processing and hardware.";
-"BtnRevTrialModeButtonBackToPOS" = "Back to the POS";
-"MsgRevTrialModeRemainingDays" = "%d Days Remaining on your Trial";
-"MsgRevTrialModeDiscoverHardware" = "Rev has the unique ability to discover local hardware that integrates seamlessly with your POS.\nTo access this feature, you'll need to activate the full Rev solution.";
-
-// ifsf
-"MsgIFSFEmployeeNotConfigured" = "OPT Employee is not configured";
-"MsgIFSFEpsNotConfigured" = "Invalid EPS configuration. Please check Backend settings.";
-
-// Countries in format 'Country' + <Country_Code> = 'Translated Country Name', e.g. CountryAR = Argentina
-"CountryAF" = "Afghanistan";
-"CountryAX" = "Aland Islands";
-"CountryAL" = "Albania";
-"CountryDZ" = "Algeria";
-"CountryAS" = "American Samoa";
-"CountryAD" = "Andorra";
-"CountryAO" = "Angola";
-"CountryAI" = "Anguilla";
-"CountryAQ" = "Antarctica";
-"CountryAG" = "Antigua and Barbuda";
-"CountryAR" = "Argentina";
-"CountryAM" = "Armenia";
-"CountryAW" = "Aruba";
-"CountryAU" = "Australia";
-"CountryAT" = "Austria";
-"CountryAZ" = "Azerbaijan";
-"CountryBS" = "Bahamas";
-"CountryBH" = "Bahrain";
-"CountryBD" = "Bangladesh";
-"CountryBB" = "Barbados";
-"CountryBY" = "Belarus";
-"CountryBE" = "Belgium";
-"CountryBZ" = "Belize";
-"CountryBJ" = "Benin";
-"CountryBM" = "Bermuda";
-"CountryBT" = "Bhutan";
-"CountryBO" = "Bolivia";
-"CountryBA" = "Bosnia and Herzegovina";
-"CountryBW" = "Botswana";
-"CountryBV" = "Bouvet Island";
-"CountryBR" = "Brazil";
-"CountryIO" = "British Indian Ocean Territory";
-"CountryBN" = "Brunei Darussalam";
-"CountryBG" = "Bulgaria";
-"CountryBF" = "Burkina Faso";
-"CountryBI" = "Burundi";
-"CountryKH" = "Cambodia";
-"CountryCM" = "Cameroon";
-"CountryCA" = "Canada";
-"CountryCV" = "Cape Verde";
-"CountryKY" = "Cayman Islands";
-"CountryCF" = "Central African Republic";
-"CountryTD" = "Chad";
-"CountryCL" = "Chile";
-"CountryCN" = "China";
-"CountryCX" = "Christmas Island";
-"CountryCC" = "Cocos (Keeling) Islands";
-"CountryCO" = "Colombia";
-"CountryKM" = "Comoros";
-"CountryCG" = "Congo";
-"CountryCD" = "Congo, The Democratic Republic of the";
-"CountryCK" = "Cook Islands";
-"CountryCR" = "Costa Rica";
-"CountryCI" = "Cote d\'Ivoire";
-"CountryHR" = "Croatia";
-"CountryCU" = "Cuba";
-"CountryCY" = "Cyprus";
-"CountryCZ" = "Czech Republic";
-"CountryDK" = "Denmark";
-"CountryDJ" = "Djibouti";
-"CountryDM" = "Dominica";
-"CountryDO" = "Dominican Republic";
-"CountryEC" = "Ecuador";
-"CountryEG" = "Egypt";
-"CountrySV" = "El Salvador";
-"CountryGQ" = "Equatorial Guinea";
-"CountryER" = "Eritrea";
-"CountryEE" = "Estonia";
-"CountryET" = "Ethiopia";
-"CountryFK" = "Falkland Islands (Malvinas)";
-"CountryFO" = "Faroe Islands";
-"CountryFJ" = "Fiji";
-"CountryFI" = "Finland";
-"CountryFR" = "France";
-"CountryGF" = "French Guiana";
-"CountryPF" = "French Polynesia";
-"CountryTF" = "French Southern Territories";
-"CountryGA" = "Gabon";
-"CountryGM" = "Gambia";
-"CountryGE" = "Georgia";
-"CountryDE" = "Germany";
-"CountryGH" = "Ghana";
-"CountryGI" = "Gibraltar";
-"CountryGR" = "Greece";
-"CountryGL" = "Greenland";
-"CountryGD" = "Grenada";
-"CountryGP" = "Guadeloupe";
-"CountryGU" = "Guam";
-"CountryGT" = "Guatemala";
-"CountryGG" = "Guernsey";
-"CountryGN" = "Guinea";
-"CountryGW" = "Guinea-Bissau";
-"CountryGY" = "Guyana";
-"CountryHT" = "Haiti";
-"CountryHM" = "Heard Island and McDonald Islands";
-"CountryVA" = "Holy See (Vatican City State)";
-"CountryHN" = "Honduras";
-"CountryHK" = "Hong Kong";
-"CountryHU" = "Hungary";
-"CountryIS" = "Iceland";
-"CountryIN" = "India";
-"CountryID" = "Indonesia";
-"CountryIR" = "Iran, Islamic Republic of";
-"CountryIQ" = "Iraq";
-"CountryIE" = "Ireland";
-"CountryIM" = "Isle of Man";
-"CountryIL" = "Israel";
-"CountryIT" = "Italy";
-"CountryJM" = "Jamaica";
-"CountryJP" = "Japan";
-"CountryJE" = "Jersey";
-"CountryJO" = "Jordan";
-"CountryKZ" = "Kazakhstan";
-"CountryKE" = "Kenya";
-"CountryKI" = "Kiribati";
-"CountryKP" = "Korea, Democratic People\'s Republic of";
-"CountryKR" = "Korea, Republic of";
-"CountryKW" = "Kuwait";
-"CountryKG" = "Kyrgyzstan";
-"CountryLA" = "Lao People\'s Democratic Republic";
-"CountryLV" = "Latvia";
-"CountryLB" = "Lebanon";
-"CountryLS" = "Lesotho";
-"CountryLR" = "Liberia";
-"CountryLY" = "Libyan Arab Jamahiriya";
-"CountryLI" = "Liechtenstein";
-"CountryLT" = "Lithuania";
-"CountryLU" = "Luxembourg";
-"CountryMO" = "Macao";
-"CountryMK" = "Macedonia, The Former Yugoslav Republic of";
-"CountryMG" = "Madagascar";
-"CountryMW" = "Malawi";
-"CountryMY" = "Malaysia";
-"CountryMV" = "Maldives";
-"CountryML" = "Mali";
-"CountryMT" = "Malta";
-"CountryMH" = "Marshall Islands";
-"CountryMQ" = "Martinique";
-"CountryMR" = "Mauritania";
-"CountryMU" = "Mauritius";
-"CountryYT" = "Mayotte";
-"CountryMX" = "Mexico";
-"CountryFM" = "Micronesia, Federated States of";
-"CountryMD" = "Moldova";
-"CountryMC" = "Monaco";
-"CountryMN" = "Mongolia";
-"CountryME" = "Montenegro";
-"CountryMS" = "Montserrat";
-"CountryMA" = "Morocco";
-"CountryMZ" = "Mozambique";
-"CountryMM" = "Myanmar";
-"CountryNA" = "Namibia";
-"CountryNR" = "Nauru";
-"CountryNP" = "Nepal";
-"CountryNL" = "Netherlands";
-"CountryAN" = "Netherlands Antilles";
-"CountryNC" = "New Caledonia";
-"CountryNZ" = "New Zealand";
-"CountryNI" = "Nicaragua";
-"CountryNE" = "Niger";
-"CountryNG" = "Nigeria";
-"CountryNU" = "Niue";
-"CountryNF" = "Norfolk Island";
-"CountryMP" = "Northern Mariana Islands";
-"CountryNO" = "Norway";
-"CountryOM" = "Oman";
-"CountryPK" = "Pakistan";
-"CountryPW" = "Palau";
-"CountryPS" = "Palestinian Territory, Occupied";
-"CountryPA" = "Panama";
-"CountryPG" = "Papua New Guinea";
-"CountryPY" = "Paraguay";
-"CountryPE" = "Peru";
-"CountryPH" = "Philippines";
-"CountryPN" = "Pitcairn";
-"CountryPL" = "Poland";
-"CountryPT" = "Portugal";
-"CountryPR" = "Puerto Rico";
-"CountryQA" = "Qatar";
-"CountryRE" = "Reunion";
-"CountryRO" = "Romania";
-"CountryRU" = "Russian Federation";
-"CountryRW" = "Rwanda";
-"CountryBL" = "Saint Barthelemy";
-"CountrySH" = "Saint Helena";
-"CountryKN" = "Saint Kitts and Nevis";
-"CountryLC" = "Saint Lucia";
-"CountryMF" = "Saint Martin";
-"CountryPM" = "Saint Pierre and Miquelon";
-"CountryVC" = "Saint Vincent and the Grenadines";
-"CountryWS" = "Samoa";
-"CountrySM" = "San Marino";
-"CountryST" = "Sao Tome and Principe";
-"CountrySA" = "Saudi Arabia";
-"CountrySN" = "Senegal";
-"CountryRS" = "Serbia";
-"CountrySC" = "Seychelles";
-"CountrySL" = "Sierra Leone";
-"CountrySG" = "Singapore";
-"CountrySK" = "Slovakia";
-"CountrySI" = "Slovenia";
-"CountrySB" = "Solomon Islands";
-"CountrySO" = "Somalia";
-"CountryZA" = "South Africa";
-"CountryGS" = "South Georgia and the South Sandwich Islands";
-"CountryES" = "Spain";
-"CountryLK" = "Sri Lanka";
-"CountrySD" = "Sudan";
-"CountrySR" = "Suriname";
-"CountrySJ" = "Svalbard and Jan Mayen";
-"CountrySZ" = "Swaziland";
-"CountrySE" = "Sweden";
-"CountryCH" = "Switzerland";
-"CountrySY" = "Syrian Arab Republic";
-"CountryTW" = "Taiwan, Province of China";
-"CountryTJ" = "Tajikistan";
-"CountryTZ" = "Tanzania, United Republic of";
-"CountryTH" = "Thailand";
-"CountryTL" = "Timor-Leste";
-"CountryTG" = "Togo";
-"CountryTK" = "Tokelau";
-"CountryTO" = "Tonga";
-"CountryTT" = "Trinidad and Tobago";
-"CountryTN" = "Tunisia";
-"CountryTR" = "Turkey";
-"CountryTM" = "Turkmenistan";
-"CountryTC" = "Turks and Caicos Islands";
-"CountryTV" = "Tuvalu";
-"CountryUG" = "Uganda";
-"CountryUA" = "Ukraine";
-"CountryAE" = "United Arab Emirates";
-"CountryGB" = "United Kingdom";
-"CountryUS" = "United States";
-"CountryUM" = "United States Minor Outlying Islands";
-"CountryUY" = "Uruguay";
-"CountryUZ" = "Uzbekistan";
-"CountryVU" = "Vanuatu";
-"CountryVE" = "Venezuela";
-"CountryVN" = "Vietnam";
-"CountryVG" = "Virgin Islands, British";
-"CountryVI" = "Virgin Islands, U.S.";
-"CountryWF" = "Wallis and Futuna";
-"CountryEH" = "Western Sahara";
-"CountryYE" = "Yemen";
-"CountryZM" = "Zambia";
-"CountryZW" = "Zimbabwe";
-
-"USAStateAL" = "Alabama";
-"USAStateAK" = "Alaska";
-"USAStateAS" = "American Samoa";
-"USAStateAZ" = "Arizona";
-"USAStateAR" = "Arkansas";
-"USAStateCA" = "California";
-"USAStateCO" = "Colorado";
-"USAStateCT" = "Connecticut";
-"USAStateDE" = "Delaware";
-"USAStateDC" = "District of Columbia";
-"USAStateFM" = "Federated States of Micronesia";
-"USAStateFL" = "Florida";
-"USAStateGA" = "Georgia";
-"USAStateGU" = "Guam";
-"USAStateHI" = "Hawaii";
-"USAStateID" = "Idaho";
-"USAStateIL" = "Illinois";
-"USAStateIN" = "Indiana";
-"USAStateIA" = "Iowa";
-"USAStateKS" = "Kansas";
-"USAStateKY" = "Kentucky";
-"USAStateLA" = "Louisiana";
-"USAStateME" = "Maine";
-"USAStateMH" = "Marshall Islands";
-"USAStateMD" = "Maryland";
-"USAStateMA" = "Massachusetts";
-"USAStateMI" = "Michigan";
-"USAStateMN" = "Minnesota";
-"USAStateMS" = "Mississippi";
-"USAStateMO" = "Missouri";
-"USAStateMT" = "Montana";
-"USAStateNE" = "Nebraska";
-"USAStateNV" = "Nevada";
-"USAStateNH" = "New Hampshire";
-"USAStateNJ" = "New Jersey";
-"USAStateNM" = "New Mexico";
-"USAStateNY" = "New York";
-"USAStateNC" = "North Carolina";
-"USAStateND" = "North Dakota";
-"USAStateMP" = "Northern Mariana Islands";
-"USAStateOH" = "Ohio";
-"USAStateOK" = "Oklahoma";
-"USAStateOR" = "Oregon";
-"USAStatePW" = "Palau";
-"USAStatePA" = "Pennsylvania";
-"USAStatePR" = "Puerto Rico";
-"USAStateRI" = "Rhode Island";
-"USAStateSC" = "South Carolina";
-"USAStateSD" = "South Dakota";
-"USAStateTN" = "Tennessee";
-"USAStateTX" = "Texas";
-"USAStateUT" = "Utah";
-"USAStateVT" = "Vermont";
-"USAStateVI" = "Virgin Islands";
-"USAStateVA" = "Virginia";
-"USAStateWA" = "Washington";
-"USAStateWV" = "West Virginia";
-"USAStateWI" = "Wisconsin";
-"USAStateWY" = "Wyoming";
-
-//Customers
-
-"MsgCustomersFlowCustomers" = "Customers";
-"MsgCustomersFlowCallNames" = "Call Names";
-"MsgCustomersFlowSearchFieldPlaceholder" = "Name, Phone #, Email, Ref Code";
-"MsgCustomersFlowSearchFieldPlaceholderV2" = "Name, Phone #, Email, Ref Code, Company";
-
-"MsgCustomerDetailsReferenceCode" = "Reference Code";
-
-"MsgCustomerScreenBasicDetailsHeaderTitle" = "BASIC DETAILS";
-"MsgCustomerScreenOtherDetailsHeaderTitle" = "OTHER DETAILS";
-"MsgCustomerScreenAddressHeaderTitle" = "ADDRESSES";
-"MsgCustomerScreenVehicleHeaderTitle" = "VEHICLES";
-"MsgCustomerScreenGiftCards" = "GIFT CARDS";
-"MsgCustomerScreenRewardCard" = "REWARD CARD";
-"MsgCustomerScreenOutstandingBalance" = "Outstanding Balance";
-
-"MsgCustomerEditAddAddress" = "Add Address";
-"MsgCustomerEditAddVehicle" = "Add Vehicle";
-"MsgCustomerEditAddGiftCard" = "Add Gift Card";
-"MsgCustomerEditAddRewardCard" = "Add Reward Card";
-
-"MsgCustomerAdressCellStreet1" = "Street Address 1";
-"MsgCustomerAdressCellStreet2" = "Street Address 2";
-"MsgCustomerAdressCellDefaultBillingAddress" = "Default Billing Address";
-"MsgCustomerAdressCellDefaultShippingAddress" = "Default Shipping & Delivery Address";

@@ -1962,6 +1962,7 @@ MsgOrderHistDateDue,Data di scadenza
 MsgOrderHistEmployeeName,Nome dipendente
 MsgOrderHistOrderTotal,Totale
 MsgOrderHistPrintId,Stampa
+MsgOrderHistInvoiced,Project-Id-Version: \nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2017-03-02 17:03:54\nPO-Revision-Date: 2017-03-02 17:03:54\nLast-Translator: \nLanguage-Team: \nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nLanguage: it\nPlural-Forms: nplurals=2; plural=(n != 1);\nX-Generator: Poedit 1.8.7\n
 MsgOrderHistBar,Bar n.%d
 MsgOrderInvoiceToOrderConfirmation,Questo creerà un ordine dalla fattura. Sei sicuro?
 MsgOrderFullyPaidInvoiceToOrderConfirmation,Questa fattura è pagata interamente.\nConvertila a un ordine?

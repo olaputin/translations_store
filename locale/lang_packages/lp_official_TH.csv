@@ -1,0 +1,3686 @@
+LocaleIdentifier,TH
+LanguageName,Thai
+MsgError,ข้อผิดพลาด
+MsgConfirm,ยืนยัน
+MsgWarning,ข้อควรระวัง!
+MsgInfo,ข้อมูล
+MsgActions,การดำเนินการ
+BtnOK,ตกลง
+BtnSelect,เลือก
+BtnCancel,ยกเลิก
+BtnApply,สมัคร
+BtnDownload,ดาวน์โหลด
+BtnEnter,ป้อนข้อมูล
+BtnBack,ย้อนกลับ
+BtnAdd,เพิ่ม
+BtnStarting,ตั้งต้น
+BtnStart,เริ่ม
+BtnUpdate,อัปเดต
+BtnManage,ผู้จัดการ
+BtnActual,ค่าจริง
+BtnClose,ปิด
+BtnCLOSE,ปิด
+BtnYes,ใช่
+BtnNo,ไม่ใช่
+BtnSelectAll,เลือกทั้งหมด
+BtnUnselectAll,ยกเลิกการเลือกทั้งหมด
+BtnCustomer,ลูกค้า
+BtnManual,คู่มือ
+BtnSkip,ข้าม
+BtnSend,ส่ง
+BtnEdit,แก้ไข
+BtnSignIn,เข้าสู่ระบบ
+BtnShowAll,แสดงทั้งหมด
+BtnOpen,เปิด
+BtnRetry,ลองใหม่
+BtnAccept,ยอมรับ
+BtnReload,โหลดใหม่
+BtnRefresh,รีเฟรช
+BtnSave,บันทึก
+BtnDone,เสร็จเรียบร้อย
+BtnPrint,พิมพ์
+BtnPrintLog,พิมพ์บันทึก
+BtnDismiss,ยกเลิก
+BtnRefund,การขอคืนเงิน
+BtnLogin,เข้าสู่ระบบ
+BtnClear,ลบ
+BtnPay,ชำระเงิน
+BtnStack,เรียงซ้อน
+BtnExport,ส่งออก
+BtnOriginal,ดั้งเดิม
+BtnCustom,กำหนดเอง
+BtnCheckout,เช็กเอาต์
+BtnAddToOrder,เพิ่มไปยังคำสั่งซื้อ
+BtnSubmit,ส่ง
+BtnAddTip,เพิ่มทิป
+BtnOverride,แทนที่
+BtnDelete,ลบ
+BtnCapture,เก็บข้อมูล
+BtnCreateNew,สร้างใหม่
+BtnCredit,เครดิต
+BtnPrintAll,พิมพ์ทั้งหมด
+BtnVersionStatus,สถานะรุ่น
+BtnBankKeyInit,เริ่มต้นคีย์ธนาคาร
+BtnConnect,เชื่อมต่อ
+BtnDisconnect,ยกเลิกการเชื่อมต่อ
+BtnREPRINT,พิมพ์อีกครั้ง
+BtnADDTIP,เพิ่มทิป
+BtnOptions,ตัวเลือก
+BtnLogout,ออกจากระบบ
+BtnInventory,สินค้าคงเหลือ
+BtnDefault,ค่าเริ่มต้น
+BtnClosed,ปิด
+BtnWait,รอ
+BtnDriveOff,ทำเครื่องหมายเป็น\nนำออก
+BtnProceed,รายรับ
+BtnNext,ถัดไป
+BtnNegative,ติดลบ
+BtnNoReceipt,ไม่มีใบเสร็จ
+BtnEmail,อีเมล
+BtnFind,ค้นหา
+BtnOther,อื่น ๆ
+BtnAddNew,เพิ่มใหม่
+BtnOwn,ของตัวเอง
+BtnResetAllBalances,ตั้งค่าทั้งหมดใหม่
+BtnReset,ตั้งค่าใหม่
+BtnChange,เปลี่ยนแปลง
+BtnContinue,ดำเนินการต่อ
+BtnStartOver,เริ่มใหม่
+BtnConfirm,ยืนยัน
+BtnCancelPayment,ยกเลิก\nการชำระเงิน
+BtnCancelServiceFee,ยกเลิก\nค่าธรรมเนียมการบริการ
+BtnSubmitTicket,ส่งตั๋ว
+BtnSendTicket,ส่งตั๋ว
+MsgSearch,ค้นหา
+MsgConnecting,กำลังเชื่อมต่อ...
+MsgInvalidPIN,PIN ไม่ถูกต้อง
+MsgDebugMode,โหมดแก้จุดบกพร่อง
+MsgEnterAmount,ป้อนจำนวนเงิน
+MsgTipIncluded,รวมถึง
+MsgTipIncludedShort,การบริการ ค่าธรรมเนียม รายรับ
+MsgConnectionFailed,การเชื่อมต่อล้มเหลว
+MsgConnectionLost,การเชื่อมต่อ
+MsgErrorOnPrinting,เกิดข้อผิดพลาดขึ้นขณะที่กำลังพิมพ์
+BtnTextSMS,SMS
+BtnRemove,ลบออก
+BtnEnterNewEmail,ป้อนอีเมล
+MsgDeleted,ลบแล้ว
+BtnMenu,เมนูสุดฮิต
+BtnCashDrawerTills,ลิ้นชักเก็บเงิน
+BtnAccess,ยอมรับ
+BtnNetworkSync,เครือข่าย SSID:
+BtnManagementConsole,จัดการลูกค้า
+MsgYes,ใช่
+MsgNo,ไม่ใช่
+MsgWith,พร้อมด้วย
+MsgWithAbbreviation,พร้อมด้วย
+MsgWrongVersion,เวอร์ชันเครื่องบริการ POS %@ แตกต่างจากเวอร์ชันเครื่องบริการหลัก %@ ต้องแน่ใจว่าเวอร์ชันตรงกันเพื่อคืนค่าการสื่อสารระหว่างเครื่องบริการ
+MsgWrongTime,เวอร์ชันเครื่องบริการ POS %@ แตกต่างจากเวอร์ชันเครื่องบริการหลัก %@ ต้องแน่ใจว่าเวอร์ชันตรงกันเพื่อคืนค่าการสื่อสารระหว่างเครื่องบริการ
+MsgMainStationAbsent,โปรดตั้งค่าเครื่องบริการหลักเพื่อสื่อสารกับเซิร์ฟเวอร์
+MsgInvalidNetwork,เครื่องพิมพ์ และเครื่องรูดบัตรจะไม่ทำงาน หากคุณไม่ได้เชื่อมต่อกับเครือข่ายสัญญาณไร้สาย Revel ที่ถูกต้อง
+MsgSettingsRefreshRequired,จำเป็นต้องรีเฟรชการตั้งค่า  โปรดออกจากระบบ และการรีเฟรชจะเริ่มโดยอัตโนมัติ
+MsgTroubleshootModeIsOnAlert,โหมดการแก้ปัญหาเปิดทำงานอยู่ ไปยังการตั้งค่าผู้จัดการ และเลือกโหมดการแก้ปัญหาเพื่อปิดการทำงาน
+MsgProductName,ชื่อผลิตภัณฑ์
+MsgActionCancelled,การดำเนินการถูกยกเลิก
+MsgWaitingForPinPad,กำลังรอ PinPad
+MsgPurchaseCorrection,การแก้ไขการสั่งซื้อ
+MsgPaymentNotAddedToCurrentOrder,การชำระเงินไม่ได้ถูกเพิ่มไปยังคำสั่งซื้อปัจจุบัน\nโปรดติดต่อฝ่ายช่วยเหลือลูกค้า!
+MsgPaymentFailedToAddCurrentOrder,ล้มเหลวในการเพิ่มการชำระเงินไปยังคำสั่งซื้อปัจจุบัน รหัสข้อผิดพลาด - %d\nโปรดติดต่อฝ่ายช่วยเหลือลูกค้า!
+MsgUnableToCompletePayment,คุณกำลังพยายามปิดตั๋วที่ %@ เป็นเจ้าของ  โปรดป้อนรหัสผ่านผู้ดูแลระบบเพื่อดำเนินการต่อ
+MsgUnableToCompletePaymentSwipeCard,คุณกำลังพยายามปิดตั๋วที่ %@ เป็นเจ้าของ  โปรดรูดบัตรผู้ดูแลระบบเพื่อดำเนินการต่อ
+MsgUpdating,การอัปเดต
+MsgSyncingToCloud,การซิงก์ไปยังคลาวด์
+MsgUINotificationShowingNotificationNumberFromStack,แสดง 1 จาก %d
+MsgSelected,ที่เลือกไว้
+MsgPaypalPaymentMaxAmount,จำนวนเงินสูงสุดสำหรับการชำระเงินผ่านบัตรเครดิตคือ %@
+MsgPaypalTipAmountExceed,จำนวนเงินทิปไม่สามารถเกินกว่าจำนวนเงินบนใบเสร็จ
+MsgPayPalOrderHasSplitBills,คำสั่งซื้อมีการแยกบิล โปรดชำระแต่ละบิลแยกต่างหาก
+MsgCrashTitle,ดูเหมือนว่าเครื่องบริการ POS จะมีปัญหา
+MsgCrashPlaceholder,โปรดบอกสิ่งที่คุณกำลังกระทำอยู่ ขณะที่เครื่องมีปัญหาโดยสังเขป
+MsgScalesNet,สุทธิ 
+MsgScalesMultiplyTare,ทวีคูณน้ำหนักภาชนะ
+MsgScalesSetTare,ตั้งค่าน้ำหนักภาชนะ
+MsgScalesEnterWeight,ป้อนน้ำหนัก
+MsgScalesTare,น้ำหนักภาชนะ
+MsgScalesOverrideError,คุณสามารถแทนที่น้ำหนักได้ เมื่อน้ำหนักที่ปรากฏเท่ากับ 0.0 เท่านั้น
+MsgScalesSelectTareCount,เลือกจำนวนรวมน้ำหนักภาชนะ
+MsgScalesCurrentTare,น้ำหนักภาชนะปัจจุบัน
+MsgScalesWeight,น้ำหนัก
+MsgScalesPrice,ราคา
+MsgScalesInputTare,ตั้งค่าน้ำหนักภาชนะ
+MsgScalesEnterTareWeight,ป้อนน้ำหนัก
+MsgBarcodeScanProduct,สแกนผลิตภัณฑ์
+MsgBarcodeScanDiscountCode,สแกนรหัสส่วนลด
+MsgBarcodeEnterBarcode,ป้อนบาร์โค้ด
+MsgBarcodeEnterBarcodeWithTouch,แตะที่นี่เพื่อป้อนบาร์โค้ด
+MsgBarcodeProductNotFound,ไม่พบผลิตภัณฑ์ที่มีบาร์โค้ดที่ป้อนไว้\n%@\n
+MsgBarcodeProductCloseMatch,ไม่พบรายการที่ตรงกันโดยสมบูรณ์ รายการที่ใกล้เคียงกัน:
+MsgBarcodeTheExactMatchesFound,พบรายการที่ตรงกัน:
+MsgBarcodeSelectProduct,เลือกผลิตภัณฑ์
+MsgBarcodeNameorBarcode,ชื่อ หรือบาร์โค้ด
+MsgBarcodeNameorBarcodePhone,ชื่อ/บาร์โค้ด
+MsgBarcodeProductNotActive,ผลิตภัณฑ์ที่มีบาร์โค้ดที่ป้อนไว้\n%@\nไม่มีการใช้งาน
+MsgMeasureUnitKilograms,กิโลกรัม
+MsgMeasureUnitLiters,ลิตร
+MsgMeasureUnitGallons,แกลลอน
+MsgMeasureUnitCubicMeters,ลูกบาศก์เมตร
+MsgMeasureUnitShortKilograms,กก.
+MsgMeasureUnitShortLiters,ล.
+MsgMeasureUnitShortGallons,ก.
+MsgMeasureUnitShortCubicMeters,ลบ.ม.
+BtnPayTransaction,ชำระเงิน \n การทำรายการ
+BtnClearTransaction,ล้าง \n การทำรายการ
+BtnStackTransaction,เรียงซ้อน \n การทำรายการ
+BtnGasStationActionBlockPump,ปิดกั้น \n ปั๊ม
+BtnGasStationActionUnblockPump,ยกเลิกการปิดกั้น \n ปั๊ม
+BtnGasStationActionTogglePumpLights,ปิดเปิด \n ไฟปั๊ม
+BtnGasStationActionStopAllPumps,หยุด \n ปั๊มทั้งหมด
+BtnGasStationActionStopPump,หยุด \n ปั๊ม
+BtnGasStationActionReservePump,จอง \n ปั๊ม
+BtnGasStationActionCancelReservePump,ยกเลิก \n การจอง
+BtnGasStationActionAuthorizePump,อนุญาต \n ปั๊ม
+BtnGasStationActionCancelAuthorizePump,ยกเลิก \n การอนุญาต
+BtnGasStationActionPausePump,หยุดชั่วคราว \n การจ่าย
+BtnGasStationActionResumePump,เริ่ม \n การจ่ายใหม่
+BtnGasStationForecourtConnectionLost,การเชื่อมต่อลานหน้าอาคารหายไป กำลังเชื่อมต่อใหม่อีกครั้ง
+BtnGasStationForecourtConnected,เชื่อมต่อลานหน้าอาคารแล้ว
+BtnGasStationFuelling,การให้เชื้อเพลิง
+MsgGasStationChooseTransactionToWork,จัดการการทำรายการ:
+MsgLockedBy,ล็อกโดย
+MsgConfirmation,การยืนยัน
+MsgGasStationDriveOffTitle,รายการ %@ ต้องการความสนใจ
+MsgGasStationCantHoldTransaction,ไม่สามารถระงับการทำรายการได้ การทำรายการรวมถึงผลิตภัณฑ์เชื้อเพลิง
+MsgGasStationStopPumpConfirmation,คุณต้องการปิดปั๊ม %@ หรือไม่
+MsgGasStationStopAllPumpsConfirmation,คุณต้องการปิดปั๊มทั้งหมดหรือไม่
+MsgGasStationConfirmationTitle,การยืนยัน:
+MsgGasStationCantAddFuelProductHoseBlocked,ไม่สามารถเพิ่มผลิตภัณฑ์เชื้อเพลิงไปยังการทำรายการ สายยางถูกบล็อก
+MsgGasStationFuelTransactionIsAlreadyInTheOrderCloseCurrent,เชื้อเพลิง Txn #%d ได้รับการชำระเงินในการทำรายการ #%@ แล้ว โปรดเลือกการทำรายการปัจจุบันเพื่อเปิดการทำรายการในอดีต
+MsgGasStationFuelTransactionIsAlreadyInTheOrder,เชื้อเพลิง Txn #%d ได้รับการชำระเงินในการทำรายการ #%@ แล้ว
+MsgGasStationFuelGrade,เกรดเชื้อเพลิง
+MsgGasStationDueAmount,จำนวนเงินที่ครบกำหนดชำระ
+MsgGasStationVolume,ปริมาตร
+MsgGasStationCanNotLogOutFromEnabler,ไม่สามารถออกจากระบบจาก Enabler EMB\nโปรดลองอีกครั้ง
+MsgGasStationTestAmount,จำนวนเงินที่ครบกำหนดชำระ
+MsgGasStationClearTypeNormal,ปกติ
+MsgGasStationClearTypeTest,ทดสอบ
+MsgGasStationClearTypeDriveOff,นำออก
+MsgGasStationAuthorizePromptTitle,อนุญาต %@หรือไม่
+MsgGasStationCantAuthorizePump,ไม่สามารถอนุญาต %@ ปั๊มถูกบล็อก
+MsgGasStationCantManagePump,ไม่สามารถจัดการ %@ ปั๊มนี้ถูกจองโดยขั้วปลายสายไฟที่มีรหัส %d
+MsgGasStationPumpAskingAuthorization,ปั๊มนี้กำลังร้องขอการอนุญาต คุณต้องการอนุญาตหรือไม %@่?
+MsgGasStationTransaction#,การทำรายการ # %@
+BtnGasStationHeaderOrders,การทำรายการ
+BtnPinLogin,เข้าสู่ระบบ
+BtnPinClockIn,เข้างาน
+BtnPinClockOut,ออกงาน
+BtnPinRefresh,รีเฟรช
+BtnPinClear,ลบ
+BtnSwipeLogin,เข้าสู่ระบบด้วยการรูดบัตร
+BtnPinReset,ตั้งค่าใหม่
+MsgClockOutBreak,เวลาพัก
+BtnEndBreak,หมดเวลาพัก
+MsgOrdersReportWarningOpenUnsyncedOrders,คุณมีคำสั่งซื้อที่เปิดอยู่ และ/หรือไม่ได้ซิงก์ข้อมูล:
+MsgOrdersReportWarningCloseOrders,โปรดปิดคำสั่งซื้อของคุณก่อน และรอคำสั่งซื้อนั้นซิงก์ข้อมูล หรือป้อน PIN ผู้ดูแลระบบเพื่อทำการออกงานอย่างเสร็จสมบูรณ์
+BtnManagerOverride,แทนที่โดย\nผู้จัดการ
+BtnClockInAsRole,เข้างานในฐานะ\n%@
+MsgPaidBreak,เวลาพักที่ได้รับการจ่ายเงิน
+MsgUnpaidBreak,เวลาพักที่ไม่ได้รับการจ่ายเงิน
+MsgPinDataNotDownloaded,ข้อมูลเมนูไม่ได้ถูกดาวน์โหลดจากเซิร์ฟเวอร์
+MsgPinRefreshDataTitle,รีเฟรช POS
+MsgPinRefreshDataContent,การรีเฟรช POS อาจใช้เวลาสักครู่หนึ่ง และควรจะได้รับการดำเนินการเมื่อระบบส่วนหลังเปลี่ยนไป คุณต้องการดำเนินการต่อหรือไม่?
+MsgPinUserNotLocked,ผู้ใช้ไม่ได้ถูกปิดกั้นไว้ที่ POS นี้
+MsgPinUserIdIsNotAssigned,รหัสผู้ใช้ไม่ได้รับการกำหนดไว้\nโปรดรีเฟรชสถานี POS
+MsgPinUnableToAccessPos,ไม่สามารถเข้าใช้งาน POS
+MsgUserRequireAdminCardSwipe,ผู้ใช้นี้ต้องใช้บัตรผู้ดูแลระบบเพื่อเข้าสู่ระบบ
+MsgPinInvalidPin,คุณป้อน PIN ไม่ถูกต้อง\nโปรดลองอีกครั้ง
+MsgPinPOSNotSet,ไม่มีการตั้งค่าการติดตั้ง หรือเครื่องบริการ POS!\n\nโปรดรีเฟรช!
+MsgPinVersion,เวอร์ชัน: %@\nMAC Address สำหรับอุปกรณ์นี้:\n %@
+MsgPinSelectStation,เลือกเครื่องบริการ
+MsgPinResetConfirm,ลบข้อมูลทั้งหมด และตั้งค่าแอปพลิเคชันใหม่หรือไม่?
+MsgPinSentToEmail,PIN ของคุณถูกส่งไปยัง %@
+MsgPinPleaseUsePinToLogin,โปรดใช้ 1234 เพื่อเข้าสู่ระบบแอป POS ระบบ Revel
+MsgPinInvalidIdentification,เครื่องบริการชำระเงิน รหัส %@’ %@ ไม่ตรงกับการตั้งค่าระบบส่วนหลัง
+MsgPinInvalidIPAddress,ที่อยู่ไอพี ของเครื่องบริการชำระเงิน ‘%@’ ไม่ตรงกับการตั้งค่าระบบส่วนหลัง
+MsgPinIdentificationUpdateSuccess,อัปเดตเครื่องบริการชำระเงิน รหัส ‘%@’ สำเร็จแล้ว โปรดรีเฟรชทุกเครื่อง
+MsgPinIdentificationUpdateFail,การอัปเดตเครื่องบริการชำระเงิน รหัส ‘%@’ ล้มเหลว 
+MsgPinIPAddressUpdateSuccess,อัปเดตที่อยู่ไอพีของเครื่องบริการชำระเงิน ‘%@’ สำเร็จแล้ว โปรดรีเฟรชทุกเครื่อง
+MsgPinIPAddressUpdateFail,การอัปเดตที่อยู่ไอพีของเครื่องบริการชำระเงิน ‘%@’ ล้มเหลว
+MsgPinInvalidSettingsTitle,การตั้งค่าของคุณไม่ตรงกัน
+MsgPinInvalidLoginMethod,โปรดเข้าสู่ระบบผ่านทางการรูดบัตร  การป้อนข้อมูลเองไม่ได้รับการสนับสนุน
+MsgPinRedirectedPrintersInfo,คุณมี %d เครื่องพิมพ์ที่ได้เชื่อมโยงใหม่
+MsgUserRequireAdminCard,ผู้ใช้นี้ต้องใช้บัตรผู้ดูแลระบบเพื่อ %@
+MsgProvisionEnterPin,ป้อน PIN ที่จัดหาให้
+MsgProvisionPin,PIN ที่จัดหาให้
+MsgDiningTitle,การรับประทานอาหาร
+MsgDiningOrderOptionTitle,ตัวเลือกคำสั่งซื้อ
+MsgDiningTakeOut,นำกลับบ้าน
+MsgDiningWebOrder,คำสั่งซื้อออนไลน์
+MsgDiningWebInvoice,ใบแจ้งหนี้ทางเว็บ
+MsgDiningCatering,บริการจัดเตรียมอาหาร
+MsgDiningDriveThrough,ขับผ่าน
+MsgDiningShipping,การส่งมอบ
+MsgDiningOther,อื่น ๆ
+MsgDiningRetail,การขายปลีก
+MsgDiscountTitle,ส่วนลด
+MsgDiscountSelectItemTitle,เลือกรายการสำหรับส่วนลด
+MsgDiscountSelectDiscount,เลือกส่วนลด
+MsgDiscountItemAmountTooSmall,รายการไม่สอดคล้องกับจำนวนเงินขั้นต่ำสุดสำหรับส่วนลด
+MsgDiscountAmount,จำนวนเงิน
+MsgDiscountValue,มูลค่า
+MsgDiscountPercent,ร้อยละ
+MsgDiscountReprice,กำหนดราคาใหม่
+MsgDiscountEnterAmount,ป้อนจำนวนเงิน
+MsgDiscountEnterValue,ป้อนมูลค่า
+MsgDiscountTaxed,เรียกเก็บภาษี
+MsgDiscountEnterReason,ป้อนเหตุผล
+MsgDiscountEnterReasonAndAmount,โปรดป้อนทั้งเหตุผล และจำนวนเงิน
+MsgDiscountEnterAnotherReason,โปรดป้อนเหตุผลส่วนลดอื่น ๆ 
+MsgDiscountNoDiscountsForCode,ไม่พบส่วนลดที่ยังคงใช้งานได้ สำหรับรหัสส่วนลดที่จัดเตรียมไว้
+MsgDiscountLoaylTreeWait,กำลังรอการตอบสนองจาก LoyalTree
+MsgDiscountLoaylTreeTitle,LoyalTree
+MsgDiscountLoaylTreeReset,เพื่อขอใช้ส่วนลดนี้ คุณต้องยกเลิกรางวัล LoyalTree ก่อน
+MsgDiscountSavingValue,กำลังบันทึก
+MsgDiscountType,ประเภทส่วนลด
+BtnDiscountScan,สแกน
+BtnDiscountPart,% ส่วนลด
+BtnDiscountNoDiscount,ไม่มีส่วนลด
+BtnApplyDiscounts,ขอใช้ส่วนลด
+MsgChoosePrevailingTaxes,เลือกภาษีทั่วไป
+MsgTitleSelectTaxExeptionReason,เลือกเหตุผลการยกเว้นภาษี
+MsgTaxExemptionReasonPaidWithEBT,ชำระเงินด้วย EBT
+MsgTaxExemptionReasonColdItem,รายการที่ยังไม่ได้ปรุงที่จะจัดส่ง
+MsgTaxExemptionReasonColdItemDelivery,การจัดส่งรายการที่ยังไม่ได้ปรุง
+MsgTaxExemptionReasonTaxFreeCustomer,ลูกค้าที่ไม่ต้องจ่ายภาษี
+MsgTaxExemptionReasonZeroTaxRate,อัตราภาษีเป็นศูนย์
+MsgServiceFeeTitle,ค่าธรรมเนียมการบริการ
+MsgServiceFeeAmountOff,จำนวนเงินที่เพิ่ม
+MsgServiceFeeAmount,จำนวนเงิน
+MsgServiceFeeEnterAmount,ป้อนจำนวนเงิน
+MsgServiceFeeEnterReason,ป้อนเหตุผล
+MsgServiceFeePercent,ร้อยละ
+MsgServiceFeeTaxed,เรียกเก็บภาษี
+MsgServiceFeePostTax,หลังรวมภาษี
+MsgServiceFeeEnterReasonAndAmount,โปรดป้อนทั้งเหตุผล และจำนวนเงิน
+MsgServiceFeePleaseEnterPositiveServiceFeeValue,โปรดป้อนค่าที่เป็นบวก
+BtnServiceFeesTitle,ค่าธรรมเนียมการบริการ
+BtnServiceFeesNoServiceFee,ไม่มีค่าธรรมเนียมการบริการ
+MsgServiceFeeWrongName,มีค่าธรรมเนียมการบริการชื่อเดียวกันอยู่แล้ว โปรดตั้งชื่อค่าธรรมเนียมนี้ใหม่ หรือใช้ค่าธรรมเนียมที่ต่างกัน
+MsgServiceFeeAlreadyHasServiceFees,คำสั่งซื้อนี้มีค่าธรรมเนียมการบริการแล้ว \n โปรดลากค่าธรรมเนียมไปยังคำสั่งซื้อ ที่ควรเรียกเก็บค่าธรรมเนียมนี้
+MsgServiceFeeAdded,ค่าธรรมเนียมการบริการของ %@ ได้ถูกเพิ่มไว้แล้ว \nสำหรับการชำระเงิน %@ 
+MsgBalanceDue,ยอดที่ต้องชำระ
+MsgServiceFee,ค่าธรรมเนียมการบริการ
+MsgServiceFeeCardType,ค่าธรรมเนียมการบริการ - ประเภทบัตร
+MsgServiceFeeChooseCardType,โปรดเลือกประเภทบัตรตามด้านล่าง
+MsgNoFee,ไม่มีค่าธรรมเนียม
+MsgServiceFeeForCreditPayments,มีค่าธรรมเนียมการบริการสำหรับการชำระเงินผ่านบัตรเครดิต
+MsgOldTotal,ยอดรวมเดิม
+MsgNewTotal,ยอดรวมใหม่
+MsgOrderFieldName,ชื่อ
+MsgOrderFieldQty,จำนวน
+MsgOrderFieldEach,ชิ้น
+MsgOrderFieldTotal,ยอดรวม
+MsgOrderTotalsDiscount,ยอดรวมส่วนลด:
+MsgOrderTotalsSubtotal,ยอดรวมย่อย:
+MsgOrderTotalsSubtotal2,ยอดรวมย่อย:
+MsgOrderTotalsSurcharge,เก็บเงินเพิ่ม:
+MsgOrderTotalsTax,เก็บภาษี:
+MsgOrderTotalsTotal,ยอดรวม:
+MsgOrderTotalsTotal2,ยอดรวม:
+MsgOrderTotalsDue,ยอดที่ต้องชำระ:
+MsgOrderInvoiceTitle,ใบแจ้งหนี้
+MsgOrderInvoiceErrorNoCustomer,ไม่มีลูกค้า
+BtnOrderCancelInvoice,ยกเลิกบิล
+BtnOrderOpenInvoice,เปิดบิล
+BtnOrderSendInvoice,ส่งบิล
+BtnOrderHoldInvoice,ระงับบิล
+BtnOrderCloseInvoice,ปิดบิล
+BtnOrderResetMenu,ตั้งค่าเมนูใหม่
+BtnOrderBackMenu,ย้อนกลับ
+BtnOrderPay,ชำระเงิน
+BtnOrderSetGuestCount,จำนวนลูกค้า
+BtnOrderDeliveryClockOut,คนขับรถ\nออกงาน
+BtnOrderDeliveryClockIn,คนขับรถ\nเข้างาน
+BtnOrderAutoGratuity,อัตโนมัติ\nค่าตอบแทน
+BtnOrderFastCredit,เครดิตด่วน
+BtnOrderFastCash,เงินสดด่วน
+BtnOrderAddExtraItem,เพิ่ม\nรายการพิเศษ
+BtnOrderDonate,บริจาค
+BtnOrderDiscountOrder,ส่วนลด\nคำสั่งซื้อ
+BtnOrderDiningOption,การรับประทานอาหาร\nตัวเลือก
+BtnOrderOrderOption,คำสั่งซื้อ\nตัวเลือก
+BtnOrderPrintGuestCheck,พิมพ์\nใบเสร็จของลูกค้า
+BtnOrderEnterBarcode,ป้อนr\nบาร์โค้ด
+BtnOrderOpenCashDrawer,เปิด\nลิ้นชักเก็บเงิน
+BtnOrderMoveTable,ย้าย\nโต๊ะ
+BtnOrderTransferOwner,โอน\nเจ้าของ
+BtnOrderRemoveTax,ลบ\nภาษีออก
+BtnOrderAddTax,เพิ่ม\nภาษี
+BtnOrderSetTax,ตั้งค่า\nภาษี
+BtnOrderAttachCard,เชื่อมโยงบัตร\nไปยังคำสั่งซื้อ
+BtnOrderAttachOtherCard,เชื่อมโยง\nบัตรอื่น ๆ
+BtnUseShipping,จัดส่ง
+BtnOrderScanCoupon,สแกน\nคูปอง
+BtnFindLinkedOrder,ค้นหา\nคำสั่งซื้อที่เชื่อมโยง
+BtnOrderPrintInvoice,พิมพ์\nใบแจ้งหนี้
+BtnOrderSendToKitchen,ส่งไปยัง\nห้องครัว
+BtnOrderNextBill,ปัดเศษเงินสดขึ้น
+BtnOrderAddStoreCredit,จัดเก็บ\nเครดิต
+MsgOrderPaidSplitNotAllowed,คำสั่งซื้อได้รับการชำระเงินเต็มจำนวน ไม่มีสิ่งใดที่จะต้องแยกออกมา
+BtnPinAccessibilityOn,เปิดการเข้าถึงการใช้งาน
+BtnPinAccessibilityOff,ปิดการเข้าถึงการใช้งาน
+MsgPinAccessibilityModeIsUnavailable,โหมดการเข้าถึงการใช้งานไม่พร้อมใช้งาน เนื่องจากเครื่องบริการนี้มีเครื่องสแกนบลูทูธ
+MsgOrderClockIn,เข้างาน
+MsgOrderClockOut,ออกงาน
+MsgOrderPaidBreak,เวลาพักที่ได้รับการจ่ายเงิน
+MsgOrderUnPaidBreak,เวลาพักที่ไม่ได้รับการจ่ายเงิน
+MsgOrderGoOnBreak,ไปพัก
+MsgOrderDeliveryTrackingDate,วันที่และเวลา
+MsgOrderDeliveryTrackingEmployee,พนักงาน
+MsgOrderDeliveryTrackingEmployeeClockOut,ออกงาน: %@
+MsgOrderDeliveryTrackingInvalidClockInTime,เวลาเข้างานต้องเป็นเวลาหลังจากเวลาออกงาน
+MsgOrderItemShare,แบ่งปัน
+MsgOrderItemSplitWithSeat,แยกออกตามที่นั่ง%d
+MsgOrderItemDiscount,ส่วนลด
+MsgOrderItemNoCourseWithDate,***** ไม่มีอาหารชุด%@ *****
+MsgOrderItemCourseWithDate,***** อาหารชุด %d%@ *****
+MsgOrderItemSeat,ที่นั่ง %d
+MsgOrderItemS,ที่นั่ง %d
+MsgOrderItemLayaway,**ผ่อนชำระ**
+MsgOrderItemReturned,คืนค่า
+MsgOrderGratuityNonEditableHasPayments,คำสั่งซื้อนี้มีการชำระเงิน คุณไม่สามารถเพิ่มหรือลบเงินค่าตอบแทนพิเศษออกได้
+MsgOrderGratuityFullAmountAllowed,เฉพาะการชำระเงินเต็มจำนวนเท่านั้นที่ได้รับการสนับสนุนเมื่อคำสั่งซื้อมีค่าตอบแทนพิเศษ
+MsgOrderCategory,หมวดหมู่
+MsgOrderSubCategory,หมวดหมู่ย่อย
+MsgOrderProducts,ผลิตภัณฑ์
+MsgOrderTopMenu,เมนูสุดฮิต
+MsgOrderNoTipsTitle,ไม่มีทิป
+MsgOrderNoTips,คำสั่งซื้อนี้ไม่มีคะแนน
+MsgOrderNoTipsForBill,บิลบางใบไม่มีทิป ออกจากคำสั่งซื้อที่เปิดไว้หรือไม่?
+BtnLeaveTip,แจ้งทิป
+BtnCloseOrder,ปิดคำสั่งซื้อ
+MsgOrderRefundExtraAmount,โปรดขอคืนเงินคงเหลือเพิ่ม ก่อนทำการปิด
+MsgOrderPayRemainingAmount,ไม่สามารถปิดคำสั่งซื้อ โปรดชำระเงินที่ยังคงค้างชำระ
+MsgOrderNoItemsForNextCourse,อาหารชุดถัดไปไม่มีรายการ
+MsgOrderEnterPrice,ป้อนราคา
+MsgOrderSelectSeat,เลือกที่นั่ง
+MsgOrderSelectSeatPlease,โปรดเลือกจำนวนลูกค้า
+MsgOrderSeatWithNumber,ที่นั่ง %d
+MsgOrderSetSeat,โปรดป้อนหมายเลขที่นั่ง
+MsgOrderSetGuestCount,เลือกจำนวนลูกค้า
+MsgOrderSeat,ที่นั่ง
+MsgOrderSeats,ที่นั่ง
+MsgOrderGuest,ลูกค้า
+MsgOrderGuests,ลูกค้า
+MsgOrderSelectCourse,เลือกอาหารชุด
+MsgOrderCourseWithNumber,อาหารชุด %d
+MsgOrderTableCantMoveIsUnsynced,การเคลื่อนย้ายไม่สามารถเป็นไปได้ เนื่องจากคำสั่งซื้อปลายทางไม่ได้ซิงก์ไปยังเครื่องบริการ POS หลัก
+MsgOrderSplitBillsClear,การแยกบิลจะถูกล้าง คุณแน่ใจหรือไม่?
+MsgOrderSplitBillsNumberExceeded,สนับสนุนสูงสุด 15 การตรวจสอบ
+MsgOrderSmallAmountForSplitting,จำนวนเงินของแต่ละบิลแยกต้องมากกว่า %.2f ดอลลาร์
+MsgOrderAddExtraItemTitle,เพิ่มรายการพิเศษ
+MsgOrderAddExtraItemName,ชื่อ
+MsgOrderAddExtraItemPrice,ราคา
+MsgOrderAddExtraItemTax,เก็บภาษี:
+BtnOrderAddExtraItemWeight,น้ำหนัก
+MsgOrderAddExtraItemSelectName,เลือกชื่อ
+MsgOrderAddExtraItemSaveToServer,บันทึกไปยังเซิร์ฟเวอร์
+MsgOrderAddExtraItemTaxFreeItem,ไม่มีภาษี
+MsgOrderAddExtraItemSaving,กำลังบันทึก
+MsgOrderAddExtraItemTaxSavingWarning,ภาษีศุลกากรจะไม่ถูกบันทึกไปยังเซิร์ฟเวอร์ แต่จะถูกจัดเก็บไปที่รายการคำสั่งซื้อ
+MsgOrderAddExtraItemNoMatchFound,ไม่พบคู่ที่เหมือนกัน
+MsgOrderExtraItem,รายการ
+BtnOrderAddItem,เพิ่มรายการ
+MsgOrderAddItemCopying,การคัดลอกรายการ
+MsgOrderPrintReceiptsTitle,พิมพ์ใบเสร็จ
+MsgOrderPrintReceiptsPrintWhat,คำสั่งซื้อมีใบเสร็จบัตรเครดิต ใบเสร็จใดที่คุณต้องการพิมพ์?
+MsgOrderPrintReceiptsSplitPrintWhat,ใบเสร็จใดที่คุณต้องการพิมพ์?
+BtnOrderPrintReceiptsGuest,ลูกค้า
+BtnOrderPrintReceiptsSummary,สรุป
+BtnOrderPrintReceiptsCredit,เครดิต
+MsgOrderRefundCustomer,โปรดคืนเงินแก่ลูกค้า %@
+MsgOrderRefundCompleted,%@ คืนเงินให้แก่ %@
+MsgOrderRefundToNewCard,ป้อนบัตรของขวัญ #
+MsgOrderFailedToAddGiftCard,ยกเลิกบัตรของขวัญล้มเหลว
+MsgOrderPrintReceiptTitle,พิมพ์ใบเสร็จ
+MsgOrderPrintReceiptActions,คุณต้องการพิมพ์ใบเสร็จหรือไม่?
+MsgOrderPrintInvoiceTitle,ตัวเลือกใบแจ้งหนี้
+MsgOrderPrintInvoiceActions,คุณต้องการรับใบแจ้งหนี้ด้วยวิธีใด?
+BtnOrderPrintReceiptEmail,อีเมล
+BtnOrderPrintReceiptSignature,ลายมือชื่อ
+MsgOrderInvoiceTemplateIsInvalid,เทมเพลตใบแจ้งหนี้ไม่ถูกต้อง\nโปรดติดต่อฝ่ายช่วยเหลือลูกค้า
+MsgOrderWaitLoayalTreeRewardsTitle,การบริการ LoyalTree
+MsgOrderLoaylTreeMsg,รอการตอบสนองขอ LoyalTree ...
+MsgOrderSelectOwner,เลือกเจ้าของโต๊ะ
+MsgOrderSelectEmployee,เลือกพนักงาน
+MsgOrderSelectProducts,เลือกผลิตภัณฑ์
+MsgOrderSelectProductsForLayaway,เลือกผลิตภัณฑ์เพื่อเอาออกจากสินค้าคงเหลือ
+MsgOrderAddQuantity,เพิ่มจำนวน
+MsgOrderSetQuantity,ตั้งค่าจำนวน
+MsgOrderEnterQuantity,ป้อนจำนวน
+MsgOrderQuantityCouldNotBeChanged,ไม่สามารถเปลี่ยนแปลงจำนวนได้
+MsgOrderSelectOrder,เลือกคำสั่งซื้อ
+MsgOrderSelectTable,เลือกโต๊ะ
+MsgOrderReprint,พิมพ์อีกครั้ง
+MsgOrderSendToKitchen,ส่งไปยังห้องครัว
+MsgOrderReachedMaxQty,ผลิตภัณฑ์ถึงจำนวนสูงสุดแล้ว  ไม่อาจเพิ่มผลิตภัณฑ์ไปยังคำสั่งซื้อนี้ได้อีก
+MsgOrderLocked,คำสั่งซื้อถูกแก้ไขโดย %@ บนเครื่องบริการ %@
+MsgOrderLockedPrinting,งานพิมพ์คำสั่งซื้ออยู่ระหว่างดำเนินการ
+MsgOrderChangedSaveFailed,คำสั่งซื้อถูกเปลี่ยนแปลง การบันทึกล้มเหลว
+MsgOrderSaveFailed,การบันทึกคำสั่งซื้อล้มเหลว
+MsgOrderCollisionDetected,คำสั่งซื้อถูกเปลี่ยนแปลงบน POS หลัก คำสั่งซื้อภายในถูกเขียนทับ เนื่องจากคำสั่งซื้อแตกต่างจากสำเนาต้นฉบับ
+MsgOrderCollisionDetectedItems,%d ลบรายการ
+MsgOrderCollisionDetectedPaymentsRefunds,%dขอคืนเงินการชำระเงินเฉพาะส่วนโดยรวมทั้งหมด %@\n
+MsgOrderCollisionDetectedPayments,%d จำนวนเงินโดยรวมทั้งหมดของการชำระเงินเฉพาะส่วนที่เกิน %@\nคุณต้องการขอคืนเงินที่ชำระเงินเกินหรือไม่?
+MsgOrderDeletedSaveFailed,คำสั่งซื้อได้รับการซิงก์ข้อมูลกับเซิร์ฟเวอร์คลาวด์ และได้ลบออกจากเครื่องบริการ POS หลัก
+MsgOrderDeletedLoadFailed,คำสั่งซื้อได้รับการซิงก์ข้อมูลกับเซิร์ฟเวอร์คลาวด์ และได้ลบออกจากเครื่องบริการ POS หลัก
+MsgOrderMainNotReachable,ไม่สามารถเข้าถึงเครื่องบริการ POS หลัก
+MsgOrderCloudNotReachable,ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์คลาวด์ได้ โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณ
+MsgOrderLoadEmpty,คำสั่งซื้อว่างเปล่า และไม่สามารถโหลดได้
+MsgOrderPrinting,การพิมพ์คำสั่งซื้อ #%@
+MsgOrderOnline,คำสั่งซื้อออนไลน์
+MsgOrderNotPrinted,ไม่ถูกพิมพ์
+MsgOrderNotFound,ไม่พบ
+MsgOrderSelectPrinter,เลือกเครื่องพิมพ์
+MsgOrderSelectLanguage,เลือกภาษาสำหรับใบเสร็จ
+MsgOrderDefaultLanguage,ภาษาที่ตั้งไว้เป็นค่าเริ่มต้น
+MsgOrderHeldOrder,คำสั่งซื้อที่ถูกระงับไว้
+MsgOrderHeldOrders,คำสั่งซื้อที่ถูกระงับไว้
+MsgOrderUnsyncedOrder,คำสั่งซื้อที่ไม่ถูกซิงก์
+MsgOrderUnsyncedOrders,คำสั่งซื้อที่ไม่ถูกซิงก์
+MsgOrderOpenWebOrder,คำสั่งซื้อออนไลน์
+MsgOrderOpenWebOrders,คำสั่งซื้อออนไลน์
+MsgOrderUnprinted,คำสั่งซื้อที่ไม่ได้ถูกพิมพ์
+MsgOrderUnprintedWebOrder,คำสั่งซื้อบนเว็บที่ไม่ถูกพิมพ์
+MsgOrderUnprintedWebOrders,คำสั่งซื้อบนเว็บที่ไม่ถูกพิมพ์
+MsgOrderDeliveryCharge,ค่าใช้จ่ายการจัดส่ง
+MsgOrderTargetTableHasOrder,มีคำสั่งซื้อที่เปิดอยู่บน %@  %@ ที่เลือกไว้จะกลายเป็นส่วนหนึ่งของคำสั่งซื้อนั้น  ดำเนินการต่อหรือไม่?
+MsgOrderBagCharge,เรียกเก็บค่าถุง
+MsgOrderEnterSerialNumber,ป้อนหมายเลขลำดับ
+MsgOrderEnterCallNumber,ป้อนหมายเลขโทรศัพท์
+MsgOrderEnterSerialNumberForProduct,ป้อนหมายเลขลำดับสำหรับ %@
+MsgOrderSerialNumberIsEmptyEnterValidSerialNumber,หมายเลขลำดับว่างเปล่า\nโปรดป้อนหมายเลขลำดับที่ถูกต้อง
+MsgOrderSerialNumberShort,หมายเลขลำดับ
+MsgOrderFindOrdersBySerialNumber,ค้นหาคำสั่งซื้อด้วยหมายเลขลำดับ
+MsgOrderFoundProductsWithSN,ค้นพบผลิตภัณฑ์ที่มีหมายเลขลำดับ %@
+MsgOrderSearchBySN,คำสั่งซื้อตามหมายเลขลำดับ: 
+MsgOrderSearchBySNFromAnotheEstablishment,คำสั่งซื้อ %@ ถูกสร้างบนเครื่องบริการอื่น  หากคุณจำเป็นต้องคืนค่ารายการนี้ โปรดไปที่ การตั้งค่า/การคืนค่า
+MsgReceiptlessReturnSearchBySN,ค้นหาโดยหมายเลขลำดับ
+MsgOrderSerialNumberMissingTitle,ไม่มีหมายเลขลำดับ
+MsgOrderAddSerialNumbersBeforeContinuing,โปรดขอคืนเงินคงเหลือเพิ่ม ก่อนทำการปิด
+MsgOrderNewInvoice,ใบแจ้งหนี้ใหม่: %@
+MsgOrderNewOrder,คำสั่งซื้อใหม่: %@
+MsgOrderOrderedBy,สั่งซื้อโดย: %@
+MsgOrderMaximumGeneralTitle,จำนวนคำสั่งซื้อถึงค่าสูงสุดแล้ว
+MsgInvoiceMaximumGeneralTitle,จำนวนใบแจ้งหนี้ถึงค่าสูงสุดแล้ว
+MsgOrderMaximumGeneralMessage,ดำเนินการเพิ่มรายการต่อ
+MsgOrderMoveNotAllowedBecauseOfSplitBills,ไม่สามารถรวบคำสั่งซื้อกับใบแจ้งหนี้ได้
+MsgPrintManagementTitle,การบริหารจัดการเครื่องพิมพ์
+MsgPrintManagementPrinterDetails,รายละเอียดเครื่องพิมพ์
+MsgPrintManagementSetFontSize,ตั้งค่าขนาดตัวอักษร
+MsgPrintInvalidConfig,การกำหนดค่าเครื่องพิมพ์ไม่ถูกต้อง
+MsgPrintReceiptOptionsTitle,ตัวเลือกวิธีการพิมพ์
+MsgPrintReceiptOptionsLabelSize,ขนาดลาเบล
+MsgPrintReceiptOptionsWidth,ความกว้าง
+MsgPrintReceiptOptionsHeight,ความสูง
+MsgPrintReceiptOptionsLargeLabel,ใหญ่
+MsgPrintReceiptOptionsSmallLabel,เล็ก
+BtnPrintRedirect,เปลี่ยนเส้นทาง
+BtnPrintNoRedirect,ยกเลิก\nเปลี่ยนเส้นทาง
+BtnPrintRedirectingTo,กำลังเปลี่ยนเส้นทางไปยัง
+BtnPrintRecipe,วิธีการ
+BtnPrintUseForLabels,ลาเบล
+BtnPrintLabelsOptions,ตัวเลือกลาเบล
+MsgPrintFontNormal,ปกติ
+MsgPrintFontLarge,ใหญ่
+MsgPrintPrinterNotResponding,เครื่องพิมพ์ ‘%@’ ไม่ตอบสนอง โปรดยืนยันว่าเครื่องพิมพ์เปิดการทำงานอยู่
+MsgPrintPrinterNotRespondingKiosk,มีปัญหากับเครื่องพิมพ์  โปรดดำเนินการต่อไปยังเครื่องบริการชำระเงิน
+MsgPrintCashDrawerNotResponding,ลิ้นชักเก็บเงินไม่ตอบสนอง โปรดตรวจสอบการเชื่อมต่อกับเครื่องพิมพ์
+MsgReceiptDeliveryTime,เวลาส่งมอบ
+MsgReceiptPickupTime,เวลารับสินค้า
+MsgOrderViewPickup,รับสินค้า
+MsgReceiptASAPTime,ทันทีที่เป็นไปได้
+MsgReceiptDueDate,วันครบกำหนด
+MsgPrintLabelForItem,พิมพ์ลาเบลสำหรับรายการที่เลือกไว้
+MsgPrintLabelForCategory,พิมพ์ลาเบลสำหรับหมวดหมู่
+MsgPrintLabelNoBarcode,ผลิตภัณฑ์ไม่มีบาร์โค้ด
+MsgPrintLabelQuantity,จำนวน
+MsgPrintLabelEnterQuantity,ป้อนจำนวน
+MsgLabelPrinterIsNotSet,เครื่องพิมพ์ลาเบลไม่ได้ตั้งค่าไว้
+MsgPrintLabelOptionsTitle,ตัวเลือกการพิมพ์ลาเบล
+MsgLabelType,ประเภทลาเบล
+MsgPrintLabelOptionsPrintName,พิมพ์ชื่อ
+MsgPrintLabelOptionsPrintPrice,พิมพ์ราคา
+MsgPrintLabelOptionsWidth,ความกว้าง
+MsgPrintLabelOptionsHeight,ความสูง
+MsgPrintLabelOptionsPricingLabel,ลาเบลราคา
+MsgPrintLabelOptionsStockLabel,ลาเบลสินค้าคงเหลือ
+MsgPrintLabelOptionsJewelry,เครื่องประดับ
+MsgOrderReceiptTitle,ใบเสร็จ
+MsgOrderGiftReceiptTitle,ใบเสร็จของขวัญ
+MsgReceiptPaymentLog,บันทึกการชำระเงิน
+MsgReceiptTotalPaymentReceipt,รายงานการชำระเงินทั้งหมด
+MsgReceiptCashLog,บันทึกเงินสด
+MsgReceiptCashLogStartingCash,เงินสดตั้งต้น
+MsgReceiptCashLogPayoutAmount,จำนวนเงินที่ชำระออก
+MsgReceiptCashLogPayInAmount,จำนวนเงินที่รับเข้า
+MsgReceiptCashLogCoinsDispensed,เหรียญที่จ่ายไป
+MsgReceiptCashLogTotal,ยอดรวมเงินสด
+MsgReceiptCashLogExpectedCashInTill,เงินที่คาดการณ์ในลิ้นชักเก็บเงิน
+MsgReceiptCashLogCheckOut,บันทึกเงินสดสำหรับเช็กเอาต์
+MsgReceiptCashLogCheckOutStartingCash,ยอดรวมเงินสดตั้งต้น
+MsgReceiptCashLogCheckOutPayoutAmount,จำนวนเงินที่ชำระออก
+MsgReceiptCashLogCheckOutPayInAmount,จำนวนเงินที่รับเข้า
+MsgReceiptCashLogCheckOutCoinsDispensed,เหรียญที่จ่ายไป
+MsgReceiptCashLogCheckOutCashTransactions,ธุรกรรมเงินสด
+MsgReceiptCashLogCheckOutExpectedCashInTill,เงินที่คาดการณ์ในลิ้นชักเก็บเงิน
+MsgReceiptCashLogCheckOutEndingCashTotal,ยอดรวมเงินสดสุดท้าย
+MsgReceiptCashLogCheckOutDifference,ผลต่าง
+MsgReceiptCashLogCheckOutBankDrop,นำเข้าธนาคาร
+MsgReceiptCashLogOpenedBy,เปิดโดย
+MsgReceiptCashLogHeldBy,ระงับโดย
+MsgReceiptCashLogClosedBy,ปิดโดย
+MsgReceiptCashLogPayOut,จ่ายออก
+MsgReceiptCashLogPayIn,รับเข้า
+MsgReceiptMadeBy,กระทำโดย
+MsgReceiptGiftCardCertificateNumber,หมายเลขใบรับรอง
+MsgReceiptGiftCardAuthNumber,หมายเลขการอนุญาต
+MsgReceiptGiftCardLoadAmount,จำนวนเงินที่โหลด
+MsgReceiptGiftCardOriginalBalance,ยอดคงเหลือเริ่มแรก
+MsgReceiptGiftCardBalance,ยอดที่เหลือ
+MsgReceiptBankDropAmountOfDropTotal,จำนวนเงินที่นำเข้าทั้งหมด
+MsgReceiptBankDropSignedBy,ลงลายมือชื่อโดย
+MsgReceiptOfflineMode,โหมดออฟไลน์
+MsgReceiptSaveYourReceipt,โปรดบันทึกใบเสร็จของคุณ
+MsgReceiptClockInTime,เวลาเข้างาน
+MsgReceiptClockOutTime,เวลาออกงาน
+MsgReceiptPresentReceiptToManager,แสดงใบเสร็จนี้แก่ผู้จัดการของคุณ
+MsgTimeSheetOfflineMode,คุณอยู่ในโหมดออฟไลน์ \nโปรดบันทึกใบเสร็จของคุณ
+MsgReceiptHotspotTitle,รหัสฮอตสปอต
+MsgReceiptHotspotCode,รหัส
+MsgReceiptHotspotDuration,ระยะเวลา (นาที)
+MsgReceiptCheckInTimeCheckIn,เวลาเข้างาน
+MsgReceiptCheckInTimeCheckOut,เวลาออกงาน
+MsgReceiptCheckInCheckIn,ลงเวลาเข้างาน
+MsgReceiptCheckInCheckOut,ลงเวลาออกงาน
+MsgReceiptCheckInCheckInError,ข้อผิดพลาด: พนักงานไม่ได้ลงเวลาออกใน\nกะก่อนหน้า
+MsgReceiptCheckInCheckOutError,ข้อผิดพลาด: พนักงานไม่ได้ลงเวลาเข้าใน\nกะก่อนหน้า
+MsgReceiptOther,อื่น ๆ
+MsgReceiptCurrencyPlural,ดอลลาร์
+MsgReceiptCurrencyTitlePlural,สกุลเงิน
+MsgReceiptDatetime,วันที่และเวลา
+MsgReceiptPersonLoggedIn,บุคคลที่เข้าสู่ระบบ
+MsgReceiptPrinter,เครื่องพิมพ์
+MsgReceiptOriginal,ดั้งเดิม
+MsgReceiptRemaining,ยอดที่เหลืออยู่
+MsgReceiptOrder,คำสั่งซื้อ
+MsgReceiptInvoice,ใบแจ้งหนี้
+MsgReceiptEmployee,พนักงาน
+MsgReceiptRole,หน้าที่
+MsgReceiptName,ชื่อ
+MsgReceiptDate,วันที่
+MsgReceiptTime,เวลา
+MsgReceiptTotalHours,จำนวนชั่วโมงรวม
+MsgReceiptCallNumber,หมายเลขโทรศัพท์
+MsgReceiptCallName,ชื่อผู้โทร
+MsgReceiptTable,โต๊ะ
+MsgReceiptBarTab,แท็บบาร์
+MsgReceiptCustomer,ลูกค้า
+MsgReceiptServer,เซิร์ฟเวอร์
+MsgReceiptTransaction,ธุรกรรม
+MsgReceiptPaidWith,ชำระเงินด้วย
+MsgReceiptBill,บิล
+MsgReceiptTotal,ยอดรวม
+MsgReceiptExchangeValue,ค่าการแลกเปลี่ยน
+MsgReceiptReturnValue,คืนค่า
+MsgReceiptAppliedDeposit,นำเงินฝากมาใช้
+MsgReceiptSumTotal,ยอดรวมย่อย
+MsgReceiptSumTotal2,ยอดรวมย่อย:
+MsgReceiptServiceCharge,ค่าใช้จ่ายการบริการ
+MsgReceiptOnlineTip,ใบแจ้งหนี้ทางเว็บ
+MsgReceiptReceiptServiceCharge,ใบเสร็จค่าใช้จ่ายการบริการ
+MsgReceiptCash,เงินสด
+MsgReceiptCredit,เครดิต
+MsgReceiptGiftCard,บัตรของขวัญ
+MsgReceiptCreditCard,บัตรเครดิต
+MsgReceiptCreditPlus,เครดิต +
+MsgReceiptDeposit,เงินฝาก
+MsgReceiptCheck,เช็ค
+MsgReceiptGiftCert,บัตรกำนัล
+MsgReceiptGift,ของขวัญ
+MsgReceiptTax,เก็บภาษี:
+MsgReceiptTip,ทิป
+MsgReceiptIndex,ดัชนี
+MsgReceiptDiscount,ส่วนลด
+MsgReceiptStation,เครื่องบริการ
+MsgReceiptSpecialRequest,คำร้องขอพิเศษ
+MsgReceiptSpecialInstructon,ข้อแนะนำพิเศษ
+MsgReceiptSignatureAndTotal,ลายมือชื่อและยอดรวม
+MsgReceiptReceiptOptions,ตัวเลือกใบเสร็จ
+MsgReceiptReceiptHowWouldYouLike,คุณต้องการรับใบแจ้งหนี้ด้วยวิธีใด?
+MsgReceiptSignature,ลายมือชื่อ
+MsgReceiptCashier,พนักงานรับจ่ายเงิน
+MsgReceiptReportPrintedBy,รายการรายงาน
+MsgReceiptAgreementLine1,ฉันยินยอมที่จะชำระเงินตามจำนวนเงินรวมข้างต้น
+MsgReceiptAgreementLine2,โดยอ้างตามข้อตกลงของผู้ออกบัตร
+MsgReceiptBreakdown,แบ่งเป็นส่วน
+MsgReceiptSeatCount,จำนวนที่นั่ง
+MsgReceiptNotes,บันทึกย่อ
+MsgReceiptGiftCardNumber,หมายเลขบัตรของขวัญ
+MsgReceiptRewardCardNumber,หมายเลขบัตรรางวัล
+MsgReceiptUnknown,ไม่ทราบที่มา
+MsgReceiptCardBalance,ยอดคงเหลือในบัตร
+MsgReceiptPointBalance,ยอดคงเหลือคะแนน
+MsgReceiptVisitsBalance,ยอดคงเหลือการเข้าใช้บริการ
+MsgReceiptPurchasesBalance,ยอดคงเหลือการซื้อ
+MsgReceiptAuthNumber,หมายเลขการอนุญาต
+MsgReceiptSaleAmount,จำนวนเงินที่ขาย
+MsgReceiptBalanceUsed,ยอดคงเหลือที่ใช้ไป
+MsgReceiptBalanceDue,ยอดที่ต้องชำระ
+MsgReceiptOrderBalanceDue,ยอดที่ต้องชำระ
+MsgReceiptOrderBalanceDueCut,คำสั่งซื้อครบกำหนด
+MsgReceiptCustomerPaid,ลูกค้าชำระเงิน
+MsgReceiptCustomerChange,ลูกค้าเปลี่ยนแปลง
+MsgReceiptDeliverTo,ส่งมอบไปยัง
+MsgReceiptTotalTax,ภาษีรวม
+MsgReceiptCashRoundingDelta,ส่วนต่างของการปัดเศษ
+MsgReceiptSeat,ที่นั่ง
+MsgReceiptOfSale,ของการขาย:
+MsgReceiptSuggestedTips,ทิปที่แนะนำ
+MsgReceiptIncluded,รวมถึง
+MsgReceiptPayPal,PayPal
+MsgReceiptTipIncludesAutoGratuity,ทิปรวมถึงค่าตอบแทนโดยอัตโนมัติ: 
+MsgReceiptNewProducts,ผลิตภัณฑ์ใหม่
+MsgReceiptNewProductsName,ชื่อ
+MsgReceiptNewProductsBarcode,บาร์โค้ด
+MsgReceiptNewProductsUnitOfMeasure,หน่วยวัด
+MsgReceiptNewProductsInventoryQuantity,จำนวนสินค้าคงเหลือ
+MsgReceiptNewProductsPrice,ราคา
+MsgReceiptNewProductsTax,เก็บภาษี:
+MsgReceiptNewProductsEmbedded,ที่ฝังตัว
+MsgReceiptNewProductsSoldByWeight,ขายโดยน้ำหนัก
+MsgReceiptNewProductWouldYouLike,คุณต้องการสร้างผลิตภัณฑ์ใหม่ที่มีบาร์โค้ดที่ไม่ตรงกันหรือไม่?
+MsgReceiptReceiptlessReturnReceiptTotalCash,เงินสดทั้งหมด:
+MsgReceiptReceiptlessReturnReceiptTotalCredit,ยอดรวมเครดิตที่จัดเก็บ:
+MsgReceiptReceiptlessReturnReceiptProductName,ผลิตภัณฑ์
+MsgReceiptReceiptlessReturnReceiptReturn,คืนค่า
+MsgReceiptReceiptlessReturnReceiptTax,เก็บภาษี:
+MsgReceiptReceiptlessReturnReceiptTotal,ยอดรวม
+MsgReceiptDelivery,การจัดส่ง
+MsgReceiptDeliveryDate,วันที่ส่งมอบ
+MsgReceiptCustomerCopy,สำเนาของลูกค้า
+MsgReceiptMerchantCopy,สำเนาของผู้ขาย
+MsgReceiptEach,ชิ้น
+MsgReceiptSurcharge,เก็บเงินเพิ่ม
+MsgReceiptUntaxed,ไม่เรียกเก็บภาษี
+MsgReceiptMiscTax,เบ็ดเตล็ด
+MsgReceiptPrevailingTax,ภาษีที่ตั้งไว้เป็นค่าเริ่มต้น
+MsgReceiptTaxBreakdownTotal,ยอดรวม
+MsgReceiptTaxBreakdownRate,ราคา
+MsgReceiptTaxRebate,เงินภาษีที่หักคืนให้
+MsgReceiptBadgeTotal,คำสั่งซื้อได้รับอนุญาต และจะถูกเพิ่มไปยังแท็บของเจ้าของกลุ่ม \nกลุ่มที่ดำเนินการโดยรวม: %@
+MsgReceiptVatNumber,หมายเลขภาษีมูลค่าเพิ่ม
+MsgReceiptYouSaved,คุณประหยัดถึง
+MsgReceiptPriceIncludesTaxes,ราคารวมภาษี
+MsgReceiptTotalTaxesCollected,ยอดรวมภาษีที่หัก:
+MsgWaitingForTipSelection,กำลังรอการเลือกทิป
+MsgWaitingForSignature,กำลังรอลายมือชื่อ
+MsgWaitingForRedeemRewards,กำลังรอลูกค้าเลือกรางวัล
+MsgWaitingForReceiptSelection,กำลงรอการเลือกใบเสร็จ
+MsgWaitingForEmailEntry,กำลังรอการป้อนอีเมล
+MsgOverridingTheDisplayUnit,การแทนที่หน่วยแสดงผลจะเป็นการเปลี่ยนเส้นทางหน้าพรอมท์ลูกค้าไปยัง POS โดยทันที คุณต้องการดำเนินการต่อหรือไม่?
+MsgCall,โทรศัพท์#
+MsgReceiptPaymentTotal,บันทึกการชำระเงิน
+MsgReceiptProductForecastingEndOfReport,รายงาน Z
+MsgReceiptProductForecastingTotalsForDay,ข้อมูลทั้งหมด
+MsgReceiptProductForecastingNextDay,ถัดไป
+MsgReceiptProductForecastingPrior,ลำดับความสำคัญ
+MsgReceiptProductForecastingNotificationBody,พิมพ์รายงาน
+MsgReceiptProductForecastingStartOfDay,วันที่เริ่ม
+MsgReceiptProductForecastingTimeSlot,เวลาปิดกั้น
+MsgBarTabTitle,แท็บบาร์ #%d
+MsgBarTabsTitle,แท็บบาร์%@
+MsgBarTabsFindTitle,แท็บค้นหา
+MsgOrderSelectTitle,เลือกคำสั่งซื้อ
+MsgBarTabsFindPlaceholder,ป้อนแท็บ # หรือ ชื่อลูกค้า
+MsgBarTabsFindNoResults,ไม่พบแท็บบาร์ตรงกันที่เปิดอยู่
+MsgBarTabsFindNoResultsOpenNewTab,ไม่พบแท็บบาร์ตรงกันที่เปิดอยู่ คุณต้องการเปิดแท็บใหม่หรือไม่?
+MsgTablesFindNoResultsSelectAvailableTable,เลือกโต๊ะที่ว่าง
+BtnBarTabsOpen,แท็บเปิด
+BtnBarTabsFind,แท็บค้นหา
+BtnBarTabsBarcode,แท็บบาร์โค้ด
+MsgSelectOrderType,เลือกชนิดคำสั่งซื้อ
+MsgOrderTypeAll,แสดงคำสั่งซื้อทั้งหมด
+MsgOrderTypeHouse,แสดงเฉพาะบัญชีค่านายหน้าเท่านั้น
+MsgOrderTypeInvoices,แสดงใบแจ้งหนี้ที่ค้างชำระ
+MsgOrderTypeHouseTitle,บัญชีค่านายหน้า
+MsgOrderFilterPaid,ชำระเงินแล้ว
+MsgOrderFilterBilled,เรียกเก็บเงินแล้ว
+MsgOrderListTitle,คำสั่งซื้อ
+MsgOrderListTitleWithCustomerName,%@’s คำสั่งซื้อ
+MsgOrderListTitleLoading,กำลังโหลดคำสั่งซื้อ...
+MsgOrderInvoicesListTitleLoading,กำลังโหลดใบแจ้งหนี้...
+MsgCustomersUpdateCCInfo,อัปเดตข้อมูลบัตรเครดิต
+MsgOrderInvalidEstablishment,การเปิดคำสั่งซื้อจากเครื่องบริการอื่นไม่ได้รับอนุญาต
+MsgOrderSelectOrder2,โปรดเลือกคำสั่งซื้อ
+MsgOrderDoNotExist,ลูกค้านี้ไม่มีคำสั่งซื้อ
+MsgInvoiceDoNotExist,ลูกค้านี้ไม่มีใบแจ้งหนี้
+MsgReceiptInvoiceBalanceDue,ยอดค้างชำระบนใบแจ้งหนี้
+MsgCateringTitle,การส่งมอบบริการจัดเตรียมอาหาร
+MsgCateringTitleCustomerAndCallName,ลูกค้า/ชื่อเรียก
+MsgCateringTitleProduct,ผลิตภัณฑ์
+MsgCateringComplete,เสร็จสิ้น
+MsgCateringQuantity,จำนวน
+MsgCateringTitleCateringDate,วันที่ส่งมอบ
+MsgCateringCompleteTitle,คำสั่งซื้อที่เสร็จสมบูรณ์
+BtnCateringComplete,เสร็จสิ้น
+BtnCateringCompleting,กำลังทำให้เสร็จสิ้น
+CmtCateringCompleted,เสร็จสิ้นแล้ว
+BtnCateringApplyToOrder,นำมาใช้กับคำสั่งซื้อ
+BtnCateringApplyToItems,นำมาใช้กับรายการ
+MsgCateringSerialNumberMissing,รายการที่อยู่ในการส่งมอบไม่มีหมายเลขลำดับ โปรดเพิ่มหมายเลขลำดับก่อนดำเนินการต่อ
+MsgFilterToday,วันนี้
+MsgFilterTomorrow,พรุ่งนี้
+MsgFilterFuture,อนาคต
+MsgFilterYesterday,เมื่อวานนี้
+MsgFilterEverything,ทุกสิ่ง
+MsgFilterWeek,สัปดาห์
+MsgFilterMonth,เดือน
+MsgFilterAnyDate,วันที่สิ้นสุด
+MsgFilterActive,ดูที่ยังคงใช้งานอยู่
+MsgFilterComplete,ดูที่เสร็จสิ้นแล้ว
+MsgOrdersExpand,ขยายดูทั้งหมด
+MsgOrdersCollapse,จัดกลุ่มโดยคำสั่งซื้อ
+MsgOrdersGroupByItem,จัดกลุ่มโดยรายการ
+MsgOrderPriceOverrideDaily,นี่จะเปลี่ยนแปลงราคาของรายการบนเครื่องบริการ POS เท่านั้น การแจกจ่ายการเปลี่ยนแปลงนี้ต้องกระทำด้วยตนเอง
+MsgOrderPriceOverrideServer,นี่จะเปลี่ยนแปลงราคาของรายการบนเซิร์ฟเวอร์ คุณจำเป็นต้องรีเฟรชเครื่องบริการอื่นเพื่อแจกจ่ายราคาใหม่
+MsgOrderPriceOverrideServerSuccess,ราคาถูกเปลี่ยนแปลงไปเป็น %@  โปรดรีเฟรชเครื่องบริการ POS อื่น เพื่อแจกจ่ายการเปลี่ยนแปลงนี้
+MsgOrderPriceOverrideServerFail,การแทนที่ราคาล้มเหลว
+MsgOrderOverridePrice,แทนที่ราคา
+BtnOrderOverridePricePerUnit,แทนที่\nราคาต่อหน่วย
+BtnOrderOverridePriceTotal,แทนที่\nราคาทั้งหมด
+MsgOrderPriceOverrideHelp,ครั้งเดียว - เปลี่ยนแปลงราคาของรายการเพียงครั้งเดียว \n\nรายวัน - เปลี่ยนแปลงราคาของรายการจนกระทั่งเที่ยงคืนบนเครื่องบริการ  POS \n\nเซิร์ฟเวอร์ - เปลี่ยนแปลงราคาของรายการในเซิร์ฟเวอร์ คุณจำเป็นต้องรีเฟรชเครื่องบริการ POS อื่น เพื่อแจกจ่ายราคาใหม่
+BtnOrderSingleOverride,แทนที่หนึ่งครั้ง
+BtnOrderDailyOverride,แทนที่ตลอดวัน
+BtnOrderServerOverride,ปรับปรุงราคา
+MsgOrderPriceOverrideSaving,กำลังบันทึก
+LblPriceOverrideWeightedItem,ปัจจุบัน: %@ (%@ ต่อหน่วย)
+LblPriceOverrideOrdinaryItem,ปัจจุบัน
+MsgPriceOverrideExceedLimitsGreater,จำนวนเงินของแต่ละบิลแยกต้องมากกว่า %.2f ดอลลาร์
+MsgPaymentMakePaymentFirst,โปรดทำการชำระเงินก่อน
+MsgPaymentTippingNotSupported,การให้ทิปไม่ได้รับการสนับสนุนสำหรับการชำระเงินด้วยเครดิต
+MsgPaymentTippingNotSupportedGiftCard,การให้ทิปไม่ได้รับการสนับสนุนสำหรับการชำระเงินด้วยบัตรของขวัญ
+MsgPaymentTippingNotSupportedIndex,การให้ทิปไม่ได้รับการสนับสนุนสำหรับการชำระเงินด้วยดัชนี
+MsgPaymentTippingNotSupportedPayPal,การให้ทิปไม่ได้รับการสนับสนุนสำหรับการชำระเงินด้วย PayPal
+MsgPaymentTippingNotSupportedForThisPaymentType,การให้ทิปไม่ได้รับการสนับสนุนสำหรับประเภทการชำระเงินนี้
+MsgPaymentEnterTipAmount,ป้อนจำนวนทิป
+MsgPaymentSelectTipAmount,เลือกจำนวนทิป
+MsgPaymentOtherTipAmount,จำนวนทิปอื่น ๆ
+MsgPaymentCardDataEmpty,ข้อมูลบัตรว่างเปล่า!
+MsgPaymentProcessorDataEmpty,ข้อมูลหน่วยประมวลผลว่างเปล่า!
+MsgPaymentIncompleteCardData,ข้อมูลบัตรไม่สมบูรณ์!
+MsgPaymentInvalidCreditCardSettings,โปรดป้อนการตั้งค่าการชำระเงินผ่านบัตรเครดิตที่ระบบส่วนหลังอย่างถูกต้อง!
+MsgPaymentCCProcessorsMoreThanOne,โปรดป้อนการตั้งค่าการชำระเงินผ่านบัตรเครดิตที่ระบบส่วนหลังอย่างถูกต้อง!\nมีหน่วยประมวลผล %d ที่ยังทำงานอยู่
+MsgPaymentChangeOverAmountNotAllowed,การเปลี่ยนแปลงทั้งหมด %@ ไม่ได้รับอนุญาต
+MsgPaymentPayWithGiftCard,ชำระเงินด้วยบัตรของขวัญ
+MsgPaymentPayWithCreditCard,ชำระเงินด้วยบัตรเครดิต
+MsgPaymentSwipeCreditCard,รูดบัตรเครดิต
+MsgPaymentPayWithStanfordCard,ชำระด้วยบัตร Stanford
+MsgPaymentCardSwipeWaiting,กำลังรอคุณรูดบัตร
+MsgPaymentCardSwipeBad,รูดบัตรไม่ผ่าน!
+MsgPaymentCardSwipeBadTryAgain,รูดบัตรไม่ผ่าน ลองอีกครั้ง
+MsgPaymentCardSwipeBadTouchToTryAgain,รูดบัตรไม่ผ่าน แตะ ยกเลิก และลองอีกครั้ง
+MsgPaymentCardSwipeRead,กำลังอ่านการรูด
+MsgPaymentCardReaderWaiting,กำลังรอการรูดบัตร
+MsgPaymentCardReaderOrScannerWaiting,กำลังรอการรูดบัตร หรือสแกน
+MsgPaymentWaitingForPinPad,กำลังรอ PinPad
+MsgPaymentCardReaderFail,ไม่สามารถเชื่อมต่อไปยังการรูดบัตร
+MsgPaymentCardReaderFailAddRewards,เป็นไปไม่ได้ที่จะเพิ่มรางวัลด้วยตนเอง
+MsgPaymentYourCardFailWaitCashier,ไม่สามารถดำเนินการกับบัตรของคุณได้\nโปรดรอพนักงานรับจ่ายเงิน
+MsgPaymentYourCardFailDU,โปรดรอพนักงานรับจ่ายเงิน
+MsgPaymentCardSwipeBadPleaseTryAgain,รูดบัตรไม่ผ่าน\nโปรดลองอีกครั้ง
+MsgPaymentCardNumber,หมายเลขบัตร
+MsgPaymentMonth,เดือน เช่น 08
+MsgPaymentCVV,CVV
+MsgPaymentFirstName,ชื่อ
+MsgPaymentLastName,นามสกุล
+MsgPaymentSelectMethod,เลือกวิธีการชำระเงิน
+MsgPaymentEnterCardNumber,ป้อนหมายเลขบัตร
+MsgPaymentAuthorizationTitle,การอนุญาต
+MsgPaymentAuthorizationMessage,กำลังอนุญาต... โปรดรอ
+MsgPaymentFetchingGiftCardBalanceMessage,กำลังดึงยอดที่เหลือของบัตรของขวัญ... โปรดรอ
+MsgPaymentFetchingRewardBalanceMessage,กำลังดึงยอดที่เหลือของรางวัล... โปรดรอ
+MsgPaymentAuthorizationVoidMessage,กำลังยกเลิกธุรกรรม... โปรดรอ
+MsgPaymentAuthorizationTipMessage,กำลังอนุญาตทิป... โปรดรอ
+MsgPaymentCoinsNotDispensed,เหรียญไม่ได้ถูกจ่ายไป
+MsgPaymentCoinDispenserConnectionFailed,ไม่สามารถเชื่อมต่อไปที่เครื่องจ่ายเหรียญ ‘%@’ ลองอีกครั้งหรือไม่?
+MsgPaymentCreditCardAuthorization,การอนุมัติบัตรเครดิต
+MsgPaymentApproved,อนุมัติแล้ว
+MsgPaymentApprovedOffline,อนุมัติแบบออฟไลน์\n\nการชำระเงินแบบออฟไลน์: %d\nยอดรวม: %@
+MsgPaymentDeclined,ถูกปฏิเสธ
+MsgPaymentFailed,การดำเนินการล้มเหลว ลองอีกครั้งภายหลัง
+MsgPaymentOffline,ออฟไลน์
+MsgPaymentUnexpectedReplyFromProcessor,การตอบกลับที่ไม่ได้คาดหวังจากตัวประมวลผล
+MsgPaymentPaymentPartial,เงินในบัตรไม่เพียงพอ คำสั่งซื้อเป็นการชำระเงินแบบทยอยจ่ายเท่านั้น
+MsgPaymentPaymentPartialTipsNotAllowed,เงินในบัตรไม่เพียงพอ การเพิ่มทิปไม่ได้รับอนุญาต
+MsgPaymentPaymentPartialCredit,บัตรมีเงินไม่เพียงพอ\nโปรดชำระยอดที่เหลือด้วยข้อเสนออื่น
+MsgPaymentPaymentOK,การชำระเงินสำเร็จแล้ว!
+MsgPaymentTipsSuccesfullyAdded,เคล็ดลับถูกเพิ่มไว้เรียบร้อยแล้ว!
+MsgPaymentPaymentFail,การชำระเงินล้มเหลว
+MsgPaymentTransactionFail,ธุรกรรมล้มเหลว
+MsgPaymentProceedToTheCashier,โปรดดำเนินการต่อไปยังพนักงานรับจ่ายเงินเพื่อชำระเงิน
+MsgPaymentAmountIsSmallForRounding,การชำระเงินด้วยเงินสดไม่ได้รับอนุญาต หากการปัดเศษนั้นจะทำให้การชำระเงินเท่ากับ 0.00 ดอลลาร์  โปรดใช้ประเภทการชำระเงินอื่น ๆ
+MsgPaymentAmountUnableRounding,การชำระเงินด้วยเงินสดไม่ได้รับอนุญาต หากการปัดเศษนั้นจะทำให้การชำระเงินเท่ากับ 0.00 ดอลลาร์  โปรดชำระเงินด้วยเงินสดที่ตรงตามจำนวน หรือใช้ประเภทการชำระเงินอื่น
+MsgMongooseHttpServerError,ข้อผิดพลาดเซิร์ฟเวอร์ HTTP
+MsgPaymentDebitRefund,การขอคืนเงินเดบิต
+MsgPaymentGiftCardUsed,ชำระเงินด้วยบัตรของขวัญ\nยอดคงเหลือที่ใช้ไป - %@\nยอดคงเหลือทั้งหมด - %@
+MsgPaymentDeletePaymentFromTable,ลบการชำระเงินจากตาราง?
+MsgPaymentHasNotCapturedTransactions,กลุ่มของคุณไม่ได้ดำเนินการให้เสร็จสมบูรณ์ภายใน 24 ชั่วโมง\nโปรดออกจากกลุ่ม
+MsgPaymentAutoCaptureJobFailed,การเก็บข้อมูลของงานคุณไม่ได้ดำเนินการให้เสร็จสมบูรณ์ภายใน 24 ชั่วโมง\nโปรดออกจากกลุ่ม
+MsgPaymentHasNotProcessedOfflineTransactions,คุณมี %d การชำระเงินแบบออฟไลน์ ที่ยังไม่ได้ดำเนินการเกินกว่า 24 ชั่วโมง\n\nโปรดบังคับให้ดำเนินการต่อ\n(หน้าจอการชำระเงินแบบออฟไลน์)
+MsgPaymentHasNotProcessedDeclinedPayments,คุณมี %d การชำระเงินที่ถูกปฏิเสธ ที่ยังไม่ได้ดำเนินการเกินกว่า 24 ชั่วโมง\n\nโปรดลองใหม่อีกครั้ง หรือลบข้อมูล\n(หน้าจอการชำระเงินที่ถูกปฏิเสธ)
+MsgPaymentHasNotProcessedRetryAll,ลองใหม่ทั้งหมดอีกครั้ง
+MsgPaymentRefundFailed,การขอคืนเงินล้มเหลว
+MsgPaymentErrorCardNumberInvalidDigitCount,หมายเลขบัตรต้องเป็น 12 ถึง 16 หลัก
+MsgPaymentErrorCardNumberInvalid,หมายเลขบัตรไม่ถูกต้อง
+MsgPaymentErrorCardExpired,บัตรของคุณหมดอายุ
+MsgPaymentErrorMissingFields,โปรดกรอกข้อมูลในช่องว่างให้สมบูรณ์:
+MsgPaymentEnterGratuity,ป้อนเงินค่าตอบแทน
+MsgPaymentAddGratuityToPayment,เช็คนี้มีเงินค่าตอบแทน  การชำระเงินนี้รวมถึงเงินค่าตอบแทนใด ๆ หรือทั้งหมดหรือไม่?
+MsgPaymentTotalGratuity,ยอดรวมเงินค่าตอบแทน
+MsgPaymentRemainingGratuity,เงินค่าตอบแทนที่เหลืออยู่
+MsgPaymentGratuityAmount,จำนวนเงินค่าตอนแทน
+MsgPaymentCheckHasOutstandingGratuity,เช็คนี้มีเงินค่าตอบแทนที่ค้างชำระ  ยังต้องการปิดหรือไม่?
+MsgPaymentSomeChecksHaveOutstandingGratuity,เช็คบางใบมีเงินค่าตอบแทนที่ค้างชำระ  ยังต้องการปิดหรือไม่?
+MsgFirstDataCreditCardBatchFormReport,กด รายงาน เพื่อสร้างรายงานการชำระเงิน
+MsgFirstDataCreditCardBatchSettlePayments,กด ชำระเงิน เพื่อสร้างรายงาน และชำระเงินทุกรายการ
+BtnFirstDataCreditCardSettlePayments,ชำระเงิน
+BtnFirstDataCreditCardReportPayments,รายงาน
+MsgPaymentPartialRefundIsNotAllowed,การเปลี่ยนแปลงทั้งหมด %@ ไม่ได้รับอนุญาต
+MsgUncapturedPaymentsNotificationReport,กด รายงาน เพื่อสร้างรายงานการชำระเงิน
+PaymentCash,เงินสด
+PaymentCredit,เครดิต
+PaymentCreditManual,เครดิตที่ป้อนเอง
+PaymentCreditPlus,เครดิต +
+PaymentGiftCard,บัตรของขวัญ
+PaymentCheck,เช็ค
+PaymentCustomerCredit,ลูกค้า เครดิต
+PaymentIndex,ดัชนี
+PaymentDebit,เดบิต
+PaymentBadge,เครื่องหมาย
+PaymentPreAuthFinalize,เสร็จสิ้นการชำระเงิน
+PaymentPreAuthCancel,ยกเลิกการขออนุมัติก่อนหน้านี้
+PaymentStanfordCard,บัตร Stanford
+PaymentStoreCredit,จัดเก็บ\nเครดิต
+CardTypeOther,อื่น ๆ
+CardTypeTrade,การแลกเปลี่ยน
+CardTypeHouseAccount,บัญชีค่านายหน้า
+CardTypeGiftCard,บัตรของขวัญ
+CardTypeDebit,เดบิต
+MsgPaymentEnterCheckOrCustomOptionNumber,ป้อน %@ หมายเลข
+MsgPaymentCheckEndorseAmountPaid,จำนวนเงินที่ชำระแล้ว
+MsgPaymentChargeBackToCard,จำนวนเงินที่มอบให้
+MsgPaymentChargeBackCash,จำนวนเงินที่มอบให้
+MsgTillAlertSubject,การแจ้งเตือนลิ้นชักเก็บเงิน%@
+MsgTillAlertMessage,ลิ้นชักเก็บเงินเปิดอยู่ %@ ลิ้นชักเก็บเงิน #%d ได้มาถึง %@
+MsgTillAlertMessageToCashier,เงินสดในลิ้นชักเก็บเงินเกินกว่า%@ขีดจำกัด\n โปรดดำเนินการเอาเงินเข้าธนาคารตอนนี้
+MsgTillsTillNameSingular,ลิ้นชักเก็บเงิน
+MsgTillMaxAmountReachedEmail,ลิ้นชักเก็บเงินเปิดอยู่ %@ ลิ้นชักเก็บเงิน #%d ได้มาถึง %@
+MsgReceiptTypeGift,ใบเสร็จของขวัญ
+MsgReceiptGift2,ของขวัญ
+BtnOrderHeaderSettings,การตั้งค่า
+BtnOrderHeaderCustomers,ลูกค้า
+BtnOrderHeaderOrders,คำสั่งซื้อ
+BtnSearch,ค้นหา
+BtnWelcome,ยินดีต้อนรับ
+MsgOrderCommission,ค่าคอมมิชชั่น
+MsgOrderEditCombo,แก้ไขคอมโบ
+MsgOrderEditQuantity,จำนวน
+MsgOrderEditSpecialRequest,คำร้องขอพิเศษ
+MsgOrderEditSelectComboItem,เลือกรายการคอมโบ
+MsgOrderEditNoInformationAvailable,[ไม่มีข้อมูล]
+BtnOrderEditSetQuantity,ตั้งค่าจำนวน
+BtnOrderEdit,แก้ไขตัวดัดแปลง
+BtnOrderEditDiningOption,การรับประทานอาหาร
+BtnOrderEditDiscount,รายการส่วนลด
+BtnOrderEditAddTax,เพิ่มภาษี
+BtnOrderEditRemoveTax,ลบภาษีออก
+BtnOrderEditChangeCourse,อาหารชุด %d
+BtnOrderEditChangeSeat,เปลี่ยนที่นั่ง
+BtnOrderEditShare,แบ่งปัน
+BtnOrderEditSplit,แยกออก
+BtnOrderEditFirstHalf,ครึ่งแรก
+BtnOrderEditSecondHalf,ครึ่งหลัง
+BtnOrderEditPrintLabel,พิมพ์ลาเบล
+BtnOrderEditServiceFee,ค่าธรรมเนียมการบริการ
+BtnOrderOverridePrice,แทนที่ราคา
+BtnOrderTrackCateringDelivery,วันที่ส่งมอบ
+BtnOrderCopyItem,สำเนา
+BtnOrderInventoryLookup,ใบแจ้งหนี้ ค้นหาข้อมูล
+BtnOrderModOptionNo,ไม่ใช่
+BtnOrderModOptionSide,ด้าน
+BtnOrderModOptionOnly,เฉพาะ
+BtnOrderModOptionLite,เล็กน้อย
+MsgOrderPayBalanceDue,ยอดที่ต้องชำระ
+MsgOrderPayAmountTendered,จำนวนเงินที่มอบให้
+MsgOrderPayChangeTitle,เปลี่ยนแปลง
+MsgOrderPayChangeDueTitle,เปลี่ยนแปลงการครบกำหนด:
+MsgOrderPayHide,ซ่อน
+MsgOrderPayTip,ทิป: %@
+MsgOrderPayAutoGratuity,เงินค่าตอบแทนอัตโนมัติ: %@
+MsgOrderPayChange,เปลี่ยนแปลง %@
+MsgOrderPayCashRounded,เงินสดที่ปัดเศษ: %@
+BtnOrderPayAddPoints,เพิ่ม %d คะแนน
+BtnOrderCaptionAddRewards,เพิ่มรางวัล
+BtnOrderCaptionAddPoints,เพิ่มคะแนน
+BtnOrderPayRedeemPoints,แลกคะแนน
+BtnOrderPayRedeemRewards,แลกรางวัล
+BtnOrderPayRedeemReward,แลกรางวัล
+BtnOrderPayRewards,รางวัล
+BtnOrderPayHotspot,ฮอตสปอต
+BtnOrderPayTipAmount,จำนวนเงินทิป
+BtnOrderPayEmail,อีเมล
+BtnOrderPayReprint,พิมพ์อีกครั้ง
+BtnOrderPayRefundPayments,ชำระเงินคืน
+BtnOrderPayRewardPoints,คะแนนรางวัล
+BtnOrderPaySplitBill,แยกบิล
+BtnOrderPayGiftReceipt,ใบเสร็จของขวัญ
+BtnOrderPayFiscalInvoice,ใบแจ้งหนี้
+BtnOrderPayDone,เสร็จเรียบร้อย
+BtnOrderPayRetryLoadCredit,จัดเก็บ\nเครดิต
+MsgModifiersTitle,เลือกตัวดัดแปลงสำหรับ %@
+MsgModifierSelectAtLeastNumberModifier,โปรดเลือกอย่างน้อย%d ตัวดัดแปลง
+MsgModifierSelectModifierTitle,โปรดเลือก:\n%@
+MsgModifierSelectModifierNames,มีตัวดัดแปลงอย่างน้อย %d ตัวใน %@\n
+MsgModifierSelectAmount,โปรดเลือกตัวดัดแปลงจำนวนสูงสุด %d ตัว
+MsgModifierSelectSubstitution,โปรดเลือกรายการทดแทนสำหรับ %@
+BtnModifiersFirstHalf,ครึ่งแรก
+BtnModifiersSecondHalf,ครึ่งหลัง
+MsgModifierNA,ไม่มีอยู่
+MsgQuickModifiers,ตัวดัดแปลงด่วน
+MsgSpecialRequestSelect,เลือกคำร้องขอพิเศษ
+MsgSpecialRequestEnter,ป้อนคำร้องขอพิเศษ
+MsgOther,อื่น ๆ
+MsgReason,เหตุผล:
+MsgVoidEnterReason,ป้อนเหตุผล
+MsgVoidSelectProductsToVoid,เลือกผลิตภัณฑ์เพื่อยกเลิก
+MsgVoidSelectProductsToComp,เลือกผลิตภัณฑ์เพื่อทำให้เสร็จสมบูรณ์
+MsgVoidSelectProductsTo,เลือกผลิตภัณฑ์เพื่อ
+MsgVoidCheckNumber,เช็ค #
+MsgVoidGiftCardNumberForAmount,คุณต้องการลดบัตร #%@ โดย %@ หรือไม่?
+MsgVoidGiftCardAndDecrease,เลือกบัตรของขวัญเพื่อลด
+BtnDecrease,ลด
+OrderNotEditable,คำสั่งซื้อเปิดอยู่บนเครื่องบริการอื่น  โปรดปิดเครื่องบริการนั้นเพื่อแก้ไขข้อมูลที่นี่
+OrderHasChanges,คำสั่งซื้อที่เปลี่ยนแปลง  โปรดบันทึกข้อมูลก่อนออกจากระบบ
+PaymentsAreDisabled,การชำระเงินถูกปิดการใช้งาน
+Orders,คำสั่งซื้อ
+Order,คำสั่งซื้อ
+Invoice,ใบแจ้งหนี้
+OrderCancel,ยกเลิกคำสั่งซื้อ
+MsgSplitItemTitle,เลือกเช็ค
+MsgSplitItemAddBill,เพิ่มเช็ค
+MsgSplitItemNotAllowedPaid,รายการเป็นของบิลที่ชำระเงินแล้ว การแยกรายการไม่ได้รับอนุญาต
+MsgChangeSeatNotAllowedPaid,รายการเป็นของบิลที่ชำระเงินแล้ว การเปลี่ยนแปลงที่นั่งไม่ได้รับอนุญาต
+ActionExchangeSelectedItem,แลกเปลี่ยนรายการที่เลือกไว้
+ActionExchangeSeveralItems,แลกเปลี่ยนหลายรายการ
+ActionVoidSelectedItem,ยกเลิกรายการที่เลือกไว้
+ActionVoidSeveralItems,ยกเลือกหลายรายการ
+ActionReturnSelectedItem,คืนค่ารายการที่เลือกไว้
+ActionReturnSeveralItems,คืนค่าหลายรายการ
+ActionVoidReturnSeveralItems,คืนค่าหลายรายการ
+ActionMoveSelectedItem,ย้ายรายการที่เลือกไว้
+ActionMoveSeveralItems,ย้ายหลายรายการ
+ActionChangeSeat,เปลี่ยนที่นั่ง
+ActionAddQuantity,เพิ่มจำนวน
+ActionDiscountItem,รายการส่วนลด
+ActionSplitItem,แยกรายการ
+ActionEditModifiers,แก้ไขตัวดัดแปลง
+ActionChangeDining,เปลี่ยนแปลงการรับประทานอาหาร
+ActionChangeCourse,เปลี่ยนแปลงอาหารชุด
+ActionEditSpecialRequest,คำร้องขอพิเศษ
+ActionFireNextCourse,ปรุงอาหาร %d
+ActionCopyItem,ยกเลิกรายการที่เลือกไว้
+ActionCopyItems,ยกเลือกหลายรายการ
+ActionLayawayItem,รายการที่ผ่อนชำระได้
+ActionLayawayItems,รายการที่ผ่อนชำระได้
+ActionReprintItem,พิมพ์รายการใหม่อีกครั้ง
+ActionReprintItems,พิมพ์รายการใหม่อีกครั้ง
+ActionRemakeItem,พิมพ์รายการใหม่อีกครั้ง
+ActionRemakeItems,รายการที่คืนค่า
+ActionManageCommission,แบ่งส่วนคอมมิชชั่น
+ActionReprintToKitchen,ส่งไปยังห้องครัว
+ActionServiceFee,ค่าธรรมเนียมการบริการ
+ActionCompSelectedItem,%@ รายการที่เลือกไว้
+ActionCompSeveralItems,%@ หลายรายการ
+ActionReprintOrderItems,พิมพ์รายการใหม่อีกครั้ง
+ActionSendSelectedItem,ส่งรายการที่เลือกไว้
+ActionSendSeveralItems,ส่งหลายรายการ
+ActionSendAllItems,ส่งรายการทั้งหมด
+ActionSendCourse,ส่งอาหารชุด
+ActionDiscountSelectedItem,ส่วนลดรายการที่เลือกไว้
+ActionDiscountSeveralItems,ส่วนลดหลายรายการ
+ActionSelectItemsTo,เลือกรายการไปที่ %@
+ActionOverridePrice,แทนที่ราคา
+ActionCopy,คัดลอกรายการ
+ActionVoid,คัดลอกรายการ
+ActionLayaway,**ผ่อนชำระ**
+ActionMove,ย้ายรายการ
+ActionExchange,แลกเปลี่ยนรายการ
+ActionReturn,คืนค่ารายการ
+ActionVoidReturn,คืนค่ารายการ
+ActionComp,ทำรายการให้เสร็จสมบูรณ์
+ActionComps,ทำรายการให้เสร็จสมบูรณ์
+ActionsForItem,การดำเนินการสำหรับ [%@]:
+AdditionalActions,การดำเนินการเพิ่มเติม
+MsgComp,ทำรายการให้เสร็จสมบูรณ์
+MsgActionScreenItemSentAt,ส่งรายการไปที่
+GiftCardCreate,สร้างใบรับรอง
+GiftCardManage,จัดการบัตรของขวัญ
+GiftCardVoid,ยกเลิกบัตรของขวัญ
+StoreCreditVoid,จัดเก็บ\nเครดิต
+RewardCardCreate,สร้างบัตรรางวัล
+RewardCardManage,จัดการบัตรรางวัล
+SplitEven,แยกออกเท่า ๆ กัน
+SplitOdd,แยกออกด้วยตนเอง
+SplitSelect,แยกออกโดยรายการ
+SplitSeat,แยกออกโดยหมายเลขที่นั่ง
+PosStation,เครื่องบริการ
+PosStations,เครื่องบริการ
+PosStationMain,หลัก
+SetAsMain,ตั้งเป็นเครื่องหลัก
+MsgRegistrationInProcess,กำลังลงทะเบียน...
+MsgRegistrationFailed,การลงทะเบียนล้มเหลว
+MsgRegistrationFailedWithReason,เหตุผลที่การลงทะเบียนล้มเหลว - “%@”
+MsgRegistrationResync,ซิงก์แอปพลิเคชันใหม่อีกครั้งหรือไม่?
+MsgRegistrationTokenRetrieveFail,การพิสูจน์ตัวจริงล้มเหลว ลองอีกครั้งหรือไม่?
+MsgRegistrationTokenRetrieveFailWithReason,เหตุผลที่การพิสูจน์ตัวจริงล้มเหลว - “%@”\nลองอีกครั้งหรือไม่?
+MsgRegistrationConfirmSettings,URL ของคุณคือ: %@\n\nเครื่องติดตั้งของคุณคือ: %@\n\nถูกต้องหรือไม่?
+MsgRegistrationTokenAuthenticationFailed,การพิสูจน์ตัวจริงล้มเหลว
+MsgRefreshInProcess,กำลังดาวน์โหลดการตั้งค่า...
+MsgProductGroups,กลุ่มผลิตภัณฑ์
+MsgCustomerGroups,กลุ่มลูกค้า
+MsgShipRates,อัตราค่าการจัดส่ง
+MsgModifierClasses,ระดับตัวดัดแปร
+MsgModifierDiscounts,ส่วนลดตัวดัดแปร
+MsgProductCategories,หมวดหมู่ผลิตภัณฑ์
+MsgUpsellCombos,ชุดการขายต่อยอด
+MsgAttributes,คุณลักษณะ
+MsgAttributeValues,ค่าคุณลักษณะ
+MsgIngredients,ส่วนผสม
+MsgCallNames,ชื่อเรียก
+MsgTaxes,ภาษี
+MsgTaxTables,ตารางภาษี
+MsgTableTags,แท็กภาษี
+MsgDisabledInTrainingMode,การทำหน้าที่นี้ถูกปิดใช้งานในโหมดฝึกอบรม
+MsgDisabledInTrainingModeAppleStore,การทำหน้าที่นี้ถูกปิดใช้งาน
+MsgIdentityProtectionTitle,เอกลักษณ์การป้องกันการโจรกรรม
+MsgIdentityProtectionVerify,กรุณาตรวจสอบ
+MsgDateErrors,วันที่ไม่ถูกต้อง
+MsgDateRangeErrors,ช่วงเวลาการรายงานมากเกินกว่าหนึ่งสัปดาห์
+MsgOrdersReportWarningNoData,บางคำสั่งซื้อของคุณอาจเปิดอยู่ หรือไม่ได้ซิงก์ไปยังเซิร์ฟเวอร์ ดังนั้นรายงานสรุปยอดการขายอาจไม่สมบูรณ์ ดำเนินการต่อหรือไม่?
+MsgOrdersReportWarningUnsyncedOrders,บางคำสั่งซื้อของคุณไม่ได้ซิงก์ไปยังเซิร์ฟเวอร์ ดังนั้นรายงานสรุปยอดการขายอาจไม่สมบูรณ์ ดำเนินการต่อหรือไม่?
+MsgOrdersReportWarningOpenOrders,คุณมีคำสั่งซื้อที่เปิดอยู่:
+MsgOrdersReportManagerWarningOpenUnsyncedOrders,มีคำสั่งซื้อที่เปิดอยู่ และบางคำสั่งซื้อไม่ได้ซิงก์ไปยังเซิร์ฟเวอร์ ดังนั้นรายงานสรุปยอดการขายอาจไม่สมบูรณ์ ดำเนินการต่อหรือไม่?
+MsgOrdersReportManagerWarningOpenOrders,มีคำสั่งซื้อที่เปิดอยู่ ดังนั้นรายงานสรุปยอดการขายอาจไม่สมบูรณ์ ดำเนินการต่อหรือไม่?
+MsgOrdersReportManagerWarningUnsyncedOrders,บางคำสั่งซื้อไม่ได้ซิงก์ไปยังเซิร์ฟเวอร์ ดังนั้นรายงานสรุปยอดการขายอาจไม่สมบูรณ์ ดำเนินการต่อหรือไม่?
+MsgOrdersReportManagerWarningNoData,หลายคำสั่งซื้ออาจเปิดอยู่ หรือไม่ได้ซิงก์ไปยังเซิร์ฟเวอร์ ดังนั้นรายงานสรุปยอดการขายอาจไม่สมบูรณ์ ดำเนินการต่อหรือไม่?
+MsgClockInToAccessError,พนักงานไม่ได้ลงเวลาเข้างาน หรือการลงเวลาเข้างานไม่ได้รับการยืนยัน
+MsgClockInToAccessClockIn,เข้างาน
+MsgClockInToAccessManagerOverride,แทนที่ผู้จัดการ
+MsgClockInToAccessOverride,แทนที่
+MsgClockInToAccessCancel,ยกเลิก
+MsgClockInDisableClockInCheck,ปิดการใช้งานการตรวจสอบการลงเวลาเข้างาน
+MsgClockInForHours,เป็นเวลากี่ชั่วโมง
+MsgBarTabCardReaderLostConnection,ไม่สามารถเชื่อมต่อไปยังการรูดบัตร\nลองเชื่อมต่ออีกครั้งหรือไม่
+MsgDataStorageDbBackup,การสำรองข้อมูลฐานข้อมูล รุ่น: %@
+MsgDataStorageDbPosStations,ฐานข้อมูลมาจากเครื่องบริการ POS: %@
+MsgDataStoreUnableToFindPos2v,ไม่สามารถค้นหา pos2v.sqlite
+MsgDataStorageConfigureEmail,กำหนดค่าอีเมลของคุณเพื่อใช้คุณสมบัตินี้
+MsgDataStorageFailedToCreateWritableDb,การสร้างไฟล์ฐานข้อมูลที่สามารถเขียนได้ล้มเหลว พร้อมข้อความแสดงข้อผิดพลาด ‘%@’
+MsgDataStorageDataFetchFailed,การนำเข้าข้อมูลล้มเหลว
+MsgDataStorageReportsSales,ยอดขาย
+MsgDataStorageReportsTotalOrders,คำสั่งซื้อทั้งหมด
+MsgDataStorageReportsAverageSale,ยอดขายเฉลี่ย
+MsgDataStorageReportsTaxableSales,ยอดขายที่เก็บภาษีได้
+MsgDataStorageReportsNonTaxableSales,ยอดขายที่ไม่สามารถเก็บภาษีได้
+MsgDataStorageReportsCRVCharges,ค่าใช้จ่าย CRV
+MsgDataStorageReportsTotalProductSales,ยอดขายผลิตภัณฑ์ทั้งหมด
+MsgDataStorageReportsTotalSalesLower,ยอดขายรวม
+MsgDataStorageReportsItemDiscounts,ขอใช้ส่วนลด
+MsgDataStorageReportsOrderDiscounts,ส่วนลดคำสั่งซื้อ
+MsgDataStorageReportsCoupons,คูปอง
+MsgDataStorageReportsTotalDiscounts,ส่วนลดทั้งหมด
+MsgDataStorageReportsNetSales,ยอดขายสุทธิ
+MsgDataStorageReportsSalesTax,ภาษีการขาย
+MsgDataStorageReportsSurcharges,เก็บเงินเพิ่ม
+MsgDataStorageReportsRoundingDeltas,ส่วนต่างของการปัดเศษ
+MsgDataStorageReportsTaxRebate,เงินภาษีที่หักคืนให้
+MsgDataStorageReportsTotalTaxes,ภาษีรวม
+MsgDataStorageReportsDepositTotal,เงินฝาก
+MsgDataStorageReportsApplDepTotal,นำเงินฝากมาใช้
+MsgDataStorageReportsTotalTax,ภาษีรวม
+MsgDataStorageReportsNetToAccountFor,ค่าสุทธิไปยังบัญชี
+MsgDataStorageReportsNetToAccountForLower,ค่าสุทธิไปยังบัญชี
+MsgDataStorageReportsVoids,ยกเลิก
+MsgDataStorageReportsVoidedItems,รายการที่ยกเลิก
+MsgDataStorageReportsVoidedTotal,ยอดรวมที่ยกเลิก
+MsgDataStorageReportsReturns,คืนค่า
+MsgDataStorageReportsReturnedItems,รายการที่คืนค่า
+MsgDataStorageReportsReturnedTotal,ยอดรวมที่คืนค่า
+MsgDataStorageReportsRefunds,การขอคืนเงิน
+MsgDataStorageReportsRefundsNumber,หมายเลขการขอคืนเงิน
+MsgDataStorageReportsRefundsTotal,ยอดรวมการขอคืนเงิน
+MsgDataStorageReportsComps,คำร้องเรียน
+MsgDataStorageReportsCashAdjustments,การปรับเปลี่ยนเงินสด
+MsgDataStorageReportsPayouts,ชำระเงินออก
+MsgDataStorageReportsPayins,รับเงินเข้า
+MsgDataStorageReportsPayments,การชำระเงิน
+MsgDataStorageReportsPaymentsLower,การชำระเงิน
+MsgDataStorageReportsCashPaymentsReceived,การชำระเงินสดที่ได้รับ
+MsgDataStorageReportsLiabilities,ยอดรวมหนี้สิน
+MsgDataStorageReportsCash,เงินสด
+MsgDataStorageReportsTips,ทิป
+MsgDataStorageReportsTipsLowercase,ทิป
+MsgDataStorageReportsCashTips,ทิปเงินสด
+MsgDataStorageReportsCreditTips,ทิปเครดิต
+MsgDataStorageReportsIndexTips,ทิปดัชนี
+MsgDataStorageReportsGiftTips,ทิปของขวัญ
+MsgDataStorageReportsDebitTips,ทิปเดบิต
+MsgDataStorageReportsHouseAccountTips,ทิปบัญชีค่านายหน้า
+MsgDataStorageReportsTradeTips,ทิปการแลกเปลี่ยน
+MsgDataStorageReportsZapperTips,ทิปอื่น ๆ
+MsgDataStorageReportsStoreCreditTips,จัดเก็บ\nเครดิต
+MsgDataStorageReportsOtherTips,ทิปอื่น ๆ
+MsgDataStorageReportsTotalTips,ยอดรวมทิป
+MsgDataStorageReportsTotal,ยอดรวม
+MsgDataStorageReportsEmployee,พนักงาน
+MsgDataStorageReportsEmployeeHas1OpenOrderOnServer,พนักงานมี 1 คำสั่งซื้อที่เปิดอยู่บนเซิร์ฟเวอร์
+MsgDataStorageReportsEmployeeHasManyOpenOrderOnServer,พนักงานมี %@ คำสั่งซื้อที่เปิดอยู่บนเซิร์ฟเวอร์
+MsgDataStorageReports1OpenOrderOnServer,1 คำสั่งซื้อที่เปิดอยู่บนเซิร์ฟเวอร์
+MsgDataStorageReportsManyOpenOrderOnServer,%@ คำสั่งซื้อที่เปิดอยู่บนเซิร์ฟเวอร์
+MsgDataStorageReportsType,ประเภท
+MsgDataStorageReportsPayment,การชำระเงิน
+MsgDataStorageReportsTip,ทิป
+MsgDataStorageReportsTypePaymentForEpson,การชำระเงินประเภท             #               \n
+MsgDataStorageReportsTotal0ForEpson,ยอดรวม                0                0.00\n
+MsgDataStorageReportsTypePaymentTipTotalForEpson,การชำระเงินประเภท    #       ทิป     ยอดรวม\n
+MsgDataStorageReportsTotal0000ForEpson,ยอดรวม      0      0.00      0.00      0.00\n
+MsgDataStorageReportsTypePaymentForRaster,การชำระเงินประเภท             #               \n
+MsgDataStorageReportsTotal0ForRaster,ยอดรวม                0                0.00\n
+MsgDataStorageReportsTypePaymentTipTotalForRaster,การชำระเงินประเภท    #       ทิป     ยอดรวม\n
+MsgDataStorageReportsTotal0000ForRaster,ยอดรวม      0      0.00      0.00      0.00\n
+MsgDataStorageReportsCashDueEmployee,พนักงานที่มีเงินสดครบกำหนด
+MsgDataStorageReportsCashDueHouse,นายหน้าที่มีเงินสดครบกำหนด
+MsgDataStorageReportsOrder_,คำสั่งซื้อ
+MsgDataStorageReportsAmount,จำนวนเงิน
+MsgDataStorageReportsTransactions,ธุรกรรม
+MsgDataStorageReportsDeclaredTips,ทิปที่ได้แจ้งไว้
+MsgDataStorageReportsOpenOrdersMany,คำสั่งซื้อที่เปิดอยู่
+MsgDataStorageReportsPrintDate,พิมพ์วันที่
+MsgDataStorageReportsProductData,ข้อมูลผลิตภัณฑ์
+MsgDataStorageReportsProductByClassData,ข้อมูลผลิตภัณฑ์
+MsgDataStorageReportsProductByCategoryData,ข้อมูลผลิตภัณฑ์
+MsgDataStorageReportsProductBySubcategoryData,ข้อมูลผลิตภัณฑ์
+MsgDataStorageReportsClass,ระดับ
+MsgDataStorageReportsSalesLowercase,ยอดขาย
+MsgDataStorageReportsVisa,วีซ่า
+MsgDataStorageReportsMasterCard,มาสเตอร์การ์ด
+MsgDataStorageReportsDiscover,ดิสคัฟเวอร์
+MsgDataStorageReportsAmericanExpress,อเมริกัน เอ็กซ์เพรส
+MsgDataStorageReportsGiftCards,บัตรของขวัญ
+MsgDataStorageReportsOther,อื่น ๆ
+MsgDataStorageReportsDebit,เดบิต
+MsgDataStorageReportsTotalPayments,ยอดรวมการชำระเงิน
+MsgDataStorageReportsTotalTipsLowercase,ยอดรวมทิป
+MsgDataStorageReportsAllEmployees,พนักงานทั้งหมด
+MsgDataStorageReportsEmployeeLowercase,พนักงาน
+MsgDataStorageReportsGuests,ลูกค้า
+MsgDataStorageReportsGuestsNumber,จำนวนลูกค้ารวม
+MsgDataStorageReportsGuestsAverageSale,ยอดขายเฉลี่ยต่อลูกค้า
+MsgDataStorageReportsOtherPayments,การชำระเงินอื่น ๆ
+MsgDataStorageReportsHourlySalesHeader,ยอดขายรายชั่วโมง
+MsgDataStorageReportsHourlySalesTime,เวลา
+MsgDataStorageReportsHourlySalesSales,ยอดขาย
+MsgDataStorageReportsHourlySalesTrans,#TR
+MsgDataStorageReportsHourlySalesAvgTrans,TR เฉลี่ย
+MsgDataStorageReportsHourlySalesSalesPercent,%ยอดขาย
+MsgDataStorageReportsHourlySalesTotals,ยอดรวม:
+MsgDataStorageReportsLaborHeader,แรงงาน
+MsgDataStorageReportsLaborTime,เวลา
+MsgDataStorageReportsLaborSales,ยอดขาย
+MsgDataStorageReportsLaborManHrs,ชั่วโมงแรงงาน
+MsgDataStorageReportsLaborSPMH,ยอดขายต่อชั่วโมงแรงงาน
+MsgDataStorageReportsLaborWages,ค่าจ้าง
+MsgDataStorageReportsLaborPercentLabor,%แรงงาน
+MsgDataStorageReportsLaborTotals,ยอดรวม:
+MsgDataStorageReportsVoucherDetailsName,ชื่อ
+MsgDataStorageReportsVoucherDetailsTotal,ยอดรวม
+MsgDataStorageReportsTender,ส่งมอบ
+MsgDataStorageReportsAdj,ปรับยอด
+MsgDataStorageReportsAmex,Amex
+MsgDataStorageReportsMC,MC
+MsgDataStorageReportsTotals,ยอดรวม
+MsgDataStorageReportsLevelup,เพิ่มระดับ
+MsgDataStorageReportsCashAdjDueToEmp,ปรับยอด พนักงานที่มีเงินสดครบกำหนด
+MsgDataStorageReportsCashAdjDueToHouse,ปรับยอด เงินสดครบกำหนดต่อนายหน้า
+MsgDataStorageReportsCashSalesReceived,ยอดขายเงินสดที่ได้รับ
+MsgDataStorageReportGC,ก.
+MsgDataStorageReportsServiceFees,ค่าธรรมเนียมการบริการ
+MsgDataStorageReportsTaxServiceFees,ค่าธรรมเนียมการบริการที่เก็บภาษีได้
+MsgDataStorageReportsUntaxServiceFees,ค่าธรรมเนียมการบริการที่ไม่สามารถเก็บภาษีได้
+MsgDataStorageReportsTotalServiceFees,ยอดรวมค่าธรรมการบริการ
+MsgDataStorageReportsGrossSales,ยอดรวมการขาย
+MsgDataStorageConnectionErroFailedToOpenDatabase,การเปิดฐานข้อมูลด้วยข้อความ ‘%s’ ล้มเหลว
+MsgDataStorageConnectionErroFailedToCloseDatabase,ข้อผิดพลาด: การปิดฐานข้อมูลด้วยข้อความ ‘%s’ ล้มเหลว
+MsgDataStorageUnknownProvider,ไม่ทราบที่มา
+MsgDatabaseSendFailure,ไม่สามารถส่งฐานข้อมูลไปยังเซิร์ฟเวอร์
+MsgDatabaseUpdateFailed,POS ไม่สามารถอัปเดตฐานข้อมูลภายในได้ โปรดปรับรุ่นลงเป็นรุ่น %@
+MsgDatabaseSending,การส่งฐานข้อมูลไปยังเซิร์ฟเวอร์
+MsgDatabaseSendingBackup,การส่งการสำรองฐานข้อมูล
+MsgDatabaseUpgradingDatabase,การอัปเกรดฐานข้อมูล
+MsgDatabaseCopying,การสร้างการคัดลอกฐานข้อมูล
+MsgDatabaseSendSuccess,ฐานข้อมูลได้รับการอัปเดตเรียบร้อยแล้ว การแจ้งเตือนถูกส่งไปยัง support@revelsystems.com
+MsgEmployeeSalesReport,รายงานยอดขายของพนักงาน
+MsgEmployeeSalesReportDateStart,วันที่เริ่ม
+MsgEmployeeSalesReportDateEnd,วันที่สิ้นสุด
+MsgEmployeeSalesReportEmployee,พนักงาน
+MsgEmployeeSalesReportOpenOrders,คำสั่งซื้อที่เปิดอยู่
+MsgEmployeeSalesReportProductData,ข้อมูลผลิตภัณฑ์
+MsgEmployeeSalesReportProductDataByClass,ข้อมูลผลิตภัณฑ์
+MsgEmployeeSalesReportProductDataByCategory,หมวดหมู่ผลิตภัณฑ์
+MsgEmployeeSalesReportProductDataBySubcategory,เลือกหมวดหมู่ย่อย
+MsgEmployeeSalesReportCashTransactions,ธุรกรรมเงินสด
+MsgEmployeeSalesReportCreditTransactions,ธุรกรรมเครดิต
+MsgEmployeeSalesReportOtherTransactions,ธุรกรรมอื่น
+MsgEmployeeSalesReportLocalData,ข้อมูลภายในเครื่อง
+MsgEmployeeSalesReportHourlySales,ยอดขายรายชั่วโมง
+MsgEmployeeSalesReportLabor,แรงงาน
+MsgEmployeeSalesReportTooLongOperation,การนำเข้ารายงานจากระบบส่วนหลังใช้เวลานานเกินไป แสดงข้อมูลภายในเครื่องหรือไม่?
+MsgEmployeeSalesReportFailedOperation,การนำเข้ารายงานจากระบบส่วนหลังล้มเหลว แสดงข้อมูลภายในเครื่องหรือไม่?
+BtnEmployeeSalesReportGetReport,รับรายงาน
+MsgSplitBillNewBillAddConfirm,การสร้างเช็คฉบับใหม่จะเปลี่ยนแปลงค่าในเช็คฉบับก่อนหน้า
+MsgSplitBillCheckTitle,เช็ค #%@ - %d
+MsgSplitBillCheckNew,เช็ค #%@ - %d [ใหม่]
+MsgSplitBillAllItemsAreAddedAlready,รายการทั้งหมดได้ถูกเพิ่มไว้แล้ว
+MsgSplitBillSelectProducts,เลือกผลิตภัณฑ์
+MsgSplitBillAdjustBillsTitle,ปรับยอดบิล
+MsgSplitBillAdjustAmountDue,จำเป็นต้องมีการปรับยอด
+MsgSplitBillAdjustTotal,ยอดรวม
+MsgSplitBillAdjustAdjust,จำนวนเงิน\nที่ปรับยอด
+MsgSplitBillAdjustBill,เช็ค
+MsgSplitBillApplyOrderDiscount,คำสั่งซื้อนี้มีส่วนลด %@  เช็ดฉบับใดที่คุณต้องการให้ส่วนลด?
+MsgSplitBillOrderNumberReceipt,หมายเลขคำสั่งซื้อ - ใบเสร็จ
+MsgSplitBillName,ชื่อ
+MsgSplitBillQty,จำนวน
+MsgSplitBillEach,ชิ้น
+MsgSplitBillTotal,ยอดรวม
+MsgSplitBillDiscounts,ส่วนลด:
+MsgSplitBillTotalDiscounts,ยอดรวมส่วนลด:
+MsgSplitBillSubTotal,ยอดรวมย่อย:
+MsgSplitBillSurcharge,เก็บเงินเพิ่ม:
+MsgSplitBillTax,เก็บภาษี:
+MsgSplitBillTOTAL,ยอดรวม:
+MsgSplitBillBalanceDue,ยอดที่ต้องชำระ:
+MsgSplitBillAddItems,เพิ่มรายการ
+MsgSplitBillPrintCheck,พิมพ์เช็ค
+MsgSplitBillPayCheck,จ่ายเช็ค
+MsgSplitBillTipGrat,ทิป/เงินค่าตอบแทน
+MsgSplitBillDiscount,ส่วนลด
+MsgProductNameSelectoptions,%@: เลือกตัวเลือก
+BtnMods,โหมด
+MsgUpsellWithSlotAndPrice,พร้อมด้วย %@
+MsgUpsellProductNameChooseOptions,%@: เลือก %@ ตัวเลือก
+MsgUpsellDfltNameViewAll,ดูทั้งหมด
+MsgUpsellDfltNameNoMeal,ไม่มีอาหาร
+MsgUpsellDfltNameSmall,เล็ก
+MsgUpsellDfltNameMedium,กลาง
+MsgUpsellDfltNameLarge,ใหญ่
+MsgUpsellDfltNameXtraLarge,ใหญ่พิเศษ
+MsgUpsellDfltNameSuper,ซูเปอร์
+MsgUpsellCreatingUpsellProduct,การสร้างผลิตภัณฑ์ขายต่อยอด
+MsgSplitBillSeatExistingPaymentsWillBeRefunded,การชำระเงินที่มีอยู่จะได้รับการคืนเงิน คุณแน่ใจหรือไม่?
+MsgSplitBillPrintAllChecks,พิมพ์เช็คทั้งหมด
+MsgSplitBillClearSplitBills,ลบบิลที่แยก
+MsgSplitBillOrderScreen,หน้าจอคำสั่งซื้อ
+MsgSplitBillRefundPayments,ชำระเงินคืน
+MsgSplitBillNewCheck,เพิ่มการตรวจสอบใหม่
+MsgSplitBillPAID,ชำระเงินแล้ว
+MsgSplitBillCanNotAddItemToPaidBill,ไม่สามารถเพิ่มรายการไปยังบิลที่ชำระเงินแล้ว โปรดใช้บิลอื่น
+MsgSplitBillSplitBill,แยกบิล
+MsgSplitBillEnterNumberOfPersons,ป้อนจำนวนของผู้คน
+MsgPaymentProcessorsProcessingPleaseWait,กำลังประมวลผล โปรดรอสักครู่...
+BtnGiftCardLinked,บัตรที่ถูกเชื่อมโยง
+BtnGiftCardLink,เชื่อมโยงบัตรของขวัญ
+BtnGiftCardProcessorsReSwipeCard,รูดอีกครั้ง
+MsgGiftCardSelectLinked,เลือกบัตรของขวัญที่ถูกเชื่อมโยง
+MsgGiftCardProcessorsCardNumberEmpty,หมายเลขบัตรว่างเปล่า! โปรดลองอีกครั้ง!
+MsgGiftCardProcessorsZerroAmount,จำนวนเงินเป็นดอลลาร์ต้องมากกว่า $0.00!
+MsgGiftCardProcessorsEnterAmount,ป้อนจำนวนเงิน
+MsgGiftCardProcessorsCardSuccAct,เปิดใช้งานบัตรสำเร็จแล้ว\nยอดคงเหลือ: %.2f
+MsgGiftCardProcessorsCardUpdatedSucc,อัปเดตบัตรสำเร็จแล้ว
+MsgGiftCardProcessorsInsufficientFunds,เงินในบัตรไม่เพียงพอ\nยอดคงเหลือ: %.2f
+MsgGiftCardProcessorsFailedToUpdate,อัปเดตบัตรล้มเหลว
+MsgGiftCardProcessorsFailedToActivate,เปิดใช้งานบัตรล้มเหลว
+MsgGiftCardProcessorsFailedToFetch,นำเข้าข้อมูลบัตรล้มเหลว
+MsgGiftCardProcessorsValutecError,ข้อผิดพลาด Valutec
+MsgGiftCardProcessorsFailedToCreate,สร้างบัตรล้มเหลว
+MsgGiftCardProcessorsCardCreatedSucc,สร้างบัตร %@ สำเร็จแล้ว\nยอดคงเหลือ: %.2f
+MsgGiftCardProcessorsCardIsActive,บัตรเปิดใช้งานแล้ว
+MsgGiftCardProcessorsCardIsNotActive,บัตรยังไม่ได้เปิดใช้งาน
+MsgGiftCardProcessorsRefundOfGiftPayment,การขอคืนเงินการชำระเงินบัตรของขวัญต่ำกว่า %@ ไม่ได้รับอนุญาต
+MsgGiftCardProcessorsGivexTransFailed,ธุรกรรม Givex ล้มเหลว!\n%@
+MsgGiftCardProcessorsCardCreatedSucc2,สร้างบัตร %@ สำเร็จแล้ว
+MsgGiftCardProcessorsCardSuccAct2,เปิดใช้งานบัตรสำเร็จแล้ว
+MsgGiftCardProcessorsCardValueAdded,มูลค่าบัตรถูกเพิ่มไว้แล้ว
+MsgGiftCardProcessorsFailedToUpdateCard,อัปเดตบัตรล้มเหลว #%@\n%@
+MsgGiftCardProcessorsCustomerIsLinkedSucc,เชื่อมโยงลูกค้าสำเร็จแล้ว
+MsgGiftCardProcessorsFailedToLinkCust,เชื่อมโยงลูกค้าล้มเหลว
+MsgGiftCardProcessorsFailedToLinkCheckLog,เชื่อมโยงลูกค้าล้มเหลว
+MsgGiftCardProcessorsFailedToSyncCustomer,ซิงก์ข้อมูลบัตรล้มเหลว การดำเนินการจะถูกกระทำอีกครั้งในฉากหลัง
+MsgGiftCardProcessorsSwipeGiftCard,รูดบัตรของขวัญ
+MsgGiftCardProcessorsWaitingForCardSwipe,กำลังรอการรูดบัตร
+MsgGiftCardProcessorsCardNrMustBeGreateThanZero,รหัสบัตรต้องมีความยาวมากกว่า 0
+MsgGiftCardProcessorsBadSwipe,รูดบัตรไม่ผ่าน ลองอีกครั้ง
+MsgGiftCardProcessorsWaitingForSwipe,กำลังรอคุณรูดบัตร
+MsgGiftCardProcessorsAddGiftCardSupport,เพิ่มการช่วยเหลือบัตรของขวัญหรือไม่?
+MsgGiftCardProductName,ของขวัญ%.2f
+MsgGiftCardProcessorsCardNotFound,ไม่พบหมายเลขบัตร โปรดลองอีกครั้ง
+MsgGiftCardsManage,จัดการบัตรของขวัญ
+MsgGiftCardsCustomerHasNoCards,%@ ยังไม่มีบัตรของขวัญที่เชื่อมโยงใด ๆ
+MsgGiftCardPromptToLinkCardToCustomer,คุณต้องการแนบบัตรของขวัญ  #%@ ไปยังลูกค้า %@ หรือไม่?
+MsgPaymentGiftCardAuthorization,การอนุมัติบัตรของขวัญ
+MsgCardReadersPortableError,ข้อผิดพลาดอุปกรณ์พกพาได้
+MsgCardReadersPleaseConfigProperSwipe,โปรดกำหนดค่าการรูดที่ถูกต้องสำหรับเครื่องบริการนี้
+MsgCardReadersCardSwipeNoData,การรูดบัตรไม่ถูกต้อง
+MsgCardReadersFailedToReadCardNumber,อ่านหมายเลขบัตรล้มเหลว
+BtnRewardCardsLinkCustomer,เชื่อมโยงลูกค้า
+BtnRewardCardsLinkOtherCustomer,เชื่อมโยงลูกค้าอื่น
+BtnRewardCardsLinkCurrentCustomer,เชื่อมโยงลูกค้าปัจจุบัน
+BtnRewardCardsCustomerInfo,ข้อมูลลูกค้า
+BtnRewardCardsLink,เชื่อมโยงรางวัล
+BtnRewardCardsAddPoints,เพิ่มคะแนนรายการ
+MsgRewardCardsCardNrLengthNoOption,หมายเลขบัตรต้องมีความยาว %d หรือ %d หลัก
+MsgRewardCardsCardNrLength,หมายเลขบัตรต้องมีความยาว %d หรือ %d หลัก
+MsgRewardCardsSwipeRewardCard,รูดบัตรรางวัล
+MsgRewardCardsSwipeOrScanRewardCard,สแกน หรือ รูดบัตรรางวัล
+MsgRewardCardsAddRewardsSwipeOrScan,เพิ่มรางวัลหรือไม่? กำลังรอคุณรูดบัตร
+MsgRewardCardsAddPointsSwipeOrScan,เพิ่มคะแนนหรือไม่? กำลังรอคุณรูดบัตร
+MsgRewardCardsNoPoints,คำสั่งซื้อนี้ไม่มีคะแนน
+MsgRewardCardsFailedAddPoints,เพิ่มคะแนนรายการล้มเหลว
+MsgRewardCardsFailedAdjustPointsIncorrectValue,ปรับคะแนนล้มเหลว\nค่าที่ป้อนไว้ไม่ถูกต้อง
+MsgRewardCardsFailedAdjustPointsBigValue,ปรับคะแนนล้มเหลว\nค่าที่ป้อนไว้มากเกินกว่า %d
+MsgRewardCardsFailedAdjustPointsSmallValue,ปรับคะแนนล้มเหลว\nค่าที่ป้อนไว้น้อยกว่า %d
+MsgRewardCardsActionFailed,การดำเนินการล้มเหลว ลองอีกครั้ง
+MsgRewardCardsActionSucc,การดำเนินการสำเร็จแล้ว
+MsgRewardCardsRewardSuccessfullyVoided,ธุรกรรมรางวัลถูกยกเลิกสำเร็จแล้ว\n\nโปรดกลับมาใช้รางวัลอีกครั้ง หากจำเป็น
+MsgRewardCardsAddPointsSuccessfullyVoided,เพิ่มธุรกรรมรางวัลรายการถูกยกเลิกสำเร็จแล้ว\n\nโปรดกลับมาใช้รางวัลอีกครั้ง หากจำเป็น
+MsgRewardCardsRedeemRewardSuccessfullyVoided,แลกธุรกรรมรางวัลถูกยกเลิกสำเร็จแล้ว\n\nโปรดกลับมาใช้รางวัลอีกครั้ง หากจำเป็น
+MsgRewardCardsPointsAddedSucc,คะแนนถูกเพิ่มไปยังบัตรสำเร็จแล้ว
+MsgRewardCardsRewardCardInfo,ข้อมูลบัตรรางวัล
+MsgRewardCardsPointsAdded,คะแนนถูกเพิ่มแล้ว: %@
+MsgRewardCardsRewardsRedeemed,รางวัลถูกแลกแล้ว: %@
+MsgRewardCardsPoints,คะแนน
+MsgRewardCardsCash,เงินสด
+MsgRewardCardsNoProductsRedeem,ไม่มีผลิตภัณฑ์ที่เหมาะสมที่มีคะแนนสำหรับการแลก
+MsgRewardCardsGetAmountRedeem,คุณต้องมีจำนวนคะแนน %d เพื่อแลก ยอดคงเหลือปัจจุบันคือ %d
+MsgRewardCardsPointsBalance,ยอดคงเหลือคะแนนรายการ
+MsgRewardCardsRewardsRedeemedWithBalance,แลกรางวัลแล้ว!%@
+MsgRewardCardsCongratulationsRewardPoints,ยินดีด้วย คุณมีคะแนนรางวัล%d
+MsgRewardCardsCongratulationsRewardVisits,ยินดีด้วย คุณมี %d รางวัลการเข้าใช้บริการ
+MsgRewardCardsCongratulationsRewardPurchases,ยินดีด้วย คุณมี %@ รางวัลการซื้อ
+MsgRewardCardsCongratulationsPoints,ยินดีด้วย คุณมี %@ คะแนนรางวัล
+MsgRewardCardsCongratulationsCustomerRewardPoints,ยินดีด้วย  %@ คุณมีคะแนนรางวัล%d
+MsgRewardCardsCongratulationsCustomerRewardVisits,ยินดีด้วย %@ คุณมี %d รางวัลเข้าใช้บริการ
+MsgRewardCardsCongratulationsCustomerRewardPurchases,ยินดีด้วย %@ คุณมี %@ รางวัลการซื้อ
+MsgRewardCardsCongratulationsCustomerPoints,ยินดีด้วย %@ คุณมี %@ คะแนนรางวัล
+MsgRewardCardsRewardPointsUpdated,คะแนนอัปเดตแล้ว คุณมีคะแนนรางวัล%d
+MsgRewardCardsRewardVisitsUpdated,คะแนนอัปเดตแล้ว คุณมีคะแนนรางวัล%d
+MsgRewardCardsRewardPurchasesUpdated,ยินดีด้วย %@ คุณมี %@ รางวัลการซื้อ
+MsgRewardCardsAddedRewardPoints,คะแนนรางวัลที่เพิ่ม: %d
+MsgRewardCardsCurrentRewardPoints,คะแนนรางวัลปัจจุบัน: %d
+MsgRewardCardsCardNrIsNotInDb,ไม่พบหมายเลขบัตร โปรดลองอีกครั้ง
+MsgRewardCardsCardExists,บัตรมีอยู่แล้ว
+MsgRewardCardsAddPoints,เพิ่ม %@ คะแนน
+MsgRewardCardsRedeemReward,แลกรางวัล
+MsgRewardCardsVoidingRewardTransaction,การยกเลิกธุรกรรมรางวัล...
+MsgRewardCardsOrderHasAttachedLoyaltyData,คำสั่งซื้อมีข้อมูลคะแนนสะสมแนบอยู่ คุณต้องการยกเลิกธุรกรรมคะแนนสะสมหรือไม่?
+MsgDiscountReward,รางวัล
+MsgRegisteringLoyalty,การลงทะเบียนคะแนนสะสม
+MsgCustomerEditAddressButton,แก้ไขที่อยู่
+MsgCustomerCompanyNameLabel,ชื่อบริษัท:
+MsgCustomerAddressNameLabel,ชื่อที่อยู่:
+MsgCustomerCompleteRequiredFields,โปรดกรอกข้อมูลในช่องว่างให้สมบูรณ์:
+MsgCustomerHasEnoughPoints,%@ มีคะแนนพอสำหรับรางวัล  แลกของตอนนี้หรือไม่?
+MsgCustomerHasEnoughRewards,%@ มีรางวัลเพียงพอ  แลกของตอนนี้หรือไม่?
+MsgRewardCardsPromptToLinkCustomerTitle,เชื่อมโยงลูกค้า
+MsgRewardCardsPromptToLinkCustomer,บัตร %@ เป็นของ %@ คุณต้องการที่จะแนบ %@ ไปยังคำสั่งซื้อหรือไม่?
+MsgRewardCardsPromptToLinkCustomerForExistingCard,คุณต้องการทำอะไรกับคำสั่งซื้อ?
+MsgRewardCardPoints,%d คะแนน
+MsgRewardCardTotalPoints,%@ คะแนน
+MsgRewardCardAddPoints,เพิ่มคะแนนรายการ
+MsgRewardCardPromptToAddPoints,คุณต้องการเพิ่มคะแนนรายการไปยังบัตรรางวัลของ %@ หรือไม่?
+MsgRewardCardNumberPromptToAddPoints,คุณต้องการเพิ่มคะแนนรายการไปยังบัตรรางวัล %@ หรือไม่?
+MsgRewardCardsManage,จัดการบัตรรางวัล
+MsgRewardsCard,บัตรรางวัล
+MsgRewardCardsCustomerHasNoCards,%@ ยังไม่มีรางวัลที่เชื่อมโยงใด ๆ
+MsgRewardCardIncorrectNumber,ไม่พบหมายเลขบัตร โปรดลองอีกครั้ง
+MsgRewardCardNumberNotFound,%@ ไม่สามารถค้นพบ  โปรดลองอีกครั้ง
+MsgRewardCardGeneratingNumber,อ่านหมายเลขบัตรล้มเหลว
+MsgRewardCardDiscountTitleSales,รางวัลสำหรับการขาย
+MsgRewardCardDiscountTitleVisits,รางวัลสำหรับการมาเยือน
+MsgRewardCardDiscountTitleSalesVisits,รางวัลสำหรับการขายและการมาเยือน
+MsgRewardCardsNameOnCard,ชื่อบนบัตร: %@
+BtnRewardForSales,รางวัลสำหรับการขาย
+BtnRewardForVisits,รางวัลสำหรับการมาเยือน
+MsgPurchaseRewardsEarned,รางวัลการซื้อที่ได้: %@
+MsgVisitsRewardsEarned,รางวัลการเข้าใช้บริการได้: %@
+MsgCurrentPurchaseRewards,รางวัลการซื้อปัจจุบัน: %@
+MsgCurrentVisitsRewards,รางวัลการเข้าใช้บริการปัจจุบัน: %@
+MsgRewardPointsEarned,คะแนนรางวัลที่ได้: %@
+MsgCurrentRewardPoints,คะแนนรางวัลปัจจุบัน: %@
+MsgVisits,การเข้าใช้บริการ
+MsgPurchases,การสั่งซื้อ
+MsgPurchase,การสั่งซื้อ
+MsgVisit,การเข้าใช้บริการ
+MsgRewardCardsItemPoints,คะแนนรางวัลรายการ: %i
+MsgRewardCardsSalesPoints,คะแนนรางวัลยอดขาย: %.2f
+MsgRewardCardsVisitsPoints,คะแนนรางวัลการมาเยือน: %i
+MsgRewardCardsRewardPoints,คะแนนรางวัลทั้งหมด: %.2f
+MsgRewardsAvailable,รางวัลที่มีอยู่
+MsgPurchaseRewards,รางวัลการซื้อ
+MsgPointRewards,รางวัลคะแนน
+MsgItemRewards,รางวัลสินค้า
+MsgVisitRewards,รางวัลการเข้าใช้บริการ
+MsgRewardPoints,คะแนนรางวัล
+MsgNoRewardsAvailable,ไม่มีรางวัลอยู่
+MsgLoyaltyTiers,ระดับการเป็นลูกค้าที่ภักดี
+MsgRewardFetchingAwardingInformation,การนำเข้าข้อมูลสินค้าคงเหลือ
+BtnUpdateLinkedCard,อัปเดตบัตรที่ถูกเชื่อมโยง
+MsgGenPaymentType,ประเภทการชำระเงิน
+MsgGenPaymentCCNum,หมายเลข CC
+MsgGenPaymentEnterTipAmounts,ป้อนจำนวนทิป
+MsgGenPaymentTipAmount,จำนวนเงินทิป
+MsgGenPaymentCurrentTip,ทิปปัจจุบัน
+MsgGenPaymentTipTransactionCountSingular,ธุรกรรมเครดิต
+MsgGenPaymentAddTip,เพิ่มทิป
+MsgGenPaymentAddTip:,เพิ่มทิป:
+MsgGenPaymentDeposit,เงินฝาก
+MsgGenPaymentGift,ของขวัญ
+MsgGenPaymentCash,เงินสด
+MsgGenPaymentAddTipsForOfflineP,การเพิ่มทิปไปยังการชำระเงินแบบออฟไลน์ไม่ได้รับอนุญาต\nโปรดลองเพิ่มทิปภายหลัง
+MsgGenPaymentAddTipsForCapturedP,การเพิ่มทิปไปยังการชำระเงินที่บันทึกไว้ไม่ได้รับอนุญาต
+MsgGenPaymentQuestPayment,ค้นหาการชำระเงิน
+MsgGenPaymentContactingMercuryPay,การติดต่อ MercuryPay
+MsgGenPaymentOffline,ออฟไลน์
+MsgGenPaymentProcessorCannotBeReachedOfflinePaymentsAreDisabled,ไม่สามารถเข้าถึงหน่วยประมวลผลการชำระเงิน  การชำระเงินแบบออฟไลน์ถูกปิดใช้งาน\nโปรดติดต่อผู้จัดการของคุณ
+MsgGenPaymentRequestedAmountIsMoreThanAllowedOThreshold,คุณอยู่ในโหมดออฟไลน์  การเรียกเก็บค่าใช้จ่ายที่ร้องขอเกินกว่าจุดเริ่มต้นของ %@ ที่ได้รับอนุญาต\nโปรดป้อน PIN ผู้ดูแลระบบเพื่ออนุมัติการเรียกเก็บค่าใช้จ่ายนี้
+MsgGenPaymentOfflinePaymentsTotalIsMoreThanAllowedOThreshold,คุณอยู่ในโหมดออฟไลน์ การเรียกเก็บค่าใช้จ่ายแบบออฟไลน์เกินกว่าจุดเริ่มต้นของ %@ \nโปรดป้อน PIN ผู้ดูแลระบบเพื่ออนุมัติการเรียกเก็บค่าใช้จ่ายนี้
+MsgGenPaymentOfflineYouCanRetryProcessingOrAcceptThePayment,ระบบปิดใช้งาน คุณสามารถลองเชื่อมต่อกับหน่วยประมวลผลการชำระเงินอีกครั้ง หรือยอมรับการชำระเงินแบบออฟไลน์ และดำเนินการอีกครั้งภายหลัง
+MsgGenPaymentOfflinePaymentsHaveBeenSuspendedAsTheMaximumValueOfDeclinedPaymentsHasBeenReached,การชำระเงินแบบออฟไลน์ถูกระงับใช้ เนื่องจากการชำระเงินที่ถูกปฏิเสธถึงค่าสูงสุดแล้ว  โปรดไปยังผู้จัดการ/การชำระเงินที่ปฏิเสธ และดำเนินการการชำระเงินที่ปฏิเสธใด ๆ เพื่อคืนค่าการชำระเงินแบบออฟไลน์
+MsgGenPaymentManEntrNotSuppOffl,การป้อนด้วยตนเองไม่ได้รับการสนับสนุนสำหรับการชำระเงินแบบออฟไลน์ โปรดลองวิธีการชำระเงินอื่น 
+MsgGenPaymentEmptyMessage,ข้อความว่างเปล่า
+MsgGenPaymentPaymentStatus,สถานะการชำระเงิน
+MsgGenPaymentDuplicate,ซ้ำ
+MsgGenPaymentCheckSettings,การตั้งค่าเช็ค
+MsgGenPaymentMagTekError,ข้อผิดพลาด MagTek
+MsgGenPaymentiPP350USAEPAY,iPP350 USA EPAY
+MsgGenPaymentNotSupported,ไม่ได้รับการสนับสนุน
+MsgGenPaymentMercuryPayFailed,MercuryPay ล้มเหลว
+MsgGenPaymentTrack2empty,แทร็ก 2 ว่างเปล่า
+MsgGenPaymentCardSwipeLaneIDEmpty,ค่าตัวแปร LaneID ของบัตรรูดว่างเปล่า\nโปรดระบุ LaneID ไปยังบัตรรูดของคุณ
+MsgGenPaymentKSNempty,KSN ว่างเปล่า
+MsgGenPaymentReturnToWrongAccount,การพยายามที่จะคืนค่าไปยังบัญชีที่ไม่ถูกต้อง
+MsgGenPaymentSendingPayment,การส่งการชำระเงิน
+MsgGenPaymentGiftCardError,ข้อผิดพลาดบัตรของขวัญ
+MsgGenPaymentGiftCardActivate,เปิดการใช้งานบัตรของขวัญ
+MsgGenPaymentGiftCardCreateOrAdd,สร้าง/เพิ่มไปยัง %@ หรือไม่?
+MsgGenPaymentStoreCreditActivate,ยอดรวมเครดิตที่จัดเก็บ:
+MsgGenPaymentStoreCreditReceiptType,เลือกชนิดคำสั่งซื้อ
+MsgGenPaymentStoreCreditCreate,ยอดรวมเครดิตที่จัดเก็บ:
+MsgGenPaymentStoreCreditPay,ชำระด้วยบัตร Stanford
+MsgGenPaymentGiftCardRechargeTitle,บัตรเติมเงิน
+MsgGenPaymentGiftCardRechargeText,เพิ่มเงิน
+MsgGenPaymentGiftCardActivatePrompt,คุณต้องการสร้าง %@  บัตรของขวัญใหม่ หรือเพิ่ม %@  ไปยังบัตรของขวัญที่เชื่อมโยงไว้ของ %@ หรือไม่?
+MsgGenPaymentReEnterAValidCardNr,โปรดป้อนหมายเลขบัตรที่ถูกต้อง
+MsgGenPaymentGiftCardBalance,ยอดคงเหลือบัตรของขวัญ
+MsgGenPaymentPleaseEnterValidAmount,โปรดป้อนจำนวนเงินที่ถูกต้อง
+MsgGenPaymentFailedActivateGiftCard,เปิดใช้งานบัตรของขวัญล้มเหลว
+MsgGenPaymentFailedToVoidGiftCard,ยกเลิกบัตรของขวัญล้มเหลว
+MsgGenPaymentGiftCardInfo,ข้อมูลบัตรของขวัญ
+MsgGenPaymentStoreCreditInfo,จัดเก็บ\nเครดิต
+MsgGenPaymentGiftCardActivationSuccessful,การเปิดใช้งานสำเร็จแล้ว
+BtnGenPaymentAddValue,เพิ่มค่า
+MsgGenPaymentAmountFormat,จำนวนเงิน
+MsgGenPaymentTipFormat,ทิป
+MsgGenPaymentTipAmountOver100,จำนวนเงินทิปเกินกว่า 100%\\nป้อน PIN ผู้ดูแลระบบเพื่ออนุมัติ
+MsgGenPaymentTipAmountOver100ManagerCard,จำนวนเงินทิปเกินกว่า 100%\\nป้อน PIN ผู้ดูแลระบบเพื่ออนุมัติ
+MsgGenPaymentAutoCaptureError,ข้อผิดพลาดการบันทึกอัตโนมัติ
+MsgGenPaymentACTimeFormatInvalid,รูปแบบเวลาการบันทึกอัตโนมัติไม่ถูกต้อง (%@)! โปรดตรวจสอบการตั้งค่าระบบส่วนหลังของคุณ
+MsgGenPaymentUnableConnWithProcessor,ไม่สามารถเชื่อมต่อกับหน่วยประมวลผล โปรดลองวิธีการชำระเงินอื่น 
+MsgGenPaymentCaptureAllowedJustOnMain,คุณได้รับอนุญาตให้บันทึกธุรกรรมบนเครื่องบริการ POS หลักเท่านั้น
+MsgGenPaymentRequestedOperationNotSupportedContactPaymentExpress,การปฏิบัติการที่ร้องขอไม่ได้รับการสนับสนุน โปรดติดต่อการชำระเงินแบบด่วน
+MsgGenPaymentProcessingAction,กำลังประมวลผลการดำเนินการ
+MsgGenPaymentConfirmTipAmount,ยืนยันจำนวนเงินทิป
+MsgGenPaymentTipGreaterThanTotal,จำนวนเงินทิปที่คุณป้อนไว้เกินกว่ายอดรวมจำนวนเงินสำหรับการชำระเงิน
+MsgGenPaymentDriveOff,นำออก
+MsgGenPaymentFleetCard,บัตรฟลีทการ์ด
+MsgGenPaymentManualFleetCard,บัตรฟลีทการ์ด
+MsgGenPaymentManualFleetCardAuthorization,การอนุญาต
+MsgGenPaymentManualFleetCardVoucher,หมายเลขการอนุญาต
+MsgVoidVoidError,ข้อผิดพลาดการยกเลิก
+MsgVoidFailedUpdPaymentRec,อัปเดตข้อมูลการชำระเงินล้มเหลว
+MsgVoidNoResponse,ไม่ตอบสนอง
+MsgVoidVoidFailed,การยกเลิกล้มเหลว
+MsgVoidReadThis,อ่านสิ่งนี้
+MsgVoidRefundPayBeforeVoid,โปรดขอคืน %@ การชำระเงิน ก่อนที่จะยกเลิกรายการ
+BtnVoidRefund,การขอคืนเงิน
+MsgVoidRefundPaymentsOfAmount,ขอคืนการชำระเงินของ %@
+MsgVoidNoThanks,ไม่ ขอบคุณ
+MsgVoidQuestPayment,ค้นหาการชำระเงิน
+MsgVoidReferPinPad,อ้างถึง PinPad
+MsgVoidPotFraudWarn,คำเตือนการฉ้อโกงที่อาจเป็นได้  การชำระเงินถูกกระทำภายในสองวัน
+MsgVoidLevelupRefundFailed,การเพิ่มระดับการขอคืนเงินล้มเหลว
+MsgVoidRefundError,ข้อผิดพลาดการขอคืนเงิน
+MsgVoidNoTransNrFoundForRefund,ไม่พบหมายเลขธุรกรรมที่จะดำเนินการขอคืนเงิน
+MsgVoidRefundNotPossiblePaymentIsOffline,การขอคืนเงินในขณะนี้ไม่สามารถเป็นไปได้\nการชำระเงินปิดการใช้งาน\nโปรดดำเนินการขอคืนเงินให้เสร็จสิ้น เมื่อสภาพเชื่อมโยงถูกคืนค่า
+MsgVoidBadgeRefundFailed,การขอคืนเครื่องหมายล้มเหลว
+MsgVoidChargeAmt,การขอคืนเงินที่ได้รับคำแนะนำ
+MsgVoidRefundAmt,จำนวนเงินขอคืน
+MsgVoidTipAmount,จำนวนเงินทิป
+MsgVoidRefundTip,ขอคืนเงิน\nทิป
+MsgVoidAmountRemaining,จำนวนที่คงเหลือ:
+MsgVoidPaymentRefundCannotBeMoreChargeAmount,จำนวนเงินขอคืนการชำระเงินไม่สามารถเกินกว่าจำนวนเงินค่าใช้จ่าย
+MsgVoidTotalRefund,การขอคืนเงินทั้งหมด
+MsgVoiding,การยกเลิก
+MsgRefunding,การขอคืนเงิน
+MsgVoidPerformingRefundForOfflinePayment,การดำเนินการขอคืนเงินสำหรับการชำระเงินแบบออฟไลน์...
+MsgVoidRefundNotPossiblePaymentProcessingInProgress,การขอคืนเงินในขณะนี้ไม่สามารถเป็นไปได้สำหรับธุรกรรม - %@\nการดำเนินการการชำระเงินอยู่ระหว่างการดำเนินการ\nลองอีกครั้งภายหลัง
+MsgVoidRefundNotPossiblePaymentIsOfflineAndCouldBeProcessedOnlyOnMain,การขอคืนเงินในขณะนี้ไม่สามารถเป็นไปได้สำหรับธุรกรรม - %@\nการชำระเงินปิดการใช้งาน และสามารถดำเนินการบนเครื่องบริการ POS หลักเท่านั้น
+MsgVoidRefundPaymentIsCurrentlyOfflineRefundTipsToMakeFullRefund,ในขณะนี้การชำระเงินปิดการใช้งาน\nโปรดขอคืนทิปเพื่อทำการขอคืนเงินทั้งหมด
+MsgVoidRefundTryingToRefundDeclinedPayment,คุณกำลังพยายามขอคืนการชำระเงินบัตรเครดิตที่ถูกปฏิเสธ\n(หมายเลข: XXXX%@ จำนวนเงิน: %.2f)\nจะได้รับการชำระเงินคืนทั้งหมด\nดำเนินการหรือไม่?
+MsgVoidReturnForItemPurchasedMoreThanDays,%@ ถูกซื้อมากกว่า %d วันที่แล้ว  โปรดป้อน PIN ผู้ดูแลระบบไปที่ %@
+MsgVoidReturnForItemsPurchasedMoreThanDays,ผลิตภัณฑ์ต่อไปนี้ถูกซื้อมากกว่า %d วันที่แล้ว  โปรดป้อน PIN ผู้ดูแลระบบไปที่ %@
+MsgVoidVoid,ยกเลิก
+MsgVoidReturn,คืนค่า
+MsgVoidVoidReturn,คืนค่า
+MsgVoidComps,เสร็จสมบูรณ์
+MsgVoidExchange,แลกเปลี่ยน
+MsgVoidTheCashDrawerDoesNotHaveEnoughMoney,ลิ้นชักเก็บเงินมีเงินสดไม่เพียงพอ
+MsgSyncPostStationFullSync,เฉพาะเครื่องบริการ POS ที่ถูกกำหนดค่า สำหรับการซิงก์ข้อมูลทั้งหมดเท่านั้นที่จะได้รับการติดตั้งเป็นเครื่องบริการ POS หลัก
+MsgSyncHasDirtyOrders,เครื่องบริการนี้ไม่ได้ซิงก์กับคำสั่งซื้อ ซิงก์ข้อมูลเหล่านั้นก่อนที่จะเปลี่ยนเครื่องบริการ POS หลัก
+MsgSyncSynchronizing,กำลังซิงก์ข้อมูล
+MsgSyncMainStationNotFound,ในขณะนี้ไม่พบเครื่องบริการ POS หลัก การตั้งค่าเครื่องบริการนี้เป็นเครื่องหลักอาจทำให้ข้อมูลสูญหายได้ ดำเนินการต่อหรือไม่?
+MsgSyncNotSyncing,ไม่ได้กำลังซิงก์ข้อมูล
+MsgSyncPoorConnection,การเชื่อมต่อไม่ดี (%.0f%%)
+MsgSyncMainTransferFailPaymentsProcessingMismatch,ไม่สามารถเปลี่ยนแปลงเครื่องบริการ POS หลักได้ จำนวนการชำระเงินที่ดำเนินการไว้ไม่ตรงกัน ลองเปลี่ยนเครื่องบริการ POS หลักอีกครั้งหนึ่ง
+MsgSyncMainTransferFailPaymentsProcessingInProgress,ไม่สามารถเปลี่ยนแปลงเครื่องบริการ POS หลักได้ การดำเนินการการชำระเงินอยู่ระหว่างดำเนินการ ลองเปลี่ยนเครื่องบริการ POS หลักภายหลัง
+MsgSyncKioskNotSyncing,Kiosk ไม่ได้ทำงานอยู่ โปรดดำเนินการต่อไปยังพนักงานรับจ่ายเงินเพื่อสั่งซื้อ
+MsgSyncMainNotReachableLong,เครื่องบริการ POS หลักไม่สามารถเข้าใช้งานได้เป็นเวลา %d นาที โปรดตรวจสอบเครือข่ายของคุณ และเครื่องบริการ POS หลัก
+MsgSyncStateSyncing,กำลังซิงก์ข้อมูล
+MsgSyncStateUnsynced,ไม่ถูกซิงก์ข้อมูล
+MsgVoidReturnToInventory,คืนค่ากลับไปยังสินค้าคงเหลือ
+MsgVoidReturnToInventoryQuestion,คุณต้องการคืนค่ารายการเหล่านี้ไปยังสินค้าคงเหลือหรือไม่?
+MsgOrderSearchInvalidEstablishment,ไม่มีคำสั่งซื้อที่ตรงกันกับรหัสที่พบบนเครื่องที่ติดตั้งไว้นี้
+MsgOrderSuborderLoaded,ไม่สามารถเปิดคำสั่งซื้อย่อยได้
+MsgOrderCantMergeHasPayments,ไม่สามารถรวบคำสั่งซื้อเข้าไว้ด้วยกัน เนื่องจากคำสั่งซื้อมีการชำระเงิน
+MsgOrderCantMergeIsUnsynced,ไม่สามารถรวบคำสั่งซื้อเข้าไว้ด้วยกัน เนื่องจากคำสั่งซื้อไม่ได้ซิงก์ไว้กับเครื่องบริการ POS หลัก
+MsgOrderCantMergeClosed,ไม่สามารถรวบคำสั่งซื้อเข้าไว้ด้วยกัน เนื่องจากคำสั่งซื้อปิดแล้ว
+MsgOrderCantMergeInvoice,ไม่สามารถรวบคำสั่งซื้อกับใบแจ้งหนี้ได้
+MsgOrderLoading,การโหลด
+MsgOrderSaving,กำลังบันทึก
+MsgOrderOrderWasDeleted,คำสั่งซื้อถูกลบออกจากเครื่องบริการ POS หลัก และไม่สามารถโหลดได้จากเซิร์ฟเวอร์ระบบส่วนหลังได้ในเวลานี้
+MsgOrderRemoveSurcharge,ลบการเก็บเงินเพิ่มออก
+MsgOrderRemoveSurchargeToo,ลบการเก็บเงินเพิ่มออกด้วยหรือไม่?
+MsgOrderFakeOrders,คำสั่งซื้อปลอม
+MsgOrderHeldOrders2,คำสั่งซื้อที่ถูกระงับไว้
+MsgOrderTodaysOrders,คำสั่งซื้อวันนี้
+MsgOrderFindOrderByID,ค้นหาคำสั่งซื้อด้วยรหัส
+MsgOrderFindOrderByCallNumber,ค้นหาคำสั่งซื้อด้วยหมายเลขโทรศัพท์
+MsgOrderCloseHeldOrders,ปิดคำสั่งซื้อที่ถูกระงับไว้
+MsgOrderinvalidScanBarCode,ข้อมูลที่สแกนไม่ถูกต้อง โปรดลองอีกครั้ง
+MsgOrderOnlineOrders,คำสั่งซื้อออนไลน์
+MsgOrderOutstandingInvoices,ใบแจ้งหนี้ที่ค้างชำระ
+MsgFromServer,จากเซิร์ฟเวอร์
+MsgOrderMergeOrder,รวบคำสั่งซื้อไว้ด้วยกัน
+MsgOrderDeliveryManagement,การบริหารจัดการการจัดส่ง
+MsgOrderDeliveryCheckin,ค่าใช้จ่ายการจัดส่ง
+MsgOrderFindOrdersByCreditCard,ค้นหาคำสั่งซื้อด้วยบัตรเครดิต
+MsgOrderFindOrdersByPrintID,ค้นหาคำสั่งซื้อด้วยรหัส
+MsgOrderEnterPrintID,ป้อนรหัสใบสั่งซื้อ#
+MsgFindLinkedOrder,ค้นหาคำสั่งซื้อที่เชื่อมโยงไว้
+MsgOrderFindOrders,ค้นหาคำสั่งซื้อ
+MsgOrderWantToCloseAllHeldOrders,คุณแน่ใจหรือไม่ว่า คุณต้องการปิดคำสั่งซื้อที่ระงับไว้ทั้งหมด?
+MsgOrderPartiallyPaidOrdersNotClosed,คำสั่งซื้อต่อไปนี้ไม่ได้ถูกปิด เนื่องจากการชำระเงินของคำสั่งซื้อเหล่านี้และยอดขายไม่ตรงกัน  โปรดแก้ไขคำสั่งซื้อเหล่านี้ด้วยตนเอง:\n\n
+MsgOrderNotActivatedGiftOrdersNotClosed,คำสั่งซื้อต่อไปนี้ไม่ได้ถูกปิด เนื่องจากการชำระเงินของคำสั่งซื้อเหล่านี้และยอดขายไม่ตรงกัน  โปรดแก้ไขคำสั่งซื้อเหล่านี้ด้วยตนเอง:\n\n
+MsgOrderEnterOrderID,ป้อนรหัสคำสั่งซื้อ
+MsgOrderEnterOrderIDorScanBarcode,ป้อนรหัสคำสั่งซื้อ หรือสแกนบาร์โค้ด
+MsgOrderEnterLast4CardDigits,ป้อน 4 หลักสุดท้ายของบัตร
+MsgOrderReverse,ย้อนกลับ
+MsgOrderByTime,โดยเวลา
+MsgOrderByOwner,โดยเจ้าของ
+MsgOrderByOrderId,โดยรหัสคำสั่งซื้อ
+MsgOrderFilteredOrders,คำสั่งซื้อที่กรองไว้
+MsgOrderUnprintedOrders,คำสั่งซื้อที่ไม่ได้ถูกพิมพ์
+MsgOrderThereIsNoAvailableBartab,ไม่มีบาร์แท็บที่พร้อมใช้งาน
+MsgOrderLinkingCardToOrder,กำลังเชื่อมโยงบัตร...
+MsgOrderPrintOpenChecks,พิมพ์เช็คที่เปิดอยู่
+MsgOrderHistSearchFieldPlaceHolder,ค้นหาโดยรหัสคำสั่งซื้อ ชื่อลูกค้า ชื่อพนักงาน
+MsgOrderHistSearchFieldPlaceHolderInvoice,ค้นหาโดยรหัสใบแจ้งหนี้ ชื่อลูกค้า ชื่อพนักงาน
+MsgOrderHistSearchFieldPlaceHolderWeb,ค้นหาโดยรหัสคำสั่งซื้อ ชื่อลูกค้า ชื่อพนักงาน
+MsgOrderHistSearchFieldPlaceHolderCallNumber,ค้นหาโดยโทรศัพท์# ชื่อลูกค้า ชื่อพนักงาน
+MsgOrderHistSearchFieldPlaceHolderRevelLite,ค้นหาโดยรหัสคำสั่งซื้อ ชื่อลูกค้า ชื่อพนักงาน
+MsgOrderHistOrderID,คำสั่งซื้อ #
+MsgOrderHistInvoiceID,ใบแจ้งหนี้ #
+MsgOrderHistTableID,โต๊ะ #
+MsgOrderHistCustomerName,ลูกค้า
+MsgOrderHistDateOpened,วันที่เปิดอยู่
+MsgOrderHistDatePlaced,วันที่ที่ปิด:
+MsgOrderHistDiningType,ประเภทการรับประทานอาหาร
+MsgOrderHistDateDue,วันที่ครบกำหนด
+MsgOrderHistEmployeeName,ชื่อพนักงาน
+MsgOrderHistOrderTotal,ยอดรวม
+MsgOrderHistPrintId,พิมพ์
+MsgOrderHistBar,บาร์ #%d
+MsgOrderInvoiceToOrderConfirmation,นี่จะสร้างคำสั่งซื้อจากใบแจ้งหนี้ คุณแน่ใจหรือไม่?
+MsgManageCustomersPhoneCaption,โทรศัพท์ #
+MsgManageCustomersRefCodeCaption,อ้างอิง รหัส
+MsgWarningInputAmountofCash,โปรดป้อนจำนวนของเงินสดที่มอบให้
+MsgOrderScanItemNotFoundTitle,ไม่พบรายการ
+MsgOrderScanItemNotFound,รายการที่สแกนไว้ไม่ตรงกับรายการใด ๆ ที่รอหมายเลขลำดับของคำสั่งซื้อนี้ เนื่องจากคำสั่งซื้อเสร็จสิ้นและได้ชำระเงินแล้ว ไม่สามารถเพิ่มรายการใหม่ไปยังคำสั่งซื้อได้ เพื่อเพิ่มรายการใหม่ โปรดเริ่มต้นคำสั่งซื้อใหม่
+MsgSomeModifiersNoLongerAvailable,ทั้งการบริการนี้ และพนักงานที่ได้รับมอบหมายไม่พร้อมให้บริการอีกต่อไป
+MsgOrderTotalItems,รายการทั้งหมด
+MsgOrderLastOrdered,สั่งซื้อล่าสุด
+BtnOrderLastNewBarTab,แท็บใหม่
+MsgCustomerManageCustomers,จัดการลูกค้า
+BtnCustomerToOrder,เพื่อสั่งซื้อ
+BtnCustomerDisplayHistory,หน่วยแสดงผล
+MsgCustomerEnterName,ป้อนชื่อ
+MsgCustomerEnterPhone,ป้อนโทรศัพท์
+MsgCustomerEnterEmail,ป้อนอีเมล
+MsgTitleAddNewCustomer,เพิ่มลูกค้าใหม่
+BtnCustomerAddNew,เพิ่มใหม่
+BtnAddAddress,เพิ่มที่อยู่
+BtnCustomerNewCustomer,ลูกค้าใหม่
+BtnRemoveFromOrder,ตรวจสอบคำสั่งซื้อ
+MsgCustomerLinkCustomer,เชื่อมโยงลูกค้า
+MsgCustomerLink,เชื่อมโยง
+MsgCustomerSelectCallname,เลือกชื่อเรียก
+MsgCustomerName,ชื่อ
+MsgCustomerAddress,ที่อยู่
+MsgCustomerCity,เขต
+MsgCustomerState,อำเภอ
+MsgCustomerStateProvince,จังหวัด
+MsgCustomerZipCode,รหัสไปรษณีย์
+MsgCustomerEmail,อีเมล
+MsgCustomerUserName,ชื่อผู้ใช้
+MsgCustomerPhoneNumber,หมายเลขโทรศัพท์
+MsgCustomerRefCode,รหัสอ้างอิง
+MsgCustomerGroup,กลุ่มลูกค้า
+MsgCustomerLoyaltyCardNumber,หมายเลขบัตรสะสมคะแนน
+MsgCustomerGroupNone,ไม่มี
+MsgCustomerNotes,บันทึกย่อ
+MsgCustomerRegisterLoyalty,ลงทะเบียนสะสมคะแนน
+MsgCustomerUpdateLoyalty,อัปเดตคะแนนสะสม
+MsgCustomerCreditCardXXXX,บัตรเครดิต: XXXX XXXX XXXX %@
+MsgCustomerNoCreditCard,ไม่มีบัตรเครดิต
+MsgCustomerSelectCustomer,โปรดเลือกลูกค้า
+MsgCustomerSelectCall,โปรดเลือกชื่อเรียก
+MsgCustomerFillAllRequiredFields,โปรดกรอกข้อมูลทุกช่อง
+MsgCustomerBirthDate,วันเกิด
+MsgCustomerFirstName,ชื่อ
+MsgCustomerLastName,นามสกุล
+MsgCompanyName,ชื่อบริษัท
+MsgAddressName,ชื่อที่อยู่
+MsgCustomerStreetAddress,ที่อยู่ถนน
+MsgCustomerCountry,ประเทศ
+MsgCustomerCurrentBillingAddress,ที่อยู่ใบเสร็จปัจจุบัน
+MsgCustomerCurrentShippingDeliveryAddress,ที่อยู่การส่งมอบ การจัดส่งปัจจุบัน/
+MsgCustomerEditCustomer,แก้ไขลูกค้า
+MsgCustomerDeleteAddressConfirmation,คุณแน่ใจหรือไม่ว่า คุณต้องการลบที่อยู่นี้?
+MsgCustomerPhone,โทรศัพท์
+MsgCustomerEmptyAddress,ไม่สามารถเพิ่ม/อัปเดตที่อยู่ที่ว่างเปล่า
+MsgCustomerEmailAlreadyExist,อีเมลแอดเดรสมีอยู่แล้ว
+MsgCustomerZipCodeError,รหัสไปรษณีย์ของ %@ %@ อยู่นอกเขตของพื้นที่การจัดส่งของเรา
+MsgCustomerUnlink,เลิกเชื่อมโยง
+MsgCustomerMultipleCustomers,พบลูกค้าที่ตรงกันหลายราย
+MsgCustomerGiftRewardCard,บัตรของขวัญ/รางวัล
+MsgCustomerExpirationDate,วันหมดอายุ
+MsgCustomersContractValid,สัญญาของลูกค้า %@ มีผลบังคับใช้
+MsgCustomersContractExpiredOnDate,สัญญาของลูกค้า %@ หมดอายุวันที่ %@
+MsgCustomerHotelInfo,ข้อมูลระบบ
+MsgCustomersShowCustomerHistory,สำเนาของลูกค้า
+MsgGenServicesPhoto,โหมดแก้ไขภาพถ่าย
+MsgGenServicesAddPhoto,เพิ่มคะแนน
+MsgGenServicesAssociatePhotoProduct,เชื่อมโยงภาพถ่ายไปยังผลิตภัณฑ์
+MsgGenServicesCamera,กล้อง
+BtnGenServicesPhotoLibrary,ไลบรารีภาพถ่าย
+MsgUploadingImage,การอัปโหลดรูปภาพ
+MsgGenServicesCameraNotAvailable,กล้องไม่พร้อมใช้งาน
+MsgGenServicesPaymentLogRevelPOS,บันทึกการชำระเงิน - Revel POS
+MsgGenServicesEnterEmailAddress,โปรดป้อนอีเมลแอดเดรส
+MsgGenServicesSentEmailIsNotDelivered,อีเมลที่ส่งไปยัง %@ ไม่ได้ถูกส่ง
+MsgGenServicesEnterSubject,โปรดป้อนชื่อเรื่อง
+MsgGenServicesEnterFirstNameAndLastName,โปรดป้อนทั้งเหตุผล และจำนวนเงิน
+MsgGenServicesFirstNameAndLastName,ชื่อและนามสกุล
+MsgGenServicesEmailBodyEmpty,ส่วนเนื้อหาจดหมายว่างเปล่า
+MsgGenServicesSomethingWrong,บางสิ่งบางอย่างผิดพลาด
+MsgGenServicesEnterPIN,ป้อน PIN
+MsgGenServicesPIN,PIN
+MsgGenServicesClockingOut,การลงเวลาออกงาน
+MsgGenServicesSuccessfullyClockedOut,การลงเวลาออกงานสำเร็จแล้ว
+MsgGenServicesSuccessfullyClockedIn,การลงเวลาเข้างานสำเร็จแล้ว
+MsgGenServicesFailedClockOut,การลงเวลาออกงานล้มเหลว
+MsgGenServicesClockingIn,การลงเวลาเข้างาน
+MsgGenServicesFailedClockIn,การลงเวลาเข้างานล้มเหลว
+MsgGenServicesClockInAs,เข้างาน %@ ในฐานะ
+MsgGenServicesClockIn,เข้างาน %@
+MsgGenServicesClockOut,ออกงาน %@
+MsgGenServicesDiscountNotApplied,ส่วนลดไม่ได้นำมาใช้
+MsgGenServicesDiscountCancelled,ส่วนลดถูกยกเลิก
+MsgGenServicesCheckout,เช็กเอาต์
+MsgGenServicesNoResultsFound,ไม่พบผลลัพธ์
+MsgGenServicesNoSearchResults,ไม่พบผลลัพธ์
+MsgGenServicesSKU,SKU
+MsgGenServicesClockInDateTime,วันที่/เวลาเข้างาน
+MsgGenServicesClockOutDateTime,วันที่/เวลาออกงาน
+MsgGenServicesClockOutWeekTotal,ยอดรวมรายสัปดาห์
+MsgScanProductNotFound,ไม่พบผลิตภัณฑ์
+MsgInventoryScanCamera,สแกนด้วยกล้อง
+MsgInventoryScanCameraNotDetected,ไม่ถูกตรวจจับ
+MsgInventoryScanCameraUse,ใช้กล้องของคุณในการสแกนบาร์โค้ด
+MsgGenServicesInventory,%@ สินค้าคงเหลือ
+MsgGenServicesFetchingInvInfo,การนำเข้าข้อมูลสินค้าคงเหลือ
+MsgGenServicesUpdatingInvInfo,การอัปเดตข้อมูลสินค้าคงเหลือ
+MsgGenServicesStartingInvNow,การเริ่มสินค้าคงเหลือคือ ตอนนี้
+MsgGenServicesCurrInvNow,สินค้าคงเหลือปัจจุบันคือ ตอนนี้
+MsgGenServicesCurrAndActInv,สินค้าคงเหลือปัจจุบันคือ “%.2f”\n สินค้าคงเหลือแท้จริงคือ “%.2f” \n ความผันแปรของความสูญเสียเนื่องจากของเสียคือ “%.2f” \n ความสูญเสียเนื่องจากของเสียคือ “%.2f%%”
+MsgGenServicesNoInvInfo,ไม่พบข้อมูลสินค้าคงเหลือ
+MsgGenServicesName,ชื่อ
+MsgGenServicesPhone,โทรศัพท์
+MsgGenServicesNewUserRegistered,ผู้ใช้ใหม่ที่ลงทะเบียน
+MsgGenServicesUserNameEmailPhoneReg,ผู้ใช้ใหม่ที่ลงทะเบียน\n\nชื่อ: %@\nอีเมล: %@\nโทรศัพท์ #: %@
+MsgGenServicesYourUserPin,PIN ผู้ใช้ของคุณสำหรับแอปสาธิตระบบ Revel
+MsgGenServicesThanksForRegistering,<html>\n<head>\n</head>\n<body>\nเรียน %@<br><br>ขอบคุณสำหรับการลงทะเบียนในระบบ Revel  PIN ผู้ใช้ของคุณคือ<br><br>%d<br><br>หากท่านมีข้อสงสัยใด ๆ โปรดติดต่อเราได้ที่\n (844)584-3316 หรือ info@revelsystems.com<br><br>ทีม Revel Systems <br>Revelsystems.com</body>\n</html>
+MsgGenServicesTrainingMode,โหมดการฝึกอบรมเปิดใช้งานแล้ว โปรดปิดการใช้งานในการตั้งค่าเพื่อทำงานอย่างปกติ
+MsgGenServicesTrainingModeEmployee,โหมดการฝึกอบรมเปิดใช้งานแล้ว โปรดปิดการใช้งานในการตั้งค่าเพื่อทำงานอย่างปกติ
+MsgGenServicesTrainingModeDisable,ขณะนี้โหมดการฝึกอบรมเปิดใช้งานอยู่ คุณต้องการปิดการใช้งานหรือไม่?
+MsgGenServicesTrainingModeExit,ออกจากโหมดการฝึกอบรม
+MsgGenServicesTrainingModeProcessing,ตรวจสอบเครือข่าย
+MsgGenServicesHaveDeclaredTips,คุณได้แจ้งทิปของคุณหรือยัง?
+MsgGenServicesClockinBeforeShift,คุณไม่ได้ถูกกำหนดให้ทำงานในเวลานี้\nลงเวลาเข้างานในฐานะ %@ โปรดป้อน PIN ผู้ดูแลระบบ
+MsgGenServicesClockinWithUnscheduledRole,คุณถูกกำหนดให้ทำงานในฐานะ %@ \nลงเวลาเข้างานในฐานะ %@ โปรดป้อน PIN ผู้ดูแลระบบ
+MsgGenServicesCategoryNameAlreadyExists,หมวดหมู่ที่ใช้ชื่อนี้มีอยู่แล้ว
+MsgGenServiceSubcategoryNameAlreadyExists,หมวดหมู่ย่อยที่ใช้ชื่อนี้มีอยู่แล้ว
+MsgGenServiceProductFailed,มีปัญหาเครือข่ายระหว่างการบันทึก โปรดลองอีกครั้ง หรือติดต่อฝ่ายสนับสนุนลูกค้า
+MsgScreenEnterPIN,ป้อน PIN:
+MsgScreenEmailNotValid,อีเมลแอดเดรสไม่ถูกต้อง โปรดป้อนใหม่อีกครั้ง
+MsgScreenEmailIsEmpty,โปรดป้อนอีเมลแอดเดรส
+MsgScreenThankYou,ขอบคุณ
+MsgScreenThankYouWithExclamation,ขอบคุณ!
+MsgScreenEmailReceipt,อีเมลใบเสร็จ
+MsgScreenEnterRecipientEmail,ป้อนอีเมลผู้รับ
+MsgScreenPhotoLibNotAvail,ไม่มีไลบรารีภาพถ่ายอยู่บนอุปกรณ์นี้
+MsgScreenExportSuccess,การส่งออกสำเร็จแล้ว
+MsgScreenImageNeedsBeSize,ขนาดรูปภาพจำเป็นต้องมีขนาด 
+MsgScreenPOSLogoSetup,การติดตั้งโลโก้ POS
+MsgScreenOriginalPINLogo,โลโก้ PIN ดั้งเดิม
+MsgScreenCustomPINLogo,โลโก้ PIN ที่กำหนดเอง
+MsgScreenOriginalOrderLogo,โลโก้คำสั่งซื้อดั้งเดิม
+MsgScreenCustomOrderLogo,โลโก้คำสั่งซื้อที่กำหนดเอง
+MsgEmailSuccessfullySentTo,ส่งอีเมลไปยัง %@ สำเร็จแล้ว
+MsgScreenEmailStoreCredit,ยอดรวมเครดิตที่จัดเก็บ:
+MsgDUWelcomeBackCustomer,ยินดีต้อนรับกลับมา %@!
+MsgScreenDollars,ดอลลาร์
+MsgScreenCurrencySign,$
+MsgScreenOtherTotal,ยอดรวมอื่น
+MsgScreenSumTotal,ยอดรวมย่อย
+MsgScreenTillManagementCheckout,เช็กเอาต์
+MsgScreenByBillType,ประเภท\nบิล
+MsgScreenByAmount,จำนวนเงิน
+MsgScreenByCoinType,ประเภท\nเหรียญ
+MsgScreenSetCashDatetime,ลิ้นชักเก็บเงินถูกตั้งค่าบน
+MsgScreenTillManagementPayOut,จ่ายออก
+MsgScreenTillManagementPayIn,รับเข้า
+MsgScreenPayoutReasonEmpty,เหตุผลการจ่ายออกไม่สามารถเว้นว่างได้
+MsgScreenPayinReasonEmpty,เหตุผลการรับเข้าไม่สามารถเว้นว่างได้
+MsgScreenTillManagementSetTillAmounts,การบริหารจัดการลิ้นชักเก็บเงิน - ตั้งค่าจำนวนเงินในลิ้นชักเก็บเงิน
+MsgScreenTillManagementCashDropTitle,เงินสดที่ใส่ไว้
+MsgScreenPayIn,รับเข้า
+MsgScreenPayout,จ่ายออก
+MsgScreenOpenCashDrawer,เปิดลิ้นชักเก็บเงิน
+MsgScreenAmountSafe,จำนวนเงินในตู้นิรภัย
+MsgScreenTotalEndingCash,ยอดรวมเงินสดสุดท้าย:
+MsgScreenEndingCash,เงินสดสุดท้าย:
+MsgScreenTotalStartingCash,ยอดรวมเงินสดตั้งต้น:
+MsgScreenStartingCash,เงินสดตั้งต้น:
+MsgScreenCurrencyData,ข้อมูลสกุลเงิน
+MsgScreenDateOpened,วันที่ที่เปิด:
+MsgScreenTimeOpened,เวลาที่เปิด:
+MsgScreenDateClosed,วันที่ที่ปิด:
+MsgScreenTimeClosed,เวลาที่ปิด:
+MsgScreenTotalsData,ข้อมูลทั้งหมด
+MsgScreenPayOuts,ชำระเงินออก:
+MsgScreenPayIns,รับเงินเข้า:
+MsgScreenCashTransactions,ธุรกรรมเงินสด:
+MsgScreenCoinsDispensed,เหรียญที่จ่ายไป:
+MsgScreenExpectedCashTill,เงินที่คาดการณ์ในลิ้นชักเก็บเงิน:
+MsgScreenEndingCashTotal,ยอดรวมเงินสดสุดท้าย:
+MsgScreenDifference,ผลต่าง:
+MsgScreenTotalExpectedAmountTill,ยอดรวมเงินที่คาดการณ์ในลิ้นชักเก็บเงิน
+MsgScreenTillCashDrawer,ลิ้นชักเก็บเงิน
+MSgScreenTillExceedMoney,การถอนเงินของคุณเกินกว่าค่าที่คาดการณ์ของลิ้นชักเก็บเงิน\n ดำเนินการต่อหรือไม่?
+MSgScreenTillExceedMoneyCurrencyName,การถอนเงินของคุณเกินกว่าค่าที่คาดการณ์ของลิ้นชักเก็บเงิน\n ดำเนินการต่อหรือไม่?
+MsgSetupTillIsNotAllowedButRequired,ต้องตั้งค่าลิ้นชักเก็บเงิน\nโปรดติดต่อผู้จัดการของคุณ
+BtnScreenSetTill,ตั้งค่าลิ้นชักเก็บเงิน
+BtnScreenHoldTill,ระงับลิ้นชักเก็บเงิน
+MsgScreenSelectTill,เลือกลิ้นชักเก็บเงิน
+MsgScreenHeldTill,ระงับลิ้นชักเก็บเงินแล้ว
+MsgScreenHeldTillOn,ระงับไว้
+MsgScreenSetTillOn,ตั้งค่าสินค้าคงคลัง
+MsgScreenSetTillNotSet,ไม่ได้ตั้งค่า
+MsgScreenCurrentTill,ลิ้นชักเก็บเงินปัจจุบัน
+MsgScreenNewTill,ลิ้นชักเก็บเงินใหม่
+MsgScreenTillCheckoutSummary,การบริหารจัดการลิ้นชักเก็บเงิน - สรุปการเช็กเอาต์
+MsgScreenTillsVirtualTill,ลิ้นชักเก็บเงินเสมือนจริง
+MsgScreenTillsVirtualPayments,การชำระเงินเสมือนจริง
+MsgScreenTillsVirtualCash,เงินสดเสมือนจริง
+MsgScreenTillsPhysicalTills,ลิ้นชักเก็บเงินจริง
+MsgScreenTillsCashDrops,เงินสดที่ใส่ไว้
+MsgScreenTillsAmountSet,ชุดจำนวนเงิน
+MsgScreenTillsAdjustments,การปรับเปลี่ยนลิ้นชักเก็บเงิน
+MsgScreenProcessing,การประมวลผล
+MsgScreenTipsDownloadFailed,ดาวน์โหลดทิปล้มเหลว
+MsgScreenTipAmount,จำนวนเงินทิป:
+MsgScreenTodayDeclaredTip,ทิปที่ได้แจ้งไว้ของวันนี้
+MsgScrSettingsOrderID,รหัสคำสั่งซื้อ:
+MsgScrSettingsTransaction,ธุรกรรม #:
+MsgScrSettingsAmountAuthorized,จำนวนที่ได้รับอนุญาต:
+MsgScrSettingsPaymentAmount,จำนวนเงินที่ชำระ:
+MsgScrSettingsPaymentTips,ทิป:
+MsgScrSettingsProcessorResponse,การตอบสนองของหน่วยประมวลผล:
+MsgScrSettingsCardHolderName,ชื่อผู้ถือบัตร:
+MsgScrSettingsCardLast4Digits,4 หลักสุดท้ายของบัตร:
+MsgScrSettingsDatetime,วันที่และเวลา:
+MsgScrSettingsFinancials,การเงิน
+MsgScrSettingsTimeManagement,การบริหารจัดการเวลา
+MsgScrSettingsBatchProcess,การประมวลผลเชิงกลุ่ม
+MsgScrSettingsSAFProcessing,ประมวลผล SAF
+MsgScrSettingsDeclinedPayments,การชำระเงินที่ถูกปฏิเสธ
+MsgScrSettingsOfflinePayments,การชำระเงินแบบออฟไลน์
+MsgScrSettingsCheckNetwork,ตรวจสอบเครือข่าย
+MsgScrSettingsLock,ล็อก
+MsgScrSettingsLogging,การบันทึก
+MsgScrSettingsBluetoothFiltering,การกรองบลูธูท
+MsgScrSettingsTableFiltering2,การกรองโต๊ะ
+MsgScrSettingsQuestPinPadManager,ค้นหาตัวจัดการ PinPad
+MsgScrSettingsPOSSettings,การตั้งค่า POS
+MsgScrSettingsPOSSettingsCardSwipes,บัตรรูด
+MsgScrSettingsPOSSettingsScales,สเกล
+MsgScrSettingsPOSSettingsDisplayUnits,แสดงหน่วย
+MsgScrSettingsPOSSettingsKitchenDisplays,การแสดงห้องครัว
+MsgScrSettingsPOSSettingsRFIDReaders,เครื่องอ่าน RFID
+MsgScrSettingsPOSSettingsScanners,เครื่องสแกน
+MsgScrSettingsPOSSettingsSecondaryScanners,เครื่องสแกนรอง
+MsgScrSettingsPOSSettingsCoinDispensers,เครื่องจ่ายเหรียญ
+MsgScrSettingsTroubleshootMode,โหมดการแก้ปัญหา
+MsgScrSettingsDiagnosticTool,เครื่องมือการตรวจวินิจฉัย
+MsgScrSettingsDiagnosticsTitle,การตรวจวินิจฉัย
+MsgScrSettingsDeviceIpAddress,ที่อยู่ไอพี
+MsgScrSettingsDeviceIpAddressColon,ที่อยู่ไอพี
+MsgScrSettingsDeviceTitlePlural,อุปกรณ์
+MsgScrSettingsDeviceAppVersion,(รุ่น %@)
+MsgScrSettingsPosStationTitlePlural,เครื่องบริการ POS
+MsgScrSettingsConnectionTestPlural,การเชื่อมต่อ
+MsgScrSettingsTroubleshootPacketsSent,ส่งแล้ว:
+MsgScrSettingsTroubleshootPacketsReceived,ได้รับแล้ว:
+MsgScrSettingsTroubleshootPacketsTimeouts,หมดเวลา:
+MsgScrSettingsTroubleshootPacketsErrors,ข้อผิดพลาด:
+MsgScrSettingsTroubleshootPacketsAVGPingTime,เฉลี่ย เวลาตรวจสอบการเชื่อมต่อ
+MsgScrSettingsTroubleshootPacketsLatencyInformation,ข้อมูลประสิทธิภาพ
+MsgScrSettingsTroubleshootSyncingOrders,การซิงก์คำสั่งซื้อ
+MsgScrSettingsTroubleshootInternetStatus,สถานะอินเทอร์เน็ต:
+MsgScrSettingsTroubleshootDeviceReachableNoResponse,เข้าถึงที่อยู่ไอพีได้ แต่อุปกรณ์ไม่ตอบสนอง
+MsgScrSettingsTroubleshootDeviceNotReachable,ไม่สามารถเข้าถึงได้
+MsgScrSettingsTroubleshootLocalSyncOff,ปิดการซิงก์ภายใน
+MsgScrSettingsTroubleshootCurrentDevice,อุปกรณ์นี้
+MsgScrSettingsTroubleshootInternetStatusGood,ตกลง!
+MsgScrSettingsTroubleshootInternetStatusSlow,ช้า
+MsgScrSettingsTroubleshootInternetStatusBadDNS,DNS ไม่ดี
+MsgScrSettingsTroubleshootInternetStatusNoInternet,ไม่มีอินเทอร์เน็ต
+MsgScrSettingsTroubleshootNetworkStatusBadWifi,การเชื่อมต่อ Wi-Fi ไม่ดี! - โปรดตรวจสอบ Wi-Fi ของคุณ
+MsgScrSettingsTroubleshootNetworkStatusPoorWifi,การเชื่อมต่อ Wi-Fi แย่! - โปรดตรวจสอบการรับสัญญาณ Wi-Fi ของคุณ
+MsgScrSettingsTroubleshootNetworkStatusCableProblem,สายเชื่อมต่อมีปัญหา! - โปรดตรวจสอบสายเชื่อมต่อเครื่องพิมพ์ %@ ของคุณ
+MsgScrSettingsTroubleshootConfirmResetDevice,อุปกรณ์จะถูกตั้งค่าใหม่ คุณแน่ใจหรือไม่?
+MsgScrSettingsTroubleshootDeviceIsReseting,กำลังตั้งค่าอุปกรณ์ใหม่ โปรดรอ 30 วินาที และรีเฟรชอุปกรณ์
+MsgScrSettingsTroubleshootDeviceIsResetFail,การตั้งค่าอุปกรณ์ล้มเหลว โปรดตั้งค่าอุปกรณ์ใหม่โดยการปิดเครื่องและเปิดเครื่องใหม่
+MsgScrTroubleshootNotificationTroubleshooting,การแก้ปัญหา
+MsgScrTroubleshootNotificationConnectionIpadBad,iPad ไม่ได้เชื่อมต่อไปยังเครือข่าย และไม่สามารถสื่อสารกับเครื่องบริการ POS หลัก โปรดเชื่อมต่อ iPad ของคุณไปยังจุดปล่อยสัญญาณไร้สาย หาก iPad เชื่อมต่อกับจุดปล่อยสัญญาณแล้ว แต่ยังคงไม่ทำงาน โปรดรีบูต iPad
+MsgScrTroubleshootNotificationConnectionIpadGoodMainBad,iPad หลักไม่ได้เชื่อมต่อกับเครือข่าย โปรดเชื่อมต่อ iPad ของคุณไปยังจุดปล่อยสัญญาณไร้สาย หากปัญหายังคงอยู่ โปรดรีบูต iPad หลัก
+MsgScrTroubleshootNotificationConnectionIpadGoodMainGood,สามารถเข้าถึง iPad หลักได้ และควรยอมรับการเชื่อมต่อ หากปัญหายังคงอยู่ โปรดรีบูต iPad หลัก
+MsgScrTroubleshootNotificationConnectionIpadGoodMainPoor,iPad หลัก มีการเชื่อมต่อที่ไม่ดีกับจุดปล่อยสัญญาณไร้สาย โปรดตรวจสอบ เพื่อให้แน่ใจว่าเครื่องอยู่ห่างจากจุดปล่อยสัญญาณในระยะ 20 ฟุต และไม่มีสิ่งกีดขวางระหว่าง iPad และจุดปล่อยสัญญาณ
+MsgScrTroubleshootNotificationConnectionIpadPoorMainBad,iPad หลักไม่ได้เชื่อมต่อกับเครือข่าย โปรดเชื่อมต่อ iPad หลักของคุณกลับไปยังจุดปล่อยสัญญาณไร้สาย หากปัญหายังคงอยู่ โปรดรีบูต iPad หลัก
+MsgScrTroubleshootNotificationConnectionIpadPoorMainGood,iPad เครื่องนี้มีการเชื่อมต่อที่ไม่ดี โปรดตรวจสอบว่าจุดปล่อยสัญญาณกับ iPad ไม่มีสิ่งกีดขวางในระยะ 20 ฟุต  สามารถเข้าถึง iPad หลักได้ และควรยอมรับการเชื่อมต่อ
+MsgScrTroubleshootNotificationConnectionIpadPoorMainPoor,ทั้ง iPad เครื่องนี้และ iPad หลักมีการเชื่อมต่อที่ไม่ดี โปรดตรวจสอบว่าจุดปล่อยสัญญาณกับ iPad และ iPad หลัก ไม่มีสิ่งกีดขวางในระยะ 20 ฟุต 
+BtnScrTroubleshootTestPacketsDrop,การทดสอบกล่อง
+BtnScrTroubleshootTestAllHosts,ตรวจสอบระยะเวลาเชื่อมต่อโฮสต์ ทั้งหมด
+BtnScrTroubleshootTestSupportTitle,สนับสนุน
+MsgScrTroubleshootTestPacketsDropNoConnection,iPad เครื่องนี้ไม่ได้เชื่อมต่อกับเครือข่าย โปรดเชื่อมต่อ iPad ของคุณไปยังจุดปล่อยสัญญาณไร้สาย หาก iPad เชื่อมต่อกับจุดปล่อยสัญญาณแล้ว แต่ยังคงไม่ทำงาน โปรดรีบูต iPad
+MsgScrTroubleshootTestPacketsDropPoorConnection,iPad เครื่องนี้มีการเชื่อมต่อที่ไม่ดีกับจุดปล่อยสัญญาณไร้สาย โปรดตรวจสอบว่าจุดปล่อยสัญญาณกับ iPad ไม่มีสิ่งกีดขวางในระยะ 20 ฟุต 
+MsgScrTroubleshootTestPacketsDropGoodConnection,iPad เครื่องนี้มีการเชื่อมต่อที่ดีกับจุดปล่อยสัญญาณไร้สาย
+MsgScrTroubleshootTestPacketsDropTestingTitle,การทดสอบ
+MsgScrTroubleshootTestAllHosts,การทดสอบการตรวจสอบระยะเวลาเชื่อมต่อโฮสต์ทั้งหมด
+MsgScrTroubleshootTestHostReachable,สามารถเข้าถึงได้
+MsgScrTroubleshootTestHostNotReachable,ไม่สามารถเข้าถึงได้
+MsgScrTroubleshootIpadTitle,iPad
+MsgScrTroubleshootRouterTitle,Router
+MsgScrTroubleshootInternetTitle,อินเทอร์เน็ต
+MsgScrTroubleshootSortByStatus,จัดเรียงโดยสถานะ
+MsgScrTroubleshootSortByIp,จัดเรียงโดยไอพี
+MsgScrTroubleshootTestComplete,การทดสอบเสร็จสมบูรณ์
+MsgScrTroubleshootResponesReceived,การตอบสนองที่ได้รับ
+MsgScrTroubleshootNetworkSSID,เครือข่าย SSID:
+MsgScrTroubleshootContactSupportTitle,ติดต่อฝ่ายสนับสนุน
+MsgScrTroubleshootSupportWebsiteTitle,สนับสนุนเว็บไซต์:
+MsgScrTroubleshootSupportWebsite,support.revelsystems.com
+MsgScrTroubleshootSupportLineTitle,ติดต่อได้ 24 / 7
+MsgScrTroubleshootSupportLineNumber,415.744.1433 - การเชื่อมต่อ 2
+MsgScrTroubleshootSupportOnboardingTitle,การปฏิบัติงาน:
+MsgScrTroubleshootSupportOnboardingNumber,415.744.1433 - การเชื่อมต่อ 3
+MsgScrTroubleshootSupportSubmitCaseQuestion,หากคุณต้องการส่งปัญหา ใช้ปุ่ม ส่งตั๋ว ที่อยู่ด้านล่าง
+MsgScrTroubleshootSubmitSupportTicketTitle,ส่ง ตั๋วสนับสนุน
+MsgScrTroubleshootSubmitSupportTicketSubmittedText,ปัญหาของท่านมีความสำคัญต่อเราเป็นอย่างยิ่ง และเราจะติดต่อกลับท่านโดยเร็วที่สุด โปรดติดต่อเราได้ตลอดเวลาเพื่อติดตามความคืบหน้า
+MsgScrTroubleshootSubmitSupportTicketSubmitFailed,ไม่สามารถส่งตั๋วได้ โปรดตรวจสอบสัญญาณ Wifi และลองใหม่ หรือส่งตั๋วโดยใช้พอร์ทัลระบบส่วนหลัง
+MsgScrTroubleshootSubmitTicketFieldsRequired,*จำเป็นต้องกรอกทุกช่อง
+MsgScrTroubleshootSubmitTicketLetUsKnow,แจ้งให้เราทราบโดยชัดเจนว่าเกิดอะไรขึ้น!
+MsgScrTroubleshootSubmitTicketFirstLastName,ชื่อและนามสกุล
+MsgScrTroubleshootSubmitTicketYourEmail,อีเมลแอดเดรสของคุณ
+MsgScrTroubleshootSubmitTicketContactPhone,หมายเลขโทรศัพท์ที่ติดต่อได้
+MsgScrTroubleshootSubmitTicketYourRevelUrl,URL RevelUp/ ที่อยู่ของคุณ
+MsgScrTroubleshootSubmitTicketEstablishment,หมายเลขที่ติดตั้ง
+MsgScrTroubleshootSubmitTicketContactReason,เหตุผลในการติดต่อ
+MsgScrTroubleshootSubmitTicketServiceType,ประเภทการบริการ
+MsgScrTroubleshootSubmitTicketIssueArea,ขอบเขตของปัญหา
+MsgScrTroubleshootSubmitTicketIssueAreaSelect,เลือกขอบเขตของปัญหา
+MsgScrTroubleshootSubmitTicketMessageSubject,ชื่อเรื่องของข้อความ
+MsgScrTroubleshootSubmitTicketTypeMessage,พิมพ์ข้อความของคุณที่นี่
+MsgScrSettingsCheckSyncStatus,ตรวจสอบสถานะการซิงก์
+MsgScrSettingsInventory,สินค้าคงเหลือ
+MsgScrSettingsSendNewProducts,ส่งผลิตภัณฑ์ใหม่
+MsgScrSettingsManagerSettings,การตั้งค่าผู้จัดการ
+MsgScrSettingsBluetoothPrinting,การพิมพ์บลูธูท
+MsgScrSettingsCashCreditLog,บันทึกเงินสดและเครดิต
+MsgScrSettingsClockInClockOutOptions,ตัวเลือกการลงเวลาเข้า/เวลาออกงาน
+MsgScrSettingsSaveClockInPhotosLibrary,บันทึกภาพถ่ายในไลบรารีภาพถ่าย
+MsgScrSettingsTills,ลิ้นชักเก็บเงิน
+MsgScrSettingsCurrentTill,ลิ้นชักเก็บเงินปัจจุบัน
+MsgScrSettingsCashDrawers,ลิ้นชักเก็บเงิน
+MsgScrSettingsOfflineCreditCards,บัตรเครดิตแบบออฟไลน์
+MsgScrSettingsPaymentConfiguration,การกำหนดค่าการชำระเงิน
+MsgScrSettingsSystemInfo,ข้อมูลระบบ
+MsgScrSettingsPrevailingTax,ภาษีทั่วไป
+MsgScrSettingsTrainingMode,โหมดการฝึกอบรม
+MsgScrSettingsEnableTrainingMode,ออกจากโหมดการฝึกอบรม
+MsgScrSettingsEnableTemplateTestMode,เปิดใช้งานโหมดการทดสอบ
+MsgScrSettingsTrainingTemplatesMode,โหมดการฝึกอบรม
+MsgScrSettingsAutologout,ออกจากระบบอัตโนมัติ
+MsgScrSettingsFonts,ตัวอักษร
+MsgScrSettingsProductBoxFontSize,ขนาดตัวอักษรกล่องผลิตภัณฑ์
+MsgScrSettingsPrinting,การพิมพ์
+MsgScrSettingsCardSwipeType,ประเภทบัตรรูด
+MsgScrSettingsVersion,รุ่น
+MsgScrSettingsEstablishmentID,รหัสเครื่องที่ติดตั้ง
+MsgScrSettingsStationName,ชื่อเครื่องบริการ
+MsgScrSettingsBackendTaxCurTax,ภาษีส่วนหลัง: %.3f%% ภาษีปัจจุบัน: %.3f%%
+MsgScrSettingsTax,เก็บภาษี:
+MsgScrSettingsSavePhotoPhotoLibrary,บันทึกภาพถ่ายในไลบรารีภาพถ่าย
+MsgScrSettingsAllowEmployeesSetTills,อนุญาตให้พนักงานตั้งค่าลิ้นชักเก็บเงิน
+MsgScrSettingsAllowEmployeesSetCashDrawer,อนุญาตให้พนักงานตั้งค่าลิ้นชักเก็บเงิน
+MsgScrSettingsEnable2CashDrawers,เปิดใช้งานสองลิ้นชักเก็บเงิน
+MsgScrSettingsDisableOfflineCreditCards,ปิดการใช้งานบัตรเครดิตแบบออฟไลน์
+MsgScrSettingsCreditCardConnectionTimeout,หมดเวลาการเชื่อมต่อบัตรเครดิต (วินาที)
+MsgScrSettingsMaxTotalForAllUnprocessedOfflinePayments,ยอดรวมสูงสุดสำหรับการชำระเงินแบบออฟไลน์ที่ไม่ได้ดำเนินการ
+MsgScrSettingsMaxTotalForAllUnprocessedDeclinePayments,ยอดรวมสูงสุดสำหรับการชำระเงินที่ถูกปฏิเสธที่ไม่ได้ดำเนินการ
+MsgScrSettingsAcceptOfflineCC,บัตรเครดิตแบบออฟไลน์
+MsgScrSettingsMaxAmountForOfflinePayment,จำนวนเงินสูงสุดสำหรับการชำระเงินแบบออฟไลน์
+MsgScrSettingsPromptSetTills,แจ้งให้ทำการตั้งค่าลิ้นชักเก็บเงิน
+MsgScrSettingsEnableTestMode,เปิดใช้งานโหมดการทดสอบ
+MsgScrSettingsKitchenPrintForTestMode,ใบพิมพ์สำหรับห้องครัว
+MsgScrSettingsTimeoutValueShouldNotBeZero,ค่าหมดเวลาไม่ควรเป็นศูนย์
+MsgScrSettingsAmountValueShouldNotBeZero,ค่าจำนวนเงินไม่ควรเป็นศูนย์
+MsgScrSettingsTaxRate10,อัตราภาษี: 10 %
+MsgScrSettingsDisableClockInRequired,จำเป็นต้องปิดใช้งานการลงเวลาเข้า
+MsgScrSettingsAutologoutOnDone,การออกจากระบบโดยอัตโนมัติ ‘เสร็จแล้ว’
+MsgScrSettingsTOTALCASH,ยอดรวมเงินสด
+MsgScrSettingsTOTALCREDIT,ยอดรวมเครดิต
+MsgScrSettingsTOTALCHECK,ยอดรวมเช็ค
+MsgScrSettingsTOTALGIFTCERT,ยอดรวมบัตรกำนัล
+MsgScrSettingsEmailReceipt,อีเมลใบเสร็จ
+MsgScrSettingsChooseADrawer,เลือกลิ้นชัก
+BtnScrSettingsDrawer,ลิ้นชัก
+MsgScrSettingsSelectDateRange,เลือกช่วงวันที่
+MsgScrSettingsTotalCashReports,รายงานยอดรวมเงินสด
+MsgScrSettingsPrintCashLog,พิมพ์บันทึกเงินสด
+MsgScrSettingsPrintCashLog2,พิมพ์\nบันทึกเงินสด
+MsgScrSettingsEmailPaymentLog,อีเมลบันทึกการชำระเงิน
+MsgScrSettingsPrintPaymentSummary,พิมพ์ยอดสรุปการชำระเงิน
+MsgScrSettingsPrintPaymentLog,พิมพ์บันทึกการชำระเงิน
+MsgScrSettingsPrintSalesReport,พิมพ์รายงานยอดขาย
+MsgScrSettingsOverridePrevailingTax,ภาษีทั่วไป
+MsgScrSettingsPrevailingTaxAmount,ภาษีทั่วไป
+MsgScrSettingsFailedLoadTimeSheet,โหลดแผ่นงานเวลาล้มเหลว
+MsgScrSettingsFailedLoadTimeSheetOffline,ไม่สามารถเชื่อมต่อเซิร์ฟเวอร์
+MsgScrSettingsPages,หน้า %d จาก %d
+MsgScrSettingsClockInClockOut,การลงเวลาเข้า: %@ การลงเวลาออกงาน: %@
+MsgScrSettingsEditTipsAllStations,แก้ไขทิป - เครื่องบริการทั้งหมด
+MsgScrSettingsCaptureThisStation,เก็บข้อมูลเครื่องบริการนี้
+MsgScrSettingsCapture,เก็บข้อมูล
+MsgScrSettingsSort,คัดแยก
+MsgScrSettingsCaptureAllView,เก็บข้อมูลการเรียกดูทั้งหมด
+MsgScrSettingsAllStations,เครื่องบริการทั้งหมด
+MsgScrSettingsThisStation,เครื่องบริการนี้
+MsgScrSettingsOrderID2,รหัสคำสั่งซื้อ
+MsgScrSettingsPaymentDateTime,วันที่/เวลาการชำระเงิน
+MsgScrSettingsBusyProcessingBatch,ไม่ว่างเนื่องจากกำลังดำเนินการประมวลผลแบบกลุ่ม... โปรดกลับมาภายหลัง
+MsgScrSettingsTrNrOrderIdCardL4D,"หมายเลขธุรกรรม, รหัสคำสั่งซื้อ, 4 หลักสุดท้ายของบัตร, ชื่อของผู้ถือบัตร หรือนามสกุลของผู้ถือบัตร"
+MsgScrSettingsSomeTrNotAppr,ธุรกรรม %d ไม่ได้รับการอนุมัติ ตรวจสอบหน้าจอการชำระเงินที่ถูกปฏิเสธสำหรับรายละเอียด
+MsgScrSettingsProcessed,ดำเนินการแล้ว
+MsgScrSettingsAutoCaptureFailed,การเก็บข้อมูลอัตโนมัติล้มเหลว เนื่องจากหน้าจอการประมวลผลเชิงกลุ่มกำลังทำงานอยู่ โปรดดำเนินการเก็บข้อมูลทั้งหมดด้วยตนเอง
+MsgScrSettingsSomeFailed2Capture,%d ล้มเหลวในการเก็บข้อมูล
+MsgScrSettingsCaptureFailed,การเก็บข้อมูลล้มเหลว
+MsgScrSettingsTransactionCaptureFailed,การเก็บข้อมูลธุรกรรมล้มเหลว โปรดลองอีกครั้งในภายหลัง
+MsgScrSettingsCaptureAllStations,เก็บข้อมูลเครื่องบริการทั้งหมด
+MsgScrSettingsDoUWant2CaptueAllPayments,คุณต้องการเก็บข้อมูลการชำระเงินที่ถูกซิงก์กับเครื่องบริการ POS ทั้งหมดหรือไม่? โปรดแน่ใจว่า เครื่องบริการ POS อื่นยังคงทำงานอยู่ และมีการเชื่อมต่อกับอินเทอร์เน็ต
+MsgScrSettingsCaptureAllTransaction,เก็บข้อมูลธุรกรรมทั้งหมด
+MsgScrSettingsEnsureAllInfoIsCorr,โปรดแน่ใจว่า ข้อมูลทั้งหมดนั้นถูกต้อง ก่อนที่จะดำเนินการนี้ การดำเนินการนี้อาจใช้เวลาสักครู่ โดยขึ้นอยู่กับจำนวนของธุรกรรมและการเชื่อมต่ออินเทอร์เน็ต\n\nมี %d ของธุรกรรมที่ต้องเก็บข้อมูล\n\nคุณต้องการดำเนินการกับงานนี้หรือไม่?
+MsgScrSettingsNothingToCapture,ไม่มีสิ่งใดให้เก็บข้อมูล
+MsgScrSettingsCaptureAllCaptureView,การเก็บข้อมูลสามารถทำได้เฉพาะมุมมองการเก็บข้อมูลเท่านั้น
+MsgScrSettingsNoPaymentsFound,ไม่พบการชำระเงิน
+MsgScrSettingsNrPayments,%d การชำระเงิน
+MsgScrSettingsCaptureAll,เก็บข้อมูลทั้งหมด
+MsgScrSettingsJobRequestAllSyncPosStations,คำร้องของานถูกส่งไปยังเครื่องบริการ POS ที่ซิงก์ทั้งหมด ตรวจสอบเครื่องบริการภายในไม่กี่นาทีนี้
+MsgScrSettingsLoading3Dots,กำลังโหลด...
+MsgScrSettingsLockedPreauthorization,ปิดกั้นการอนุมัติล่วงหน้า
+MsgScrSettingsToBeCaptured,ที่จะถูกเก็บข้อมูล
+MsgScrSettingsNotAccepted,ไม่ได้รับการยอมรับ! ติดต่อหน่วยประมวลผลการชำระเงินของคุณเพื่อเก็บข้อมูลด้วยตนเอง
+MsgScrSettingsExccedAmount,ไม่อนุญาตให้เก็บข้อมูลเกินกว่า %@!
+MsgScrSettingsConfirmation,การยืนยัน
+MsgScrSettingsDeletePaymentFromBatch,ลบการชำระเงินจากกลุ่ม
+MsgScrSettingsLastStatus,สถานะสุดท้าย:
+MsgScrSettingsTipOVER25,ทิปเกินกว่า 25%!
+MsgScrSettingsTotal,ยอดรวม:
+MsgScrSettingsTip,ทิป: 
+MsgScrSettingsDisplayUnitSett,การตั้งค่าหน่วยแสดงผล
+MsgScrSettingsDisplayUnitWelcomeMess,ข้อความต้อนรับหน่วยแสดงผล:
+MsgScrSettingsCustomWelcomeMess,ข้อความต้อนรับที่กำหนดเอง:
+MsgScrSettingsWelcome2ManagerSett,การตั้งค่าการต้อนรับผู้จัดการ
+MsgScrSettingsEstablishment,เครื่องที่ติดตั้ง
+MsgScrSettingsAdvanced,ขั้นสูง
+MsgScrSettingsAdvancedEmployeeLock,อนุญาตให้พนักงานล็อก iPads
+MsgScrSettingsEnableTroubleshootMode,เปิดใช้งานโหมดการแก้ปัญหา
+MsgScrSettingsRecentLog,บันทึกการชำระเงิน
+MsgScrSettingsUploadToServer,อัปโหลดบันทึกไปยังเซิร์ฟเวอร์
+MsgScrSettingsUploadLogs,อัปโหลดบันทึกไปยังเซิร์ฟเวอร์
+MsgScrSettingsLastUploadDateLessMinuteAgo,เวลาอัปโหลดล่าสุด: น้อยกว่า 1 นาทีที่แล้ว
+MsgScrSettingsLastUploadDateMinutesAgo,เวลาอัปโหลดล่าสุด: %d นาทีที่แล้ว
+MsgScrSettingsLastUploadDate,เวลาอัปโหลดล่าสุด: %@
+MsgScrSettingsTroubleshootModeLogs,บันทึกโหมดการแก้ปัญหา
+MsgScrSettingsCustomMenus,การตั้งค่าเมนูที่กำหนดค่าเอง
+MsgScrSettingsShowCustomMenus,แสดงเมนูที่กำหนดค่าเอง
+MsgPopupIdleTimerTitle,ไม่มีกิจกรรม
+MsgPopupIdleTimerMessage,คุณยังอยู่ตรงนั้นหรือไม่?
+MsgPopupStartOverTitle,เริ่มใหม่
+MsgPopupStartOverConfirmation,คุณแน่ใจหรือไม่?
+MsgPopupTransactionFailedMessage,โปรดกดปุ่ม “ย้อนกลับ” เพื่อลองอีกครั้ง หรือกดปุ่ม “ด้วยตนเอง” เพื่อป้อนข้อมูลบัตรด้วยตนเอง
+MsgPopupCashInformationIncompleteTitle,ข้อมูลไม่สมบูรณ์
+MsgPopupCashInformationIncompleteMessage,โปรดป้อนชื่อของคุณ และจากนั้นกดปุ่ม ถัดไป
+MsgPopupEmailAddressIsNotValidTitle,อีเมลแอดเดรสไม่ถูกต้อง
+MsgPopupEmailAddressIsNotValidMessage,โปรดตรวจสอบอีเมลแอดเดรสของคุณ และลองอีกครั้ง
+MsgPriceFree,ฟรี
+MsgCustomize,ตามความต้องการผู้ซื้อ
+MsgPopupRequireGroupTitle,การเลือกไม่สมบูรณ์
+MsgPopupRequireGroupMessage,โปรดเลือก %@
+BtnEditSpecialInstructions,แก้ไขข้อแนะนำพิเศษ
+BtnAddSpecialInstructions,เพิ่มข้อแนะนำพิเศษ
+MsgSubCategoryAll,ทั้งหมด
+MsgBagItemName,ถุง
+MsgProductInformation,%@ ข้อมูล
+MsgPopupGiftCardIncorrectTitle,หมายเลขบัตรของขวัญไม่ถูกต้อง
+MsgProductAttributesSelect,เลือก %@
+MsgProductAttributesSelectAttrForProd,เลือก %@ & %@ สำหรับ %@
+MsgProductAttributesSelectOneAttrForProd,เลือก %@ สำหรับ %@
+MsgCallNamePressBackTextOrderScreen,หรือกดย้อนกลับ เพื่อกลับไปยังหน้าจอคำสั่งซื้อ
+MsgCallNamePressBackTextPaymentOptions,หรือกดย้อนกลับ เพื่อย้อนกลับไปยังตัวเลือกการชำระเงิน
+MsgCallNameSkipGiftCardActivationText,หรือกด ดำเนินการต่อ เพื่อข้ามการเปิดใช้งานบัตร
+MsgModWindowPleasePickMod,โปรดเลือก %@
+MsgScrOrderKioskMyOrder,คำสั่งซื้อของฉัน
+MsgScrOrderKioskTitleWelcomeTo,ยินดีต้อนรับสู่
+MsgScrOrderKioskTitleTouchScreenToBegin,แตะหน้าจอเพื่อเริ่มต้น
+MsgScrCheckoutKioskTitleCheckoutAndPayment,การเช็กเอาต์และการชำระเงิน
+MsgScrCheckoutKioskTitleCheckout,เช็กเอาต์
+MsgScrCheckoutKioskReviewOrder,ตรวจสอบคำสั่งซื้อ
+MsgScrCheckoutKioskHaveDiscountCode,มีรหัสส่วนลดหรือไม่?
+MsgScrCheckoutKioskNeedBag,ฉันต้องการถุง!
+MsgScrCheckoutKioskDontNeedBag,ฉันไม่ต้องการถุง
+MsgScrCheckoutKioskPrepareOptionHere,ที่นี่
+MsgScrCheckoutKioskPrepareOrderFor,จัดเตรียมคำสั่งซื้อนี้สำหรับ...
+MsgScrCheckoutKioskBalanceDueIs,ยอดที่ต้องชำระของคุณคือ
+MsgScrCheckoutKioskHowToPay,คุณต้องการชำระเงินโดยวิธีใด?
+MsgScrCheckoutKioskPleaseSwipeCard,โปรดรูดบัตรของคุณ
+MsgScrCheckoutKioskWouldLikeToAddTip,คุณต้องการเพิ่มทิปลงไปด้วยหรือไม่?
+MsgScrCheckoutKioskEnterTipAmount,ป้อนจำนวนทิป:
+MsgScrCheckoutKioskOrChooseFromOptionsBelow,หรือเลือกจากตัวเลือกด้านล่าง
+MsgScrCheckoutKioskThankYouOrderPlaced,ขอบคุณ! คำสั่งซื้อของคุณอยู่ในระบบแล้ว
+MsgScrCheckoutKioskCallName,ชื่อเรียก:
+MsgScrCheckoutKioskAmountCharged,จำนวนเงินที่เรียกเก็บค่าใช้จ่าย:
+MsgScrCheckoutKioskOrderTotal,ยอดรวมคำสั่งซื้อ:
+MsgScrCheckoutKioskSignBelow,โปรดลงลายมือชื่อด้านล่าง
+MsgScrCheckoutKioskEnterEmail,โปรดป้อนอีเมลแอดเดรสของคุณ
+MsgScrCheckoutKioskEmailTitle,อีเมล:
+MsgScrCheckoutKioskEnterEmailHere,ป้อนอีเมลที่นี่
+MsgScrCheckoutKioskPurchaseDoneThankYouNote,คุณดำเนินการเสร็จสิ้นแล้ว! ขอบคุณสำหรับการสั่งซื้อจากเรา
+MsgScrCheckoutKioskReceiptSentTo,ใบเสร็จถูกส่งไปยัง...
+MsgScrCheckoutKioskSwipeGiftCard,โปรดรูดบัตรของขวัญของคุณ หรือป้อนด้วยตนเอง
+MsgScrCheckoutKioskManualGiftCard,โปรดป้อนบัตรของขวัญด้วยตนเอง
+MsgScrCheckoutKioskGiftCardNo,บัตรของขวัญ #:
+MsgScrCheckoutKioskEnterGiftCardNo,ป้อนบัตรของขวัญ #
+MsgScrCheckoutKioskScanQRToPayWith,สแกนรหัสคิวอาร์ ด้วยโทรศัพท์ของคุณเพื่อชำระเงิน
+MsgScrCheckoutKioskOpenPayPalSearchForOurStore,เปิดแอป PayPal จากนั้นค้นหาร้านค้าของเรา
+MsgScrCheckoutKioskSwipeSliderRight,รูดตัวเลื่อนไปทางขวา
+MsgScrCheckoutKioskScanQRWithScanner,สแกนรหัสคิวอาร์ ด้วยเครื่องสแกน
+MsgScrCheckoutKioskEnterCallName,โปรดป้อนชื่อเรียก
+MsgScrCheckoutKioskEnterCallNameHere,ป้อนชื่อเรียกที่นี่
+MsgScrCheckoutKioskProceedToPaymentStation,โปรดดำเนินการต่อไปยังเครื่องบริการชำระเงิน
+MsgScrCheckoutKioskToCompleteOrder,เพื่อดำเนินการกับคำสั่งซื้อของคุณให้เสร็จสมบูรณ์
+MsgScrCheckoutKioskCallNumber,หมายเลขโทรศัพท์:
+MsgScrModifiersKioskHowMany,จำนวนเท่าใด?
+MsgScrModifiersNoModifiersForProduct,ไม่มีตัวดัดแปลงสำหรับผลิตภัณฑ์นี้
+MsgScrModifiersSelectedModifiers,ตัวดัดแปลงที่เลือก
+MsgScrModifiersTouchToJumpToCategory,แตะเพื่อเข้าสู่หมวดหมู่
+MsgScrMatrixPriceColon,ราคา:
+MsgScrMatrixSelectAttribute,เลือก (คุณลักษณะ)
+BtnLanguage,ภาษา
+MsgSelectLanguage,เลือกภาษา
+MsgSelectWhereReceiptSent,เลือกผลิตภัณฑ์ หรือส่วนผสม
+MsgSelectYourEmailTitle,เลือกลิ้นชักเก็บเงิน
+MsgScrSettingsAmount,จำนวนเงิน:
+MsgScrSettingsAmount2,จำนวนเงิน
+MsgScrSettingsManTransaction,การทำรายการ # %@
+MsgScrSettingsCreditApproved,เครดิตได้รับการอนุมัติ
+MsgScrSettingsCreditNotApproved,เครดิตไม่ได้รับการอนุมัติ
+MsgScrSettingsUnexpectedPaymentProcessor,หน่วยประมวลผลการชำระเงินที่ไม่ได้คาดการณ์ไว้ โปรดตรวจสอบการตั้งค่าระบบส่วนหลัง
+MsgScrSettingsProcessingCredit,การประมวลผลเครดิต
+MsgScrSettingsCreditAmountMustBeGreaterThan0,จำนวนเครดิตต้องมากกว่าศูนย์
+MsgScrSettingsTransactionNotCaptured,ธุรกรรมไม่ได้ถูกเก็บบันทึก
+MsgScrSettingsNoTransactionNumberFound,ไม่พบหมายเลขธุรกรรม
+MsgScrSettingsPleaseEnterTransactionNumber,โปรดป้อนหมายเลขธุรกรรม
+MsgScrSettingsDeleteLocks,ลบล็อก
+MsgScrSettingsSelectUserLockPOS,เลือกผู้ใช้เพื่อล็อกไปที่ POS:
+MsgScrSettingsDeleteAllLocksPOS,นี่จะลบล็อกทั้งหมดจาก POS คุณแน่ใจหรือไม่?
+MsgScrSettingsOwnersAndManagersCanLog,เจ้าของและผู้จัดการสามารถเข้าสู่ระบบได้ตลอดเวลา และจะไม่ถูกแสดงรายชื่อที่นี่\nผู้ปรุงอาหารไม่สามารถเข้าสู่ระบบและจะไม่ถูกแสดงรายชื่อที่นี่\nสนับสนุนการล็อกหลายผู้ใช้
+MsgScrSettingsPINRole,PIN: %@ หน้าที่:
+MsgScrSettingsFailedDeleteUserLocks,ลบการล็อกผู้ใช้ล้มเหลว
+MsgScrSettingsEnterPassword,ป้อนรหัสผ่าน:
+MsgScrSettingsTableFiltering,การกรองโต๊ะ:
+MsgScrSettingsCheckNetwork2,ตรวจสอบเครือข่าย:
+MsgScrSettingsDateTouchEmployee,เลือกวันที่ และพนักงานที่จะพิมพ์
+MsgScrSettingsEnterAmount,ป้อนจำนวนเงิน
+MsgScrSettingsOpenCashDrawer,เปิดลิ้นชักเก็บเงิน
+MsgScrSettingsQuestQT720PinPad,ค้นหา QT720 PinPad
+MsgScrSettingsPinPadSerialNumber,หมายเลขลำดับ PinPad:
+MsgScrSettingsPinPadKernelName,ชื่อ PinPad Kernel:
+MsgScrSettingsPinPadKernelVersion,รุ่น PinPad Kernel:
+MsgScrSettingsSerialboxStatus,สถานะกล่องอนุกรม:
+MsgScrSettingsCloudID,รหัสคลาวด์:
+MsgScrSettingsDebugLog,บันทึกจุดบกพร่อง
+MsgScrSettingsConnected,เชื่อมต่อแล้ว
+MsgScrSettingsFailedConnect,ล้มเหลวในการเชื่อมต่อ
+MsgScrSettingsNotConnected,ไม่ได้เชื่อมต่อ
+MsgScrSettingsPinPadconnectionTimeout,หมดเวลาการเชื่อมต่อ PinPad
+MsgScrSettingsPinPadconnectionFailed,การเชื่อมต่อ PinPad ล้มเหลว
+MsgScrSettingsGettingPinPadInfo,ได้รับข้อมูล PinPad
+MsgScrSettingsLookPinPad,ดูที่ PinPad
+MsgScrSettingsForce,บังคับ
+MsgScrSettingsPaymentsProcessing,การดำเนินการการชำระเงิน
+MsgScrSettingsStillOffline,ยังคงออฟไลน์ โปรดตรวจสอบการเชื่อมต่อเครือข่ายของคุณ
+MsgScrSettingsCashDrawerManagement,การบริหารจัดการลิ้นชักเก็บเงิน
+MsgScrSettingsSetCashDrawer,ตั้งค่าลิ้นชักเก็บเงิน
+MsgScrSettingsPushNotifications,การแจ้งเตือนแบบพุช
+MsgScrSettingsPaymentsSettings,การชำระเงิน
+MsgScrSettingsDisplayUnitSettings,หน่วยแสดงผล
+MsgScrSettingsDisplayUnitSettingsTitle,ข้อความต้อนรับหน่วยแสดงผล
+MsgScrSettingsDisplayUnitSettingsEnterCustom,ป้อนข้อความที่กำหนดเอง
+MsgScrSettingsDisplayUnitSettingsCustomTitle,ป้อนข้อความที่กำหนดเอง
+MsgScrSettingsNetworkSyncFailureDetails,เสร็จสิ้นการชำระเงิน
+MsgScrSettingsNetworkSyncFailureDescription,รายละเอียด
+MsgScrSettingsFailedLogout,การออกจากระบบล้มเหลว
+MsgScrSettingsOrderIsStillOpen,คำสั่งซื้อ #%@ ยังคงเปิดอยู่! โปรดปิดคำสั่งซื้อก่อนที่จะออกจากระบบ
+MsgScrSettingsClockInClockOut2,การลงเวลาเข้างาน/การลงเวลาออกงาน
+MsgScrSettingsDoYouWantToClokInOrOut,คุณต้องการลงเวลาเข้างานหรือออกงาน?
+MsgScrSettingsManager,ผู้จัดการ
+MsgScrSettingsSalesSummary,สรุปยอดขาย
+MsgScrSettingsPrinters,เครื่องพิมพ์
+MsgScrSettingsTaxFree,ไม่มีภาษี
+MsgScrSettingsTimeSchedule,ตารางเวลา
+MsgScrSettingsRewardCards,บัตรรางวัล
+MsgScrSettingsDeclareTips,แจ้งทิป
+MsgScrSettingsTipsProcessing,ประมวลผลทิป
+MsgScrSettingsUpdateRPI,อัปเดต RPI
+MsgScrSettingsShowRPIDevices,แสดงอุปกรณ์ RPI
+MsgScrSettingsStanfordCards,บัตร Stanford
+MsgScrSettingsWetstockManagement,การจัดการสินค้าชนิดเปียก
+MsgScreenAllOrdersAreSentServer,คำสั่งซื้อทั้งหมดถูกส่งไปยังเซิร์ฟเวอร์
+MsgScreenAllPaymentsAreSentPaymentProcessor,การชำระเงินทั้งหมดถูกส่งไปยังหน่วยประมวลผลการชำระเงิน
+MsgScreen1OrderStillNotSentServer,1 คำสั่งซื้อยังคงไม่ถูกส่งไปยังเซิร์ฟเวอร์
+MsgScreen1PaymentStillNotSentPaymentProcessor,1 การชำระเงินยังคงไม่ถูกส่งไปยังหน่วยประมวลผลการชำระเงิน
+MsgScreenFewOrderStillNotSentServer,%d คำสั่งซื้อยังคงไม่ถูกส่งไปยังเซิร์ฟเวอร์
+MsgScreenFewOrdersFailedSentServer,%d คำสั่งซื้อล้มเหลวในการส่งไปยังเซิร์ฟเวอร์
+MsgScreen1OrderFailedSentServer,1 คำสั่งซื้อล้มเหลวในการส่งไปยังเซิร์ฟเวอร์
+MsgScreenFewPaymentStillNotSentPaymentProcessor,%d การชำระเงินยังคงไม่ถูกส่งไปยังหน่วยประมวลผลการชำระเงิน
+MsgScreenVersionInformation,ข้อมูลรุ่น
+MsgScreenVersionEstabStation,รุ่น: %@.%@\nรหัสเครื่องติดตั้ง: %d\nชื่อเครื่องบริการ: %@\n รหัสอุปกรณ์: %@\n URL: %@
+MsgScreenVersionEstablishmentStation,รุ่น: %@\nรหัสเครื่องที่ติดตั้ง: %d\nชื่อเครื่องบริการ: %@\n รหัสอุปกรณ์: %@\n URL: %@
+MsgScreenCertificate,NTEP CC# 13-014
+MsgScrPinWarningPosDisabledNoPaymentMessage,เครื่องบริการ POS ถูกปิดการใช้งาน บัตรเครดิตของคุณได้รับการปฏิเสธ โปรดป้อนบัตรเครดิตใหม่ในระบบ หรือติดต่อฝ่ายช่วยเหลือเพื่อขอความช่วยเหลือ
+MsgScrPinWarningPosWillBeDisabledWarning,คุณมีเวลา %i ชั่วโมง ก่อนที่เครื่องบริการนี้จะปิดใช้งาน คุณต้องทำการชำระเงินด้วยบัตรเครดิตใหม่
+MsgScrOrderSelect,เลือก
+MsgScrOrderTitle,ชื่อเรื่อง
+MsgScrOrderInformation,ข้อมูล
+MsgScrOrderProductName,ชื่อผลิตภัณฑ์
+MsgScrOrderSeat3,ที่นั่ง 3
+MsgScrOrderCourse1,อาหารชุด 1
+MsgScrOrderOrderOverview,ภาพรวมคำสั่งซื้อ
+MsgScrOrderOrder,คำสั่งซื้อ #
+MsgScrOrderSelectHotspotDuration,เลือกช่วงระยะเวลาฮอตสปอต
+MsgScrOrderHotspotError,ข้อผิดพลาดฮอตสปอต
+MsgScrOrderFailedGetCodeHotspot,การรับรหัสจากฮอตสปอตล้มเหลว
+MsgScrOrderCardAttachedOrder,แนบบัตรกับคำสั่งซื้อแล้ว
+MsgScrOrderCardCantAttachedOrder,ไม่สามารถแนบบัตรกับคำสั่งซื้อ
+MsgScrOrderEmailSent,ส่งอีเมลแล้ว
+MsgScrOrderCustomerName,ชื่อ
+MsgScrOrderSetAttributes,ตั้งค่าคุณลักษณะ
+MsgScrOrderSetAutoGratuity,ตั้งค่าเงินค่าตอบแทนอัตโนมัติ
+MsgScrOrderAutoGratuityOnOff,เปิด/ปิดเงินค่าตอบแทนอัตโนมัติ:
+MsgScrOrderSetGratuity,ตั้งค่าเงินค่าตอบแทน %:
+MsgScrOrderMore,เพิ่มเติม
+MsgScrOrderOrderSummary,สรุปคำสั่งซื้อ
+MsgScrOrderSubtotal,ยอดรวมย่อย
+MsgScrOrderDue,ครบกำหนด
+MsgScrOrderChange,เปลี่ยนแปลง:
+MsgScrOrderSettings,การตั้งค่า
+MsgScrOrderDeviceStatus,สถานะอุปกรณ์
+MsgScrOrderSignHere,ลงลายมือชื่อที่นี่
+MsgScrOrderAgreementToPay,ฉันยินยอมที่จะชำระเงินตามจำนวนเงินรวมข้างต้น โดยอ้างตามข้อตกลงของผู้ออกบัตร
+MsgScrOrderDoYouWantaReceipt,คุณต้องการใบเสร็จหรือไม่?
+MsgScrOrderTips,ทิป
+MsgScrOrderNoOpenOrders,ไม่พบคำสั่งซื้อที่เปิดอยู่
+MsgScrOrderExchangedItems,รายการที่แลกเปลี่ยน:
+MsgScrOrderSetTillBeforePerformAction,ต้องตั้งค่าลิ้นชักเก็บเงินก่อน\n การดำเนินการที่ต้องการจึงจะดำเนินการได้
+MsgScrOrderSetCallNameBeforePerformAction,ต้องเพิ่มชื่อเรียกไว้ก่อน\n การดำเนินการที่ต้องการจึงจะดำเนินการได้
+MsgScrOrderSetCustomerBeforePerformAction,ต้องเพิ่มลูกค้าไว้ก่อน\n การดำเนินการที่ต้องการจึงจะดำเนินการได้
+MsgScrOrderSetSerialBeforePerformAction,รายการในคำสั่งซื้อนี้จำเป็นต้องมีหมายเลขลำดับก่อนที่จะย้ายไปยังหน้าจอการชำระเงิน โปรดเพิ่มหมายเลขลำดับหรือเลือกรายการสำหรับการส่งมอบในท้องถิ่นอย่างใดอย่างหนึ่ง
+MsgScrOrderProductCannotBe,%@ ไม่สามารถเป็น %@
+MsgScrOrderProductCannotBeRemoveTheseProducts,%@ ไม่สามารถเป็น %@  ลบผลิตภัณฑ์เหล่านี้ออกจากคำสั่งซื้อหรือไม่?
+MsgScrOrderProductCannotBeRemoveThisProduct,%@ ไม่สามารถเป็น %@  ลบผลิตภัณฑ์นี้ออกจากคำสั่งซื้อหรือไม่?
+MsgScrOrderDonationError,ข้อผิดพลาด: การบริจาคถูกปิดการใช้งาน\nโปรดติดต่อผู้จัดการของคุณ
+BtnPromptGoToTill,ไปยังลิ้นชักเก็บเงิน
+BtnPromptSelectCustomer,เลือก\nลูกค้า
+BtnPromptSelectCallName,เลือก\nชื่อเรียก
+BtnPromptAddSerialNumber,เพิ่มหมายเลขลำดับ
+BtnPromptChooseItemsForLocalDelivery,เลือกรายการสำหรับการส่งมอบท้องถิ่น
+MsgLibIndexWrongQrCode,รหัสคิวอาร์ไม่ถูกต้อง
+MsgIndexError,ข้อผิดพลาดดัชนี
+MsgLibStarPrinterError,เครื่องพิมพ์สตาร์เกิดข้อผิดพลาด
+MsgLibStarIpAddrNotConf,ที่อยู่ไอพีไม่ได้รับการตั้งค่า
+MsgLibMagTekPortableCardSwipe,เครื่องรูดบัตรแบบพกพาได้
+MsgLibMagTekInitializing,กำลังดำเนินการเริ่มต้น...
+MsgLibMagTekAccessoryConn,อุปกรณ์เสริมได้รับการเชื่อมต่อแล้ว
+MsgLibMagTekDeviceConn,อุปกรณ์ได้รับการเชื่อมต่อแล้ว
+MsgLibMagTekDeviceDisconn,อุปกรณ์หยุดการเชื่อมต่อแล้ว
+MsgLibMagTekMAGTEKERR,MAGTEK เกิดข้อผิดพลาด
+MsgLibMagTekFailedParseOfflData,การแจงส่วนของข้อมูลหน่วยประมวลผลแบบออฟไลน์ล้มเหลว
+MsgLibMagTekDeviceReady,อุปกรณ์พร้อม
+MsgLibMagTekDeviceNotOpened,อุปกรณ์ไม่ได้เปิดอยู่
+MsgLibMagTekDeviceNotConn,อุปกรณ์ไม่ได้เชื่อมต่อ
+MsgLibMagTekOpenediDynamo,iDynamo ที่เปิดอยู่
+MsgLibMagTekOpeneduDynamo,uDynamo ที่เปิดอยู่
+MsgLibKitchenNetStartFailed,การเริ่มเครือข่ายล้มเหลว
+MsgLibKitchenItemsAreNotSent,คำสั่งซื้อต่อไปนี้ไม่ถูกส่งออกไป:\n
+MsgLibKitchenItemsAreNotRemoved,คำสั่งซื้อต่อไปนี้ไม่ถูกลบออกไป:\n
+MsgLibKitchenFrom,จาก
+MsgLibKitchenTo,ถึง
+MsgLibKitchenOrder,คำสั่งซื้อ #
+MsgUtilsViewRedeemCode,รหัสที่ใช้แลก
+MsgUtilsViewEnterRedemptionCode,ป้อนรหัสที่ใช้แลก
+MsgUtilsViewPassword,รหัสผ่าน
+MsgUtilsViewEnterPassword,ป้อนรหัสผ่าน
+MsgUtilsViewLinkCard,เชื่อมโยงบัตร
+MsgUtilsViewFindPreAuthCard,ค้นหาคำสั่งซื้อที่เชื่อมโยงไว้
+MsgUtilsViewCardSwipeIsNotSetUp,ไม่ได้ตั้งค่าการรูดบัตรสำหรับเครื่องบริการนี้
+MsgUtilsViewSwipeCardForLinkOrder,โปรดรูดบัตร
+MsgUtilsViewLinkedFindNotFound,ไม่พบคำสั่งซื้อที่เชื่อมโยง
+MsgUtilsViewLineNr,%s [บรรทัด %d] %@
+MsgUtilsViewEatInOrder,คำสั่งซื้อการรับประทานที่ร้าน
+MsgUtilsViewEatInInvoice,ใบแจ้งหนี้การรับประทานที่ร้าน
+MsgUtilsViewEatIn,รับประทานที่ร้าน
+MsgUtilsViewEatInWebOrder,คำสั่งซื้อทางเว็บการรับประทานที่ร้าน
+MsgUtilsViewEatInWebInvoice,ใบแจ้งหนี้การรับประทานที่ร้าน
+MsgUtilsViewToGoOrder,ไปยังคำสั่งซื้อ
+MsgUtilsViewToGoInvoice,ไปยังใบแจ้งหนี้
+MsgUtilsViewToGo,ไปยัง
+MsgUtilsViewToGoWebOrder,คำสั่งซื้อออนไลน์
+MsgUtilsViewToGoWebInvoice,ไปยังใบแจ้งหนี้ทางเว็บ
+MsgUtilsViewRetailWebOrder,คำสั่งซื้อออนไลน์
+MsgUtilsViewRetailWebInvoice,ใบแจ้งหนี้ที่ค้างชำระ
+MsgUtilsViewDelivery,การจัดส่ง
+MsgUtilsViewWebDelivery,การจัดส่งคำสั่งซื้อทางเว็บ
+MsgUtilsViewWebDeliveryInvoice,การจัดส่งใบแจ้งหนี้ทางเว็บ
+MsgUtilsViewCatering,บริการจัดเตรียมอาหาร
+MsgUtilsViewWebCatering,คำสั่งซื้อการบริการจัดเตรียมอาหารทางเว็บ
+MsgUtilsViewWebCateringInvoice,ใบแจ้งหนี้การบริการจัดเตรียมอาหารทางเว็บ
+MsgUtilsViewDriveThru,ขับผ่าน
+MsgUtilsViewWebDriveThru,คำสั่งซื้อทางเว็บแบบขับผ่าน
+MsgUtilsViewWebDriveThruInvoice,ใบแจ้งหนี้แบบขับผ่านทางเว็บ
+MsgUtilsViewWebOrder,คำสั่งซื้อออนไลน์
+MsgUtilsViewWebInvoice,ใบแจ้งหนี้ทางเว็บ
+MsgUtilsViewOther,อื่น ๆ
+MsgUtilsViewWebOther,คำสั่งซื้อออนไลน์
+MsgUtilsViewWebOtherInvoice,ใบแจ้งหนี้ทางเว็บอื่น ๆ 
+MsgDOMTotalOutstanding,ยอดค้างชำระทั้งหมด
+MsgDOMRate,%@ ราคา
+MsgDOMReceiptTotal,ยอดรวมใบเสร็จ
+MsgDOMReceiptSumTotal,ยอดรวมใบเสร็จทั้งหมด
+MsgDOMRewardSummary,สรุปรางวัล
+MsgDOMRewardCardNumber,หมายเลขบัตรรางวัล
+MsgDOMRedeemAuthNumber,แลกหมายเลขการอนุญาต
+MsgDOMAuthNumber,หมายเลขการอนุญาต
+MsgDOMCoupon,คูปอง
+MsgDOMCouponAmount,จำนวนเงินสดคูปอง
+MsgDOMCouponUsed,คูปองที่ใช้
+MsgDOMRewardUsed,รางวัลที่ใช้
+MsgDOMCustomerOwes,ลูกค้ายังค้างชำระ
+MsgDOMAddAuthNumber,เพิ่มหมายเลขการอนุญาต
+MsgDOMPointsEarned,คะแนนที่ได้มา
+MsgDOMTotalPoints,ยอดรวมคะแนน
+MsgDOMCashEarned,เงินสดที่ได้มา
+MsgDOMRewardBalance,ยอดคงเหลือรางวัล
+MsgDOMRewardCashBalance,ยอดคงเหลือรางวัลเงินสด
+MsgDOMTotalSaved,ยอดรวมที่บันทึกไว้
+MsgDOMAdditionalPoints,%.2f คะแนน จำเป็นต้องได้รับรางวัล %@ 
+MsgDOMAdditionalVisits,%d การมาเยือน จำเป็นต้องได้รับรางวัล %@ 
+MsgDOMExchanged,[ที่แลกเปลี่ยนไว้]
+MsgDOMExchangedWithDate,[ที่แลกเปลี่ยนไว้ %@]
+MsgDOMTOTALREFUNDED,ยอดรวมที่ขอคืนเงิน
+MsgDOMVOIDED,ยกเลิกแล้ว
+MsgDOMRETURNED,คืนค่ากลับแล้ว
+MsgDOMCOMPS,คำร้องเรียน
+MsgDOMVOIDEDPAYMENTS,การชำระเงินที่ยกเลิกแล้ว
+MsgDOMREFUNDEDPAYMENTS,การชำระเงินที่ขอคืนแล้ว
+MsgDOMVOIDEDTRANSACTION,ธุรกรรมที่ยกเลิกแล้ว
+MsgDOMREFUNDEDTRANSACTION,ธุรกรรมที่ขอคืนแล้ว
+MsgDOMCourse,อาหารชุด
+MsgDOMNO,ไม่
+MsgDOMDeliveryDate,วันที่ส่งมอบ
+MsgDOMWaitingfor,กำลังรอ
+MsgDOMUser,ผู้ใช้
+MsgDOMPAYINRECEIPT,ใบเสร็จเงินที่รับเข้า
+MsgDOMDrawerNumber,หมายเลขลิ้นชัก
+MsgDOMReason,เหตุผล
+MsgDOMPAYOUTRECEIPT,ใบเสร็จที่ชำระเงินออก
+MsgDOMFireCourse,ปรุงอาหาร %d
+MsgDOMGiftCard,บัตรของขวัญ
+MsgDOMCustPaid,ลูกค้าชำระเงินแล้ว
+MsgDOMCustChange,ลูกค้าเปลี่ยนแปลง
+MsgDOMTrans,โอนย้าย
+MsgDOMCard,บัตร
+MsgDOMCUTHERE,ลูกค้าที่นี่
+MsgDOMTotalOutst,ยอดรวมค่าค้างชำระ
+MsgDOMREFUNDED,ขอคืนเงิน
+MsgDOMCouldntBeAuth, บนคำสั่งซื้อ %@ ไม่สามารถอนุญาตสำหรับยอดเต็มจำนวนเงินได้
+MsgDOMCollectedSomeCouldnt,%.2f ถูกรวบรวมไว้ %.2f ไม่สามารถรวบรวมไว้ได้
+MsgDOMCaptureStatus,สถานะการเก็บข้อมูล
+MsgDOMTRAININGMODE,โหมดการฝึกอบรม
+MsgREPRINT,พิมพ์อีกครั้ง
+MsgCouponsError,ข้อผิดพลาด
+MsgCouponInvalidCoupon,คูปองไม่ถูกต้อง
+MsgCouponScanCoupon,สแกนคูปอง
+MsgInventoryInventory,สินค้าคงเหลือ
+MsgInventoryInventoryManagement,การบริหารจัดการสินค้าคงเหลือ
+MsgInventoryManageInventory,จัดการสินค้าคงเหลือ
+MsgInventoryItemNameInventory,%@ สินค้าคงเหลือ
+MsgInventorySReceived,%.2f %@ ได้รับแล้ว
+MsgInventoryQuantityUnits,%.2f %@
+MsgInventoryProducts,ผลิตภัณฑ์
+MsgInventoryPOs,ใบสั่งซื้อ
+MsgInventoryPO's,ใบสั่งซื้อ
+MsgInventoryManagePOs,จัดการใบสั่งซื้อ
+MsgInventoryCancel,ยกเลิก
+MsgInventoryFetchingInventoryInformation,การนำเข้าข้อมูลสินค้าคงเหลือ...
+MsgInventoryFetchingInventoryInformationForDefaultItems,การนำเข้าข้อมูลสินค้าคงเหลือ สำหรับรายการหลัก...
+MsgInventoryUpdatingInventoryInformation,การอัปเดตข้อมูลสินค้าคงเหลือ...
+MsgInventoryCurrentInventory:,สินค้าคงเหลือปัจจุบัน:
+MsgInventoryCurrentInventoryIs,สินค้าคงเหลือปัจจุบันคือ “%.2f”
+MsgInventoryProduct,ผลิตภัณฑ์
+MsgInventoryPOID#,รหัสใบสั่งซื้อ#
+MsgInventorySelect,เลือก
+MsgInventoryEnterPOID#,ป้อนรหัสใบสั่งซื้อ#
+MsgInventoryEnterBarcode,ป้อนบาร์โค้ด
+MsgInventorySelectaPurchaseOrder,เลือกใบสั่งซื้อ
+MsgInventorySearch,ค้นหา
+MsgInventorySubmit,ส่ง
+MsgInventoryNoMathesFound,ไม่พบรายการที่ตรงกัน
+MsgInventoryInventoryUpdated,สินค้าคงเหลือถูกอัปเดตแล้ว
+MsgInventoryNothingUpdated,ไม่มีสิ่งใดถูกอัปเดต
+MsgInventoryInvUnitsAdded,#ใบแจ้งหนี้ หน่วย\nที่เพิ่มไว้
+MsgInventoryAdded,เพิ่มแล้ว
+MsgInventoryCurrentInventory,สินค้าคงเหลือปัจจุบัน
+MsgInventoryPOID,รหัสใบสั่งซื้อ
+MsgInventoryPOIDNumber,รหัสใบสั่งซื้อ %d
+MsgInventoryPOsIncluding,ใบสั่งซื้อรวมถึง: %@
+MsgInventoryPurchaseOrderID,รหัสใบสั่งซื้อ#
+MsgInventoryVendorName,ชื่อผู้ขาย
+MsgInventoryVendorInvoiceNumber,หมายเลขใบแจ้งหนี้ผู้ขาย
+MsgInventoryDate,วันที่
+MsgInventoryItem,รายการ
+MsgInventoryCurrent,ปัจจุบัน
+MsgInventoryReceive,ได้รับ
+MsgInventoryActual,ค่าจริง
+MsgInventoryWaste,ของเสีย
+MsgInventoryDamage,เสียหาย
+MsgInventoryName,ชื่อ
+MsgInventoryQuantity,จำนวน
+MsgInventoryQty,จำนวน
+MsgInventoryUnit,หน่วย
+MsgInventoryClosed,ปิด
+MsgInventoryRec,ได้รับ
+MsgInventorySelectProductOrIngredient,เลือกผลิตภัณฑ์ หรือส่วนผสม
+MsgInventoryPleaseSelectUnit,โปรดเลือกหน่วย
+MsgInventoryPleaseSelectReason,โปรดเลือกหน่วย
+MsgInventoryMoreDetails,รายละเอียดคำสั่งซื้อ
+MsgInventoryIngredient,ส่วนผสม
+MsgInventoryObtainingPurchaseOrder,กำลังได้รับใบสั่งซื้อ...
+MsgInventoryObtainingPurchaseOrders,กำลังได้รับใบสั่งซื้อ...
+MsgInventoryUpdateReceivedInfo,กำลังอัปเดตข้อมูลที่ได้รับ...
+MsgInventoryErrorOccurredFetchFailed,การนำเข้าสินค้าคงเหลือล้มเหลว!
+MsgInventoryErrorOccurredInternet,เกิดข้อผิดพลาดขึ้น โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณ!
+MsgInventoryEnterAmount,ป้อนจำนวนเงิน
+MsgInventoryPriorInventory,สินค้าคงเหลือก่อนหน้า (%@)
+MsgInventoryActualInventory,สินค้าคงเหลือที่แท้จริง (%@)
+MsgInventoryVariance,ความผันแปร (%@)
+MsgInventoryVariancePerc,ความผันแปร (%%)
+MsgInventoryReason,เหตุผล
+MsgInventoryEnterReason,ป้อนเหตุผล
+MsgInventoryEnterCostPerUnit,ราคาต่อหน่วย
+MsgInventoryNone,ไม่มี
+MsgInventoryUpdate,อัปเดต
+MsgInventoryUpdatePrice,ปรับปรุงราคา
+MsgInventoryUpdateCost,อัปเดตค่าใช้จ่าย
+MsgInventoryAdjustCost,จำนวนเงิน\nที่ปรับยอด
+MsgInventoryPriceUpdated,ราคาที่อัปเดต
+MsgInventoryCostUpdated,ค่าใช้จ่ายที่อัปเดต
+MsgInventoryNewPrice,ราคาใหม่: %@
+MsgInventoryCurrentPrice,ราคาปัจจุบัน: %@%
+MsgInventoryCurrentCost,ค่าใช้จ่ายปัจจุบัน: %@%
+MsgInventoryNewCost,ค่าใช้จ่ายใหม่: %@
+MsgInventoryCurrent:,ปัจจุบัน: %@%.2f
+MsgInventoryCurrentQuantityUnits,ปัจจุบัน: %.2f %@s
+MsgInventoryThePriceOf,ราคาของ %@ ถูกเปลี่ยนแปลงไปเป็น%@ โปรดรีเฟรชเครื่องบริการอื่น เพื่อแจกจ่ายการเปลี่ยนแปลง
+MsgInventoryTheCostOf,ค่าใช้จ่ายของ %@ ถูกเปลี่ยนแปลงไปเป็น%@ โปรดรีเฟรชเครื่องบริการอื่น เพื่อแจกจ่ายการเปลี่ยนแปลง
+MsgInventoryPrice,ราคา
+MsgInventoryCost,ค่าใช้จ่าย
+MsgInventoryPleaseSpecifyReason,โปรดระบุเหตุผล
+MsgInventoryPleaseCorrectQuantity,โปรดระบุจำนวนที่ถูกต้อง
+MsgInventoryNA,ไม่มีอยู่
+MsgInventoryEnterSerialNumber,ป้อนหมายเลขลำดับ\n(แยกโดยบรรทัดใหม่)
+MsgInventoryStatus,สถานะ
+MsgInventoryFilterBySerialNumber,กรองโดยหมายเลขลำดับ
+MsgInventorySerialNumber,หมายเลขลำดับ
+MsgInventorySerialNumbers,หมายเลขลำดับ
+MsgInventoryFetchingSerialNumbers,การนำเข้าหมายเลขลำดับ...
+MsgInventoryInStock,ในสินค้าคงคลัง
+MsgInventorySold,ขายแล้ว
+MsgInventoryWastage,การสูญเสีย
+MsgInventoryEnsureThisValue,ต้องแน่ใจว่ามูลค่าค่าใช้จ่ายมากกว่า หรือเท่ากับ 0.0001
+MsgInventoryQuantityAndNumber,จำนวนสินค้าคงเหลือ และจำนวนหมายเลขลำดับไม่ตรงกัน
+MsgInventorySerialNumberAlreadyExists,หมายเลขลำดับมีอยู่แล้ว
+MsgInventoryCheckingInventory,กำลังตรวจสอบสินค้าคงเหลือ...
+MsgInventorySerialNumberIs,ที่มีหมายเลขลำดับ
+MsgInventorySerialNumberSold,ทำเครื่องหมายเป็นขายแล้ว
+MsgInventorySerialNumberNotMatches,ไม่มีอยู่ในสินค้าคงเหลือ
+MsgPunchhEnterRedemptionCode,ป้อนรหัสที่ใช้แลก
+MsgPunchhBankedRewards,จัดการบัตรรางวัล
+MsgPunchhUnredeemCards,แลกรางวัล
+MsgPunchhSelectItemError,โปรดเลือก
+MsgPunchhRewardsAvailableCaption,รางวัลที่มีอยู่
+MsgPunchhSwipeOrScanTitle,สแกน หรือ รูดบัตรรางวัล
+MsgPunchhReaderOrScannerWaiting,สแกน หรือ รูดบัตรรางวัล
+MsgPunchhCaptionPoints,ยอดคงเหลือคะแนน
+MsgPunchhRedeemCard,แลกรางวัล
+MsgPucnhhBankedRewardsPointsEarnedMessage,คุณมีการนัดหมาย
+MsgComoBenefitCanNotBeApplied,ไม่สามารถแนบบัตรกับคำสั่งซื้อ
+MsgPriceCheckerPlaceholder,ป้อนคำค้นหา
+MsgEmailSendConfirmTitle,ยืนยันอีเมล
+MsgEmailSendConfirmMessage,ใบเสร็จของคุณจะถูกส่งไปยังอีเมลแอดเดรสต่อไปนี้:
+BtnEmailSendConfirmChangeEmail,เปลี่ยนแปลงอีเมล
+MsgReceiptlessReturnsReturns,คืนค่า
+MsgReceiptlessReturnsItemsHeader,คืนค่าที่ไม่มีใบเสร็จ
+MsgReceiptlessReturnsItemReturnedItems,รายการที่คืนค่า
+MsgReceiptlessReturnsItemQty,จำนวน
+MsgReceiptlessReturnsItemInventory,สินค้าคงเหลือ
+MsgReceiptlessReturnsItemReturn,ลบออก
+MsgReceiptlessReturnsItemSearchPlaceholder,สินค้าคงเหลือ
+MsgReceiptlessReturnsItemTax,เก็บภาษี:
+MsgReceiptlessReturnSummaryAttachCustomer,แนบ\nลูกค้า
+MsgReceiptlessReturnSummaryPrice,ราคา
+MsgReceiptlessReturnSummaryTotal,ยอดรวม:
+MsgReceiptlessReturnSummaryCash,เงินสด
+MsgReceiptlessReturnSummaryStoreCredit,เครดิต
+MsgReceiptlessReturnSummaryPriceReturn,คืนค่า
+MsgReceiptlessReturnSummarySetTenderType,ประเภทการส่งมอบ:
+MsgReceiptlessReturnSummaryCustomer,ลูกค้า:
+MsgReceiptlessReturnSummaryPlaceholder,ป้อนเหตุผล
+MsgReceiptlessReturnSummaryReturn,คืนค่า %@
+MsgReceiptlessReturnReceiptItems,รายการที่คืนค่า
+MsgReceiptlessReturnCashReturnSuccessMessage,โปรดชำระเงินแก่ลูกค้า
+MsgReceiptlessReturnSuccessAddItemsGiftStoreCredit,การคืนค่าถูกดำเนินการแล้ว  โปรดเพิ่มรายการ หรือบัตรของขวัญไปยังคำสั่งซื้อ
+MsgReceiptlessReturnSuccessAddItemsStoreCredit,การคืนค่าถูกดำเนินการแล้ว  โปรดเพิ่มรายการ หรือบัตรของขวัญไปยังคำสั่งซื้อ
+MsgReceiptlessReturnSwitchYes,ใช่
+MsgReceiptlessReturnSwitchNo,ไม่
+MsgReceiptlessReturnSearchingSN,กำลังค้นหา...
+MsgReceiptlessReturnCantFindSN,ไม่มีผลิตภัณฑ์ที่ตรงกันกับหมายเลขลำดับในสินค้าคงเหลือ
+MsgWelcomeDemoConfig,ขณะนี้การประยุกต์ใช้จะโหลดการกำหนดค่าตัวอย่าง PIN ผู้ใช้ของคุณจะถูกส่งไปยัง %@
+MsgScrOrderPreAuthOrder,อนุมัติล่วงหน้าแล้ว
+MsgScrOrderPreAuthOrderDue,อนุมัติล่วงหน้า
+MsgScrOrderPreAuthWithAnotherCard,คำสั่งซื้อนี้ได้รับการอนุมัติล่วงหน้า โปรดยกเลิกการอนุมัติล่วงหน้าปัจจุบันก่อน
+MsgScrOrderPreAuthChooseSeat,คำสั่งซื้อนี้ได้รับการอนุมัติล่วงหน้า\n โปรดนำการอนุมัติล่วงหน้าไปใช้กับที่นั่งใดที่นั่งหนึ่ง
+MsgScrOrderPreAuthChooseBill,คำสั่งซื้อนี้ได้รับการอนุมัติล่วงหน้า\n โปรดนำอนุมัติล่วงหน้านี้ไปใช้กับบิลฉบับใดฉบับหนึ่ง
+MsgScrOrderPreAuthChooseBillTitle,คำสั่งซื้อที่ได้รับการอนุมัติล่วงหน้า
+MsgScrOrderPreAuthAmount,จำนวนเงินที่ได้รับการอนุมัติล่วงหน้า
+MsgPrePaymentNotSupportedOffline,บริการที่ได้รับการอนุมัติล่วงหน้าไม่ได้รับการสนับสนุนสำหรับโหมดออฟไลน์
+MsgPrePaymentProcessorNotSupported,หน่วยประมวลผลบัตรเครดิตไม่สนับสนุนธุรกรรมการอนุมัติล่วงหน้า
+MsgBatchPreAuthOrderShouldBeFinalized,ไม่สามารถเก็บข้อมูลการชำระเงินได้ เนื่องจากคำสั่งซื้อยังไม่ได้รับการสรุป\nโปรดสรุปคำสั่งซื้อ
+MsgBatchPreAuthOrderProceedCapture,คุณต้องการดำเนินการต่อหรือไม่?
+MsgMovePreAuthPaymnet,โปรดเลือกการอนุมัติล่วงหน้าที่คุณต้องการจะเก็บไว้
+MsgMovePreAuthPaymnetFailedCancel,การยกเลิกธุรกรรมการอนุมัติล่วงหน้าล้มเหลว\n คำสั่งซื้อ #%@ ยังคงเปิดอยู่
+MsgPreAuthConfirmCancel,คุณแน่ใจหรือไม่ว่า คุณต้องการปิดคำสั่งซื้อที่ระงับไว้ทั้งหมด?
+MsgPreAuthTableNOEmptyTable,ไม่มีโต๊ะว่าง
+MskQuickCourseAndSeatEnterCourseCount,ป้อนจำนวนอาหารชุด
+MskQuickCourseAndSeatEnterSeatCount,ป้อนจำนวนที่นั่ง
+MsgQuickCourseAndSeatManual,คู่มือ
+MsgDeliveryConsoleOrderQueueTitle,แผงควบคุมการส่งมอบ - มุมมองลำดับคำสั่งซื้อ
+MsgDeliveryConsoleMapViewTitle,แผงควบคุมการส่งมอบ - มุมมองแผนที่
+MsgDeliveryConsoleDriversViewTitle,แผงควบคุมการส่งมอบ - มุมมองคนขับ
+MsgDeliveryConsoleOrderHistoryViewTitle,แผงควบคุมการส่งมอบ - มุมมองประวัติลำดับคำสั่งซื้อ
+MsgDeliveryConsoleDriverHistoryViewTitle,แผงควบคุมการส่งมอบ - มุมมองประวัติคนขับ
+MsgDeliveryConsoleDriverExpandedMapViewTitle,แผงควบคุมการส่งมอบ - มุมมองแผนที่ที่ขยายออก
+MsgDeliveryCouldNotResolveHomeLocation,ไม่สามารถแก้ปัญหาตำแหน่งที่ตั้ง POS โปรดตรวจสอบที่อยู่ของเครื่องติดตั้งในการตั้งค่าระบบส่วนหลัง
+MsgDeliveryTimeSinceOrdered,เวลาตั้งแต่\nเริ่มสั่งซื้อ
+MsgDeliveryStatus,สถานะการส่งมอบ
+MsgDeliveryOrderDeliveryStatusReady,พร้อม
+MsgDeliveryOrderDeliveryStatusCooking,การปรุงอาหาร
+MsgDeliveryOrderDeliveryStatusAssigned,มอบหมายแล้ว
+MsgDeliveryOrderDeliveryStatusEnroute,ระหว่างทาง
+MsgDeliveryOrderDeliveryStatusUnassigned,ไม่ได้ถูกมอบหมาย
+MsgDeliveryOrderDeliveryStatusDelivered,ส่งมอบแล้ว
+MsgDeliveryOrderDeliveryStatusReturning,กำลังกลับตอนนี้
+MsgDeliveryOrderDeliveryStatusReturned,คืนค่า
+MsgDeliveryOrderDeliveryStatusUnableToReturn,รายการที่จะส่งคืน
+MsgDeliveryOrderDeliveryStatusUnknown,ไม่ทราบที่มา
+MsgDeliveryOrderDeliveryEstimatedDelivery,โดยประมาณ ส่งมอบ:
+MsgDeliveryOrderUnpaidTitle,ยังไม่ได้ชำระเงิน
+MsgDeliverySeeAllOrders,ดูคำสั่งซื้อทั้งหมด
+MsgDeliveryPinsShowTitle,แสดง PIN
+MsgDeliveryMapReadytime,เวลาที่พร้อม
+MsgDeliveryMapDistance,ระยะทาง
+MsgDeliveryMapWorkLocationTitle,ทำงาน
+MsgDeliveryMapTotalRouteTime,เวลาของเส้นทางโดยรวม:
+MsgDeliveryMapLinks,เชื่อมโยงแผนที่
+MsgDeliveryAssignSelectedOrders,ระบุคำสั่งซื้อที่เลือกไว้
+MsgDeliveryMapMarkerReadyToGo,พร้อมที่จะไปยัง
+MsgDeliveryMapMarkerNotYetReady,ยังไม่พร้อม
+MsgDeliveryMapMarkerReadyIn,พร้อมใน %@
+MsgDeliveryMapSuggestedOrders,คำสั่งซื้อที่ได้รับการแนะนำ
+MsgDeliveryMapButtonOptionOn,ปิด
+MsgDeliveryMapButtonOptionOff,เปิด
+MsgDeliverySelectDriverTitle,เลือกคนขับ
+MsgDeliveryDeliveryDriversTitle,คนขับรถส่งของ:
+BtnDeliveryAssignDriver,มอบหมายให้
+BtnDeliveryUnassignDriver,ไม่ได้มอบหมาย
+BtnDeliveryOrderHistory,ประวัติคำสั่งซื้อ
+BtnDeliveryOrderMap,แผนที่
+BtnDeliveryOrderQueue,ลำดับการสั่งซื้อ
+BtnDeliveryOrderDrivers,คนขับ
+BtnDeliveryOrderDriverHistory,ประวัติคนขับ
+MsgDeliveryOrderDetailsAddresses,ที่อยู่
+MsgDeliveryOrderWhichOrderDetailsWantToSee,รายละเอียดคำสั่งซื้อใดที่คุณต้องการดู?
+MsgDeliveryOrderDetailsOrderInformation,ข้อมูลคำสั่งซื้อ
+MsgDeliveryOrderDetailsRouteDirections,เส้นทางการเดินทาง
+MsgDeliveryOrderDetailsReturnDirections,เส้นทางการเดินทาง
+MsgDeliveryOrderDetailCustomerNameColon,ลูกค้า ชื่อ:
+MsgDeliveryOrderDetailPhoneHashColon,โทรศัพท์ #:
+MsgDeliveryOrderDetailDriverAssignedColon,คนขับที่ได้รับมอบหมาย
+MsgDeliveryOrderDetailEstimatedDeliveryTimeColon,โดยประมาณ เวลาการส่งมอบ:
+MsgDeliveryOrderDetailUnnasignOnlyOwnOrdersWarningMessage,คุณสามารถยกเลิกเฉพาะการมอบหมายคำสั่งซื้อที่ระบุไว้แก่ตัวคุณเท่านั้น เฉพาะผู้จัดการเท่านั้นที่จะยกเลิกการมอบหมายคำสั่งซื้อใด ๆ
+MsgDeliveryOrderDetailAssignOrderToYourselfWarningMessage,คุณสามารถมอบหมายคำสั่งซื้อให้กับตนเอง เฉพาะผู้จัดการเท่านั้นที่จะมอบหมายให้กับพนักงานคนอื่น
+MsgDeliveryDriversDriver,คนขับ
+MsgDeliveryDriversTimeInOut,เวลาเข้า/ออก
+MsgDeliveryDriversExpectedReturn,เวลากลับที่คาดการณ์
+BtnDeliveryDriversShowAllDrivers,แสดง\nผู้จัดหาทั้งหมด
+MsgDeliveryDriversTimeOut,ออก
+MsgDeliveryDriversTimeIdle,ว่าง
+MsgDeliveryDriverCheckOut,เช็กเอาต์
+MsgDeliveryDriverReturningNow,กำลังกลับตอนนี้
+MsgDeliveryOrderHistoryTenderType,ประเภทการส่งมอบ
+MsgDeliveryOrderHistoryCardInfo,บัตรเครดิต#/ประเภทบัตร/ของขวัญ#
+MsgDeliveryOrderHistoryCardInfoShort,CC#/Gift#
+MsgDeliveryOrderHistoryPaymentAmountShort,ยอดเงินที่ชำระ
+MsgDeliveryOrderHistoryTipAmountShort,ยอดเงินทิป
+MsgDeliveryOrderHistoryTotalPaid,ยอดรวมที่ชำระเงินแล้ว
+MsgDeliveryOrderHistoryDurationOut,ระยะเวลาที่ออกไป
+MsgDeliveryOrderHistoryOrderStatus,สถานะคำสั่งซื้อ
+MsgDeliveryOrderHistoryDriverStatus,สถานะการส่งมอบ
+BtnDeliveryDriversTillManagement,การจัดการลิ้นชักเก็บเงิน
+BtnDeliveryDriversHistoryTotalPayments,ยอดรวมการชำระเงิน
+BtnDeliveryDriversHistoryOrderTotals,คำสั่งซื้อทั้งหมด
+BtnDeliveryDriversHistoryTipEntry,ทิปว่างเปล่า
+MsgDeliveryDriversCashinOutTitle,เงินสดเข้า/ออก คนขับรถ
+MsgDeliveryDriversChooseCashOperationMessage,โปรดเลือกเงินสดเข้า หรือเงินสดออก และป้อนจำนวนเงิน
+BtnDeliveryDriversCashIn,เงินสดเข้า
+BtnDeliveryDriversCashOut,เงินสดออก
+MsgDeliveryDriversEnterTotalMileage,ป้อนยอดรวมระยะทางของการส่งมอบ
+MsgDeliveryDriversEnterTotalKilometres,ป้อนระยะทางเป็นกิโลเมตรสำหรับการส่งมอบ
+MsgDeliveryDriversConfirmMileage,โปรดยืนยันจำนวนระยะทางของคุณ
+MsgDeliveryDriversConfirmKilometres,โปรดยืนยันระยะทางในหน่วยกิโลเมตรของคุณ
+MsgDeliveryDriversConfirmCorrectMileage,หากถูกต้อง โปรดแตะ ตกลง
+MsgDeliveryDriversConfirmIncorrectMileage,หากไม่ถูกต้อง โปรดป้อนระยะทางที่ถูกต้อง
+MsgDeliveryDriversConfirmIncorrectKilometres,หากไม่ถูกต้อง โปรดป้อนระยะทางในหน่วยกิโลเมตรที่ถูกต้อง
+MsgDeliveryDriversMilesTitle,ไมล์
+MsgDeliveryDriversKilometresTitle,กิโลเมตร
+MsgAdditionalOrdersOrderID,รหัสคำสั่งซื้อ:
+MsgAdditionalOrdersReturnDirections,เส้นทางการเดินทาง
+MsgAdditionalOrdersDetails,รายละเอียดคำสั่งซื้อ
+MsgAdditionalOrdersItem,รายการ
+MsgDeliveryOrdersDirectionsTitle,เส้นทาง
+MsgDeliveryOrdersDeliveryDirectionTitle,เส้นทางการส่งมอบ
+MsgDeliveryOrdersDirectionFetchFailedOrders,ไม่พบผลลัพธ์ที่ใช้ประเภทการเดินทางที่เลือกไว้สำหรับการสั่งซื้อ: %@
+MsgDeliveryOrdersDirectionFetchFailed,ไม่พบผลลัพธ์ที่ใช้ประเภทการเดินทางที่เลือกไว้
+BtnDeliverySendOrderAndRouteInfo,ส่งคำสั่งซื้อและข้อมูลเส้นทาง
+MsgDeliveryIncludeRouteDirections,รวมเส้นทาง
+MsgDeliverySendOrderAndRouteInfoNoEmail,จำเป็นต้องมีอีเมลเพื่อส่งอีเมลให้กับคนขับ
+MsgDeliverySendOrderAndRouteInfoNoPhoneNo,จำเป็นต้องมีโทรศัพท์ # เพื่อใช้ส่งข้อความให้คนขับ
+MsgDeliveryChangeDiningOptionClockOut,เป็นไปไม่ได้ที่จะเปลี่ยนแปลงตัวเลือกการรับประทานอาหาร หากคนขับรถส่งอาหารได้เช็กเอาต์แล้ว
+MsgDeliveryAddressOutsideDeliveryZone,ที่อยู่ที่อยู่นอกเขตการจัดส่ง
+MsgDeliveryAddressOutsideDeliveryZoneManagerPinToProceedMessage,%@ที่อยู่อยู่นอกเขตการจัดส่ง โปรดป้อนรหัส PIN ผู้จัดการเพื่อดำเนินการต่อ
+MsgDeliveryAddressGeocodingFailedPinToProceedMessage,ไม่สามารถตรวจสอบที่อยู่ของลูกค้าได้ โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณ \nโปรดป้อนรหัส PIN ผู้จัดการ หากคุณต้องการที่จะดำเนินการต่อ
+MsgDeliveryAddressInvalidErrorMessage,ที่อยู่ของลูกค้านี้ไม่ถูกต้อง \nคุณต้องการแก้ไขที่อยู่หรือไม่?
+MsgDeliveryAddressIsNotSet,ที่อยู่ของลูกค้านี้ไม่ถูกต้อง \nคุณต้องการแก้ไขที่อยู่หรือไม่?
+MsgDeliveryPinOptionsShow,แสดงตัวเลือก Pin
+MsgDeliveryPinOptionsClose,เลือกตัวเลือก Pin
+MsgDeliveryManagementNoAccessPermissions,ต้องตั้งค่าการอนุญาตสำหรับผู้ใช้ เพื่อเข้าถึงคุณลักษณะการจัดการการส่งมอบ
+MsgDeliveryAmountDueShort,จำนวนเงิน ครบกำหนด
+MsgDeliveryCloseOpenOrders,ปิดคำสั่งซื้อหรือไม่
+MsgDeliveryCloseUppaidOrdersToCash,ปิดรายการคำสั่งซื้อจนถึงชำระเงินที่ยังไม่ได้ชำระเงินหรือไม่
+MsgDeliveryTillsCashDrop,เงินสดที่ใส่ไว้
+MsgDeliveryOpenUnpaidOrderRemaining,ยอดสั่งซื้อที่เปิดอยู่/ยังไม่ได้ชำระเงิน
+MsgDeliveryOpenUnpaidOrderRemainingMessage,มีคำสั่งซื้อที่ยังเปิดอยู่ที่ยังไม่ได้ชำระเงิน\n โปรดเปิดคำสั่งซื้อเหล่านี้และส่งการชำระเงิน
+MsgDeliveryOutstandingTips,จำนวนทิปที่ค้างชำระ
+MsgDeliveryOutstandingTipsMessage,คุณยังไม่ได้ป้อนจำนวนทิปทั้งหมดสำหรับกะของคุณ\nป้อนทิปตอนนี้หรือไม่ (คุณจะถูกนำไปสู่การประมวลผลทิป)
+BtnDeliveryEnterTips,ป้อนทิป
+BtnDeliveryDriverEndShift,สิ้นสุดกะทำงาน
+MsgSalesSummaryDeliveryDriverShiftReport,รายงานกะคนขับรถขนส่ง
+BtnDeliveryDriverRunSalesReport,รันรายงานยอดขาย
+MsgDeliveryFailedToFetchReport,การนำเข้ารายงานล้มเหลว โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณ และลองอีกครั้งภายหลัง
+MsgDeliveryDriverHasUnsyncedData,%@ บางรายการของคุณยังไม่ได้ซิงก์ไปที่เซิร์ฟเวอร์
+MsgDeliveryDriverHasUnsyncedDataProceedMessage,ซึ่งอาจส่งผลกระทบต่อรายงานการขายอย่างมาก คุณต้องการรอ หรือรันรายงาน
+MsgDeliveryTillsOperations,การดำเนินการกับลิ้นชักเก็บเงิน
+MsgDeliveryDriverNotClockedIn,คนขับรถไม่ได้ลงเวลาเข้างาน
+MsgDeliveryVirtualTillsFailedToReceive,การนำเข้าจาก iPad หลักล้มเหลว โปรดแน่ใจว่าสามารถเข้าถึง iPad หลักได้ และคุณกำลังเชื่อมต่ออยู่กับอินเทอร์เน็ต
+MsgDeliverySearchBarPlaceholder,รหัสคำสั่งซื้อ ชื่อลูกค้า
+MsgDeliveryDriverCheckedOut,ลงเวลาออกงาน
+MsgDeliveryDriverCheckedIn,ลงเวลาเข้างาน
+MsgDeliveryShowAllDrivers,แสดง\nผู้จัดหาทั้งหมด
+BtnCustomDeliverySettings,เส้นทางการส่งมอบ
+MsgCustomDeliveryAutoAssign,มอบหมายให้
+MsgCustomDeliveryWaitingForStatus,กำลังรอการตอบสนองจาก LoyalTree
+MsgCustomDeliveryWaitingForQuote,กำลังรอการตอบสนองจาก LoyalTree
+MsgCustomDeliveryRetrievingAccessToken,กำลังเรียกข้อมูลอัตราภาษี
+MsgCustomDeliveryWaitingForCancellation,กำลังรอการเลือกทิป
+MsgCustomDeliveryWaitingForDeliveryResponse,กำลังรอการตอบสนองจาก LoyalTree
+MsgCustomDeliveryCancellation,เส้นทางการส่งมอบ
+MsgCustomDeliveryDoYouWantToCancelDelivery,คุณต้องการดำเนินการต่อหรือไม่?
+MsgCustomDeliveryUnableToRetrieveAccessToken,ไม่สามารถเข้าใช้งาน POS
+MsgCustomDelivery,การจัดส่ง
+MsgCustomDeliveryLargeQuoteTitle,กล่องขนาดใหญ่
+MsgCustomDeliveryService,การจัดส่งใบแจ้งหนี้ทางเว็บ
+MsgCustomDeliveryServiceFee,ค่าธรรมเนียมการบริการ
+MsgCustomDeliveryAssign,มอบหมายให้
+MsgCustomSettingsManual,คู่มือ
+BtnCustomSettingsSaveClose,บันทึกและปิด
+MsgEditModeEditItemMode,จัดการโหมดรายการ
+MsgEditModeDescription,รายละเอียด
+MsgEditModeSKU,SKU
+MsgEditModeBin,Bin
+MsgEditModeUOM,UOM
+MsgEditModePriceEmbedded,ราคาที่ฝังตัว
+MsgEditModePrintLabels,พิมพ์ลาเบล
+MsgEditModeCategory,หมวดหมู่
+MsgEditModeSubcategory,หมวดหมู่ย่อย
+MsgEditModeSubcat,หมวดหมู่ย่อย
+MsgEditModeBalance,ยอดที่เหลือ
+MsgEditModePrintersKDS,เครื่องพิมพ์
+MsgEditModeSelectPrinterKDS,เลือกเครื่องพิมพ์
+MsgEditModeSearchPrinterKDS,เลือกเครื่องพิมพ์
+MsgEditModeComboWarning,รายการที่อยู่ในคอมโบนี้ต้องได้รับการจัดการแยกเฉพาะ
+MsgEditModeServiceItemWarning,บริการไม่สามารถมีสินค้าคงคลัง
+MsgEditModeAdminClassItemWarning,ไม่สามารถจัดการสินค้าคงคลังของรายการที่มีระดับผู้ดูแลระบบได้
+MsgEditModeOutOfBalance,จำนวนไม่มียอดคงเหลือ
+BtnEditModeInStock,ในสินค้าคงคลัง
+BtnEditModeOutOfStock,ไม่มีสินค้าคงคลัง
+BtnEditModeLowStock,ตั้งค่าสินค้าคงคลัง
+MsgEditModeAddProduct,เพิ่มผลิตภัณฑ์
+MsgEditModeAddCategory,เพิ่มหมวดหมู่
+MsgEditModeAddSubCat,เพิ่มหมวดหมู่ย่อย
+MsgEditModeSaveSuccessful,บันทึกสำเร็จแล้ว
+MsgEditModeOnceYouHaveFinished,เมื่อคุณดำเนินการเสร็จสิ้นแล้ว โปรดรีเฟรชเครื่องบริการอื่น เพื่อกระจายการเปลี่ยนแปลง
+MsgEditModeSaveFailed,การบันทึกล้มเหลว
+MsgEditModeNewProduct,ผลิตภัณฑ์ใหม่
+MsgEditModePleaseSelectProductClass,โปรดเลือกประเภทผลิตภัณฑ์
+MsgEditModePleaseSelectCategory,โปรดเลือกลูกค้า
+MsgEditModePleaseSelectCategoryAtFirst,โปรดเลือกลูกค้า
+MsgEditModePleaseSelectSubcategory,โปรดเลือกลูกค้า
+MsgEditModeSelectProductClass,เลือกประเภทผลิตภัณฑ์
+MsgEditModeSelectCategory,เลือกหมวดหมู่
+MsgEditModeSelectSubcategory,เลือกหมวดหมู่ย่อย
+MsgEditModeNothingToSelect,ไม่มีสิ่งที่เลือก
+MsgEditModeIssuesToRetriveProductClasses,มีปัญหาเครือข่ายในการเรียกข้อมูลประเภทผลิตภัณฑ์กลับจากระบบส่วนหลัง
+MsgEditModePleaseSelectaParentProduct,โปรดเลือกผลิตภัณฑ์หลัก
+MsgEditModeMatrixOptions,ตัวเลือกเมทริกซ์
+MsgEditModeCreateNewParentProduct,สร้างผลิตภัณฑ์หลักใหม่
+MsgEditModeParentProduct,ผลิตภัณฑ์หลัก
+MsgEditModeNewParent,+กลุ่มหลักใหม่
+MsgEditModeParent,หลัก
+MsgEditModeChild,รอง
+MsgEditModeProductNameOrBarcode,ชื่อผลิตภัณฑ์ หรือบาร์โค้ด
+MsgEditModeSelectaClass,เลือกระดับ
+MsgEditMode1stAttributeSet,ชุดคุณลักษณะที่ 1
+MsgEditMode2ndAttributeSet,ชุดคุณลักษณะที่ 2
+MsgEditModePleaseSelect,โปรดเลือก
+MsgEditModeOptional,ให้เลือกได้
+MsgEditModeProductExists,ผลิตภัณฑ์ที่มีชุดคุณลักษณะนี้มีอยู่แล้ว
+MsgEditModeNewParentProductSaving,การบันทึกผลิตภัณฑ์หลักใหม่
+MsgEditModeNewParentProductSaved,ผลิตภัณฑ์หลักใหม่ได้รับการบันทึกเรียบร้อยแล้ว
+MsgEditModeRemoveClass,ลบระดับออก
+MsgEditModeTrackInInventory,ติดตามในสินค้าคงเหลือ
+MsgEditModeDragModeIsEnabled,โหมดลากถูกเปิดใช้งาน
+MsgEditModeSomeItemsHaveBeenRearranged,บางรายการได้รับการจัดเรียงใหม่ บันทึกการเปลี่ยนแปลง ก่อนดำเนินการต่อหรือไม่?
+MsgEditModeTapAndDragItemsToRearrangeThem,แตะและลากรายการเพื่อจัดเรียงรายการใหม่
+MsgEditModePleaseWaitSavingMayTakeAFewMoments,โปรดรอ การบันทึกอาจใช้เวลาชั่วครู่หนึ่ง
+MsgEditModeProductsWithAdditionalCategories,โหมดลากไม่สนับสนุนผลิตภัณฑ์ที่มีหมวดหมู่เพิ่ม
+MsgEditModeItemsReorderingSaveFailed,การบันทึกการสั่งซื้อรายการใหม่ล้มเหลว โปรดลองอีกครั้ง หรือติดต่อฝ่ายสนับสนุนลูกค้า
+MsgEditModeFullMenuHasNotBeenReadyYet,เมนูทั้งหมดยังไม่พร้อม โปรดเปิดโหมดการจัดการรายการใหม่อีกครั้งใน 30 วินาที
+MsgTheTargetObjectIsLocked,วัตถุเป้าหมายถูกล็อกไว้
+MsgEditModeSearchForProductToManage,แตะผลิตภัณฑ์เพื่อจัดการข้อมูลผลิตภัณฑ์
+MsgEditCreateNewProduct,สร้างผลิตภัณฑ์หลักใหม่
+MsgProductProceed,เพิ่มหรือไม่?
+MsgWarningOnSendPayHold,คำสั่งซื้อของคุณมีรายการที่มีระดับสินค้าคงคลังต่ำ คุณต้องการยกเลิกการดำเนินการ และปรับคำสั่งซื้อหรือไม่?
+BtnAdjustTheOrder,ปรับเปลี่ยนคำสั่งซื้อ
+BtnProceedAnyway,ดำเนินการต่อ
+BtnContinueAnyway,ดำเนินการต่อ
+MsgCopyAddOutOfStockMessage,คุณมีผลิตภัณฑ์ในสินค้าคงคลังไม่เพียงพอ หากคุณดำเนินการต่อ บางผลิตภัณฑ์จะแสดงค่าสินค้าคงคลังติดลบ รายการคำสั่งซื้อที่เกี่ยวข้องจะได้รับการเน้นด้วยสีแดง
+MsgCommissionTitle,แบ่งส่วนคอมมิชชั่น
+BtnCommissionAddEmployee,เพิ่มพนักงาน
+MsgCommissionAmountTitle,ยอดรวมค่าคอมมิชชั่น %@
+MsgCommissionItemTitle,รายการ: %@
+MsgCommissionReassignUserConfirm,คุณต้องการกำหนดค่าคอมมิชชันสำหรับรายการคำสั่งซื้อใหม่หรือไม่?
+MsgCommissionEnterPercent,ป้อน %
+MsgCommissionFixAllocatedCommission,โปรดยึดค่าคอมมิชชั่นที่จัดสรรไว้
+MsgCommissionEnterAmmount,ป้อนจำนวนเงินค่าคอมมิชชั่น
+MsgTableTimersTitle,%@ เครื่องจับเวลา %@ คำสั่งซื้อ# 
+MsgTableTimersCustomerNotes,บันทึกย่อของลูกค้า
+MsgTableTimersTableNotes,บันทึกย่อ
+MsgTableTimersStatusAvailable,พร้อมใช้งาน
+MsgTableTimersStatusHeld,ระงับ
+MsgTableTimersStatusActive,ยังคงทำงาน
+MsgTableTimersStatusPaid,ชำระเงินแล้ว
+MsgTableTimersStatus,สถานะ
+MsgTableTimersEmployee,พนักงาน
+MsgTableTimersOrderTotal,ยอดรวมคำสั่งซื้อ
+MsgTableTimersInvoiceTotal,ยอดรวมใบแจ้งหนี้
+MsgTableTimersCurrentCourse,อาหารชุดปัจจุบัน
+MsgTableTimersSeatCount,จำนวนที่นั่ง
+MsgTableTimersTimeSinceSeated,เวลาตั้งแต่เริ่มนั่ง
+MsgTableTimersTimeSinceFirstSent,เวลาตั้งแต่คำสั่งซื้อแรกถูกส่ง
+MsgTableTimersTimeSinceLastSent,เวลาตั้งแต่คำสั่งซื้อถูกส่ง
+MsgTableTimersNotSent,ไม่ได้ส่งไป
+MsgTableTimersSpreadsheetTitle,แผ่นงานตัวจับเวลาโต๊ะ
+MsgTableTimersTableNotesTitle,%@ บันทึกย่อ
+MsgTableTimersSpreadsheetAllSections,ทุกส่วน
+BtnTableTimersToOrder,ไปยังคำสั่งซื้อ
+BtnTableTimersInUse,อยู่ในการใช้งาน
+BtnTableTimersAvailable,พร้อมใช้งาน
+MsgTableTimersTableStatus,สถานะ
+MsgTableTimersTableTable,โต๊ะ
+MsgTableTimersTableCapacity,ประสิทธิภาพ
+MsgTableTimersTableSection,ส่วน
+MsgTableTimersTableEstTimeUntilAvail,โดยประมาณ เวลา \nจนกระทั่งพร้อมใช้
+MsgTableTimersTableTimeSinceSeated,เวลาตั้งแต่\nเริ่มนั่ง
+MsgTableTimersTableTotal,ยอดรวม
+MsgTableTimersTableCustomer,ลูกค้า
+MsgTableTimersTableOrderNo,คำสั่งซื้อ #
+MsgTableTimersTableEmployee,พนักงาน
+MsgTableTimersResetting,การตั้งค่าใหม่
+MsgDonations,การบริจาค
+MsgCustomerFeedbackTitle,%@ มาเยือน %d %@ %@
+MsgCustomerFeedbackTime,ครั้ง
+MsgCustomerFeedbackTimes,ครั้ง
+MsgCustomerFeedbackPeriodWeek,สัปดาห์นี้
+MsgCustomerFeedbackPeriodMonth,เดือนนี้
+MsgCustomerFeedbackPeriod3Months,3 เดือนที่ผ่านมา
+MsgCustomerFeedbackFavorites,รายการโปรด
+MsgCustomerFeedbackSales,ยอดรวมการชำระเงิน: %@
+MsgCustomerFeedbackRefunds,%@ยอดรวมการขอคืนเงิน: %@
+MsgCustomerFeedbackDiscounts,%@ยอดรวมส่วนลด: %@
+BtnFiscalReadZ,รายงาน Z
+BtnFiscalSetupSettings,การตั้งค่าการติดตั้ง
+BtnFiscalSettingsMenu,การตั้งค่า
+MsgFiscalRecordsByDate,บันทึกข้อมูลการเงินตามวันที่
+MsgFiscalRecordsByZNumber,บันทึกข้อมูลการเงินตามหมายเลขรายงาน Z
+MsgFiscalDiagnosticInfoReport,ข้อมูลการวินิจฉัยการเงิน
+MsgFiscalSelectReport,เลือกรายงาน
+MsgFiscalDetailedReport,รายละเอียดรายงาน
+MsgFiscalRecordsByDateReport,บันทึกข้อมูลการเงินตามรายงานวันที่
+MsgFiscalRecordsByZNumberReport,บันทึกข้อมูลการเงินตามรายงานหมายเลข Z
+MsgFiscalRecordsStartZNumber,เริ่มด้วยหมายเลข Z
+MsgFiscalRecordsEndZNumber,ลงท้ายด้วยหมายเลข Z
+BtnFiscalReport,รายงานการเงิน
+BtnFiscalZReports,รายการรายงาน
+MsgZReportFetchFail,การนำเข้ารายงาน Z ล้มเหลว โปรดพิมพ์ใหม่อีกครั้ง
+MsgFiscalExistingPaymentsCompleteOrderAnotherStation,คำสั่งซื้อนี้มีการชำระเงินที่กระทำไว้แล้วบนเครื่องบริการ POS อื่น โปรดไปยังเครื่องบริการ %@ เพื่อดำเนินการกับคำสั่งซื้อให้เสร็จสมบูรณ์ 
+MsgZReportEmailSubject,รายงาน Z
+MsgZReportEmailMessage,รายงานการเงิน Z
+MsgFetchingPrinterData,กำลังนำเข้าคำสั่งซื้อที่จัดส่ง...
+MsgWrongTaxCountry,รหัสคิวอาร์ไม่ถูกต้อง
+MsgSRMFetchFailed,นำเข้าข้อมูลบัตรล้มเหลว
+MsgTransactionNotPrinted,ธุรกรรมไม่ได้ถูกเก็บบันทึก
+MsgPrintClosingReceipt,พิมพ์ใบเสร็จ
+MsgDocumentNotPrinted,%d ล้มเหลวในการเก็บข้อมูล
+MsgStatusCheck,สถานะ
+MsgSendingDocument,การส่งการชำระเงิน
+MsgGeneratingTransaction,ธุรกรรมอื่น
+MsgSendingTransaction,ธุรกรรมเครดิต
+MsgContinuousMode,ดำเนินการต่อ
+MsgSelectMode,เลือกคำสั่งซื้อ
+MsgUserCode,ป้อนบาร์โค้ด
+MsgUserPassword,ป้อนรหัสผ่าน
+MsgUseAsDefault,ใช้ค่าเริ่มต้น
+MsgGeneralInformation,ข้อมูลคำสั่งซื้อ
+MsgSerialNumber,หมายเลขลำดับ
+MsgEstablishmentName1,หมายเลขที่ติดตั้ง
+MsgEstablishmentName2,หมายเลขที่ติดตั้ง
+MsgEstablishmentAddress1,เครื่องที่ติดตั้ง
+MsgEstablishmentAddress2,เครื่องที่ติดตั้ง
+MsgEstablishmentAddress3,เครื่องที่ติดตั้ง
+MsgStatus,สถานะ
+MsgStatusDate,สถานะ
+MsgPhysicalLocation,ลิ้นชักเก็บเงินจริง
+MsgSalesSummaryFrequency,สรุปยอดขาย
+MsgLastSalesSummaryDate,สรุปยอดขาย
+MsgDateDifference,ผลต่าง
+MsgPOSConnectionType,หมดเวลาการเชื่อมต่อ PinPad
+MsgPrinterConnectionType,หมดเวลาการเชื่อมต่อ PinPad
+MsgPrinterBrand,เครื่องพิมพ์
+MsgPrinterModel,รายละเอียดเครื่องพิมพ์
+MsgPrintReports,พิมพ์รายงาน
+MsgSalesSummaryReport,สรุปยอดขาย
+MsgPeriodicSalesSummaryReport,สรุปยอดขาย
+MsgSalesDetailBySRMTransactionNumberReport,โปรดป้อนหมายเลขธุรกรรม
+MsgTransactionalAnalysisReport,การทำรายการ
+MsgSpecialOptions,ข้อแนะนำพิเศษ
+MsgPrintDuplicateOfGuestCheck,พิมพ์\nใบเสร็จของลูกค้า
+MsgMonthly,เดือน
+BtnContinueWith,การนัดหมายกับ %@
+MsgOrderDetailsOrderDetails,รายละเอียดคำสั่งซื้อ #%@
+MsgOrderDetailsOrderDetailsWebOrder,รายละเอียดคำสั่งซื้อ #%@  [คำสั่งซื้อทางเว็บ]
+MsgOrderDetailsInvoiceDetails,รายละเอียดใบแจ้งหนี้ #%@
+MsgOrderDetailsSelectaTime,เลือกเวลา
+MsgOrderDetailsSelectaDateTime,เลือกวันที่และเวลา
+MsgOrderDetailsDeliveryEstimatedTime,โดยประมาณ เวลาที่มาถึง:
+MsgOrderDetailsDeliveryEstimatedDeliveryTime,เวลาส่งมอบโดยประมาณ
+MsgOrderDetailsDeliveryOrderNotSent,คำสั่งซื้อไม่ถูกส่ง
+MsgOrderDetailsDeliveryCustomerNotSet,ไม่ได้ตั้งค่าลูกค้าไว้
+MsgOrderDetailsDeliveryCustomerNoDeliveryAddress,ไม่มีที่อยู่การจัดส่ง
+MsgOrderDetailsDeliveryCouldNotResolveRoute,ไม่สามารถแก้ไขที่อยู่ได้
+MsgOrderDetailsDeliveryDriver,คนขับรถส่งของ:
+MsgOrderDetailsNotYetAssigned,ยังไม่ได้มอบหมาย
+MsgOrderDetailsNotYetClockedOut,ยังไม่ได้ลงเวลาออกงาน
+MsgOrderDetailsNotYetClockedIn,ยังไม่ได้ลงเวลาเข้างาน
+MsgOrderDetailsGuestCount,จำนวนลูกค้า:
+MsgOrderDetailsSelectGuestCount,เลือกจำนวนลูกค้า
+MsgOrderDetailsTableBarTab,แท็บโต๊ะ/บาร์:
+MsgOrderDetailsBar,บาร์ %d
+MsgOrderDetailsCustomerRefCode,รหัสอ้างอิง
+MsgOrderDetailsCustomerEditInfo,แก้ไขข้อมูล
+MsgOrderDetailsCustomerDisplayInfo,หน่วยแสดงผล
+MsgOrderDetailsOpened,เปิดโดย: 
+MsgOrderDetailsClosed,ปิด: 
+MsgOrderDetailsDiscounts,ส่วนลด:
+MsgOrderDetailsAddDiscount,เพิ่มส่วนลด:
+MsgOrderDetailsDiscountEffAmount,มีผลวันที่ จำนวนเงิน
+MsgOrderDetailsAutogratuity,เงินค่าตอบแทน:
+MsgOrderDetailsPayments,การชำระเงิน:
+MsgOrderDetailsServiceFees,ค่าธรรมเนียมการบริการ:
+MsgOrderDetailsMaxOrderAmount,จำนวนสั่งซื้อสูงสุด:
+MsgOrderDetailsMaxInvoiceAmount,จำนวนใบแจ้งหนี้สูงสุด:
+MsgOrderDetailsAddSF,เพิ่ม $F
+BtnOrderDetailsViewOrder,ดูคำสั่งซื้อ
+MsgOrderDetailsReadOnlyTitle,เฉพาะอ่านเท่านั้น
+MsgOrderDetailsDeliveryCustomerRemovalTitle,ลบลูกค้าออก
+MsgOrderDetailsDeliveryCustomerRemovalMessage,หากลูกค้าถูกลบออกจากคำสั่งซื้อ คำสั่งซื้อจะไม่ปรากฏอยู่ในแผงควบคุมการบริหารจัดการการส่งมอบอีกต่อไป
+MsgOrderDetailsAddCustomer,เพิ่มลูกค้าใหม่
+MsgReservationSelectService,เลือกการบริการ
+MsgReservationDurationTitle,ระยะเวลา
+MsgReservationDurationValueFull,%dชม. %dนาที
+MsgReservationDurationValueMinutes,%dนาที
+MsgReservationDurationValueHours,%dชม.
+MsgReservationDurationValueNA,ไม่ได้ตั้งค่า
+BtnReservationNewCustomer,ลูกค้าใหม่
+BtnReservationCreateAppointment,สร้างการนัดหมาย
+BtnReservationEditCustomerInfo,แก้ไขข้อมูล
+BtnReservationEditCustomer,แก้ไขลูกค้า
+BtnReservationConfirmCreate,สร้าง
+BtnReservationTimeBlockCancelBlock,ยกเลิกการปิดกั้น
+MsgReservationConfirmTitle,การนัดหมายใหม่กับ %@
+MsgReservationConfirmCustomer,ลูกค้า:
+MsgReservationConfirmCustomerName,ชื่อ
+MsgReservationConfirmCustomerAddress,ที่อยู่:
+MsgReservationConfirmCustomerNotes,บันทึกย่อ
+MsgReservationConfirmType,ยืนยันโดย
+MsgReservationConfirmTypeText,ข้อความ
+MsgReservationConfirmTypeEmail,อีเมล
+MsgReservationConfirmAppointmentNotes,บันทึกย่อการนัดหมาย
+MsgReservationConfirmService,การบริการ
+MsgReservationConfirmDuration,ระยะเวลา
+MsgReservationConfirmDate,วันที่
+MsgReservationConfirmStartTime,เวลาเริ่ม
+MsgReservationDetailsInactiveProviderMessage,พนักงานที่ได้รับมอบหมายไม่สามารถดำเนินการกับบริการนี้ได้อีกต่อไป
+MsgReservationDetailsInactiveServiceMessage,การบริการนี้ไม่มีให้บริการอีกต่อไป
+MsgReservationDetailsInactiveServiceAndProviderMessage,ทั้งการบริการนี้ และพนักงานที่ได้รับมอบหมายไม่พร้อมให้บริการอีกต่อไป
+MsgReservationDetailsModifyOrCancelAppointment,โปรดแก้ไข หรือยกเลิกการนัดหมาย
+BtnReservationDetailsModifyAppointment,แก้ไขการนัดหมาย
+MsgReservationDetailsTitle,การนัดหมายกับ %@
+BtnReservationDetailsCancelAppointment,ยกเลิกการนัดหมาย
+BtnReservationDetailsGoToTab,ไปยังแท็บ
+MsgReservationDetailsConfirmed,ยืนยันแล้ว:
+MsgReservationDetailsDuration,เวลา
+MsgReservationDetailsCancelConfirmation,นี่จะยกเลิกการนัดหมาย คุณแน่ใจหรือไม่?
+MsgReservationTimeBlockCancelConfirmation,นี่จะยกเลิกการปิดกั้นเวลา คุณแน่ใจหรือไม่?
+MsgReservationConfirmEndTime,หมดเวลา
+MsgReservationConfirmEnterLabel,ป้อนลาเบล
+MsgReservationConfirmCreateIntersectingAppointment,นี่จะสร้างการนัดหมายร่วม คุณแน่ใจหรือไม่?
+MsgReservationTimeBlockNewBlockTitle,การปิดกั้นเวลาใหม่สำหรับ %@
+MsgReservationTimeBlockEditBlockTitle,แก้ไขการปิดกั้นเวลาสำหรับ %@
+MsgReservationTimeBlockAllDay,ตลอดวัน
+MsgReservationTimeBlockRepeats,ทำซ้ำ
+MsgReservationTimeBlockRepeatSelectionNever,ไม่เคย
+MsgReservationTimeBlockRepeatSelectionTitle,เลือกค่าตัวแปรซ้ำ
+MsgReservationTimeBlockRepeatSelectionEndDate,วันที่สิ้นสุด
+MsgReservationTimeBlockRepeatSelectionAll,ทั้งหมด
+MsgReservationTimeBlockRepeatSelectionMonday,จ
+MsgReservationTimeBlockRepeatSelectionTuesday,อ
+MsgReservationTimeBlockRepeatSelectionWednesday,พ
+MsgReservationTimeBlockRepeatSelectionThursday,พฤ
+MsgReservationTimeBlockRepeatSelectionFriday,ศ
+MsgReservationTimeBlockRepeatSelectionSaturday,ส
+MsgReservationTimeBlockRepeatSelectionSunday,อา
+MsgReservationCalendarTitle,สมุดนัดหมาย
+MsgReservationTimeBlockRepeatSelectionDateUntil,จนถึง
+BtnReservationNewAppointment,การนัดหมายใหม่
+BtnReservationNewTimeBlock,เวลาปิดกั้น
+BtnReservationShowAllDay,ตลอดวัน
+BtnReservationShowAllWeek,ตลอดสัปดาห์
+MsgReservationNoDateSelected,ไม่ได้เลือกวันที่
+MsgReservationEditTitle,แก้ไขการนัดหมาย
+MsgReservationEditSubtitle,คุณต้องการแก้ไขหรือไม่?
+MsgReservationEditTimeAndEmployee,เวลาและพนักงาน
+MsgReservationEditService,การบริการ
+MsgReservationNavNext6Weeks,6 สัปดาห์
+MsgReservationEmailConfirmationSubject,คุณมีการนัดหมาย
+MsgReservationEmailConfirmationContent,คุณมีการนัดหมายสำหรับ %@ ในวันที่ %@ เวลา %@
+MsgReservationTimeBlockInvalid,การปิดกั้นเวลาควรเป็นอย่างน้อย 5 นาที
+MsgReservationChooseRangeTitle,เลือกช่วงระยะเวลา
+MsgReservationChooseRangeMessageEdit,คุณกำลังแก้ไขการทำซ้ำการปิดกั้นเวลา ช่วงระยะเวลาใดที่คุณต้องการเปลี่ยนแปลง?
+MsgReservationChooseRangeMessageCancel,คุณกำลังยกเลิกการทำซ้ำการปิดกั้นเวลา ช่วงระยะเวลาใดที่คุณต้องการเปลี่ยนแปลง?
+MsgReservationChooseRangeDay,วัน
+MsgReservationChooseRangeAll,ทั้งหมด
+MsReservationTimeBlockWasDeletedForSelectedDay,การปิดกั้นเวลาถูกลบจากเครื่องบริการ POS หลักสำหรับวันที่ได้เลือกไว้
+MsgReservationSelectProviderTitle,เลือกผู้จัดหาสำหรับ %@
+MsgReservationServiceProvider,ผู้จัดหาการบริการ
+MsgReservationServiceProviderShowAll,แสดง\nผู้จัดหาทั้งหมด
+MsgSSMCCheckInTime,การลงเวลาเข้า
+PaymentCustom,กำหนดเอง
+MsgEntityLoading,การโหลด
+MsgEntitySaving,กำลังบันทึก
+MsgEntityChangedSaveFailed,%@ ถูกเปลี่ยนแปลงบนเครื่องบริการหลัก ข้อมูลภายในเครื่องถูกเขียนทับ
+MsgEntityMainNotReachable,ไม่สามารถเข้าถึงเครื่องบริการหลัก
+MsgEntityOrder,คำสั่งซื้อ
+MsgEntityCustomer,ลูกค้า
+MsgEntityAppointment,การนัดหมาย
+MsgEntityTimeBlock,เวลาปิดกั้น
+MsgEntityPushNotification,การแจ้งเตือนแบบพุช
+MsgEntityTableReservation,การจองโต๊ะ
+MsgEntityPhysicalInventorySection,ลิ้นชักเก็บเงินจริง
+MsgUpgrade,อัปเกรด
+MsgUpgradePOS,อัปเกรด POS หรือไม่?\nโปรดคลิกปุ่ม ‘ติดตั้ง’ บนหน้าจอที่ปรากฏขึ้นถัดไป และให้แอปพลิเคชันทำงานในโหมดเบื้องหลัง โดยการกดปุ่มหน้าหลัก
+MsgUpgradeCDS,อัปเกรด POS หรือไม่?\nโปรดคลิกปุ่ม ‘ติดตั้ง’ บนหน้าจอที่ปรากฏขึ้นถัดไป และแอปพลิเคชันทำงานในโหมดเบื้องหลัง โดยการกดปุ่มหน้าหลัก
+MsgUpgradeKDS,อัปเกรด POS และระบบการแสดงผลห้องครัวหรือไม่?\nโปรดคลิกปุ่ม ‘ติดตั้ง’ บนหน้าจอที่ปรากฏขึ้นถัดไป และแอปพลิเคชันทำงานในโหมดเบื้องหลัง โดยการกดปุ่มหน้าหลัก
+MsgUpgradePOSKDSCDS,อัปเกรด POS ระบบการแสดงผลห้องครัว และระบบแสดงผลลูกค้าหรือไม่?\nโปรดคลิกปุ่ม ‘ติดตั้ง’ บนหน้าจอที่ปรากฏขึ้นถัดไป และแอปพลิเคชันทำงานในโหมดเบื้องหลัง โดยการกดปุ่มหน้าหลัก
+MsgTyroPayment,การชำระเงินผู้เริ่มเรียน
+MsgTyroPaymentConfigure,การกำหนดค่าผู้เริ่มเรียน
+MsgTyroPaymentServiceFeeError,ลูกค้าใช้บัตร %@  ค่าธรรมเนียมการบริการไม่ตรงกันกับบัตรที่รูด\nโปรดลบค่าธรรมเนียม %@ ออก ประยุกต์ใช้ค่าธรรมเนียมที่ถูกต้อง และรูดบัตรอีกครั้ง
+MsgTyroPaymentServiceFeeErrorKiosk,ค่าธรรมเนียมการบริการไม่ตรงกันกับบัตรที่รูด\nโปรดติดต่อพนักงานรับจ่ายเงินเพื่อขอความช่วยเหลือ
+MsgUploadLog,บันทึกการอัปโหลด
+MsgSignIn,เข้าสู่ระบบ
+MsgBackdoor,ประตูด้านหลัง
+MsgEnterEstablishmentID,ป้อนรหัสเครื่องที่ติดตั้ง
+MsgEnterLogin,ป้อนการเข้าสู่ระบบ
+MsgSorryServerCouldNotBeReached,ขออภัย ไม่สามารถเข้าถึงเซิร์ฟเวอร์ได้
+MsgSorryServerThereAreNoEstablishments,ขออภัย ไม่มีเครื่องที่ติดตั้งสำหรับผู้ใช้นี้
+MsgSorryServerThereAreNoUsers,ขออภัย ไม่มีผู้ใช้สำหรับการอ้างอิงเหล่านี้
+MsgPleaseSelectEstablishment,โปรดเลือกเครื่องที่ติดตั้ง
+MsgWelcomeToTheNewStandardPOS,ไปยังมาตรฐานใหม่ในจุดบริการขาย™
+MsgWelcomeTheNewStandardPOS,มาตรฐานใหม่ในจุดบริการขาย™
+MsgWelcomeToTheNewStandardPOSQB,ไปยังตัวแก้ปัญหาจุดบริการขาย™ #1
+MsgWelcomeTheNewStandardPOSQB,ตัวแก้ปัญหาจุดบริการขาย™ #1
+MsgFisalPrinterFailedCommand,การดำเนินการกับคำสั่งล้มเหลว
+MsgDemoModeStartOverConfirmation,คุณอยู่ที่นั่นหรือไม่? ข้อมูลทั้งหมดจะถูกตั้งค่าใหม่ในไม่ช้า!
+MsgCustomerDetails,ลูกค้าชำระเงิน
+MsgShipDate,วันที่จัดส่ง
+MsgConfirmUpdateShippingPackage,ที่อยู่ของลูกค้านี้ไม่ถูกต้อง \nคุณต้องการแก้ไขที่อยู่หรือไม่?
+MsgUpdateShipping,การส่งมอบ
+MsgStateProvince,จังหวัด
+MsgDestinationBasedTax,ภาษีที่ขึ้นกับจุดหมายปลายทาง
+MsgNoDeliveryOptionsMatchingInShipTable,ไม่มีตัวเลือกการส่งมอบที่ตรงกันกับตารางการจัดส่ง
+MsgOrderHasShipPackagePleaseUseShippingScreenForEditingCustomer,คำสั่งซื้อมีแพ็กเกจการจัดส่ง โปรดใช้หน้าจอการจัดส่งสำหรับการแก้ไขลูกค้า
+MsgOrderDate,วันที่สั่งซื้อ
+MsgMyPackaging,การบรรจุหีบห่อของฉัน
+MsgUPSLetter,จดหมาย UPS
+MsgPAK,PAK
+MsgUPSExpressBox,กล่องจัดส่งด่วน UPS
+MsgUPS25KGBox,กล่องจัดส่ง 25 กก. UPS
+MsgUPS10KGBox,กล่องจัดส่ง 10 กก. UPS
+MsgPallet,พาเลท
+MsgSmallExpressBox,กล่องจัดส่งด่วนขนาดเล็ก
+MsgMediumExpressBox,กล่องจัดส่งด่วนขนาดกลาง
+MsgLargeExpressBox,กล่องจัดส่งด่วนขนาดใหญ่
+MsgFlats,ซองเรียบแบน
+MsgParcels,ห่อ
+MsgBPM,BPM
+MsgFirstClass,ชั้นหนึ่ง
+MsgPriority,ลำดับความสำคัญ
+MsgMachinables,ทำงานด้วยเครื่องจักร
+MsgIrregulars,ไม่ปกติ
+MsgParcel Post,พัสดุไปรษณีย์
+MsgBPMParcel,พัสดุ BPM
+MsgMedia Mail,จดหมายมีเดีย
+MsgBPMFlat,ซองเรียบแบน BPM
+MsgStandardFlat,ซองเรียบแบนมาตรฐาน
+MsgParcelPost,พัสดุไปรษณีย์
+MsgTube,กระบอก
+MsgMediaMail,จดหมายมีเดีย
+MsgPlsCloseCurrentOrder,โปรดปิดคำสั่งซื้อปัจจุบัน
+MsgCouldNotShipOrder,ไม่สามารถจัดส่งคำสั่งซื้อได้
+MsgYourpackaging,บรรจุภัณฑ์ของคุณ
+Msg10KGBox,กล่อง 10 กก.
+Msg25KGBox,กล่อง 25 กก.
+MsgBox,กล่อง
+MsgEnvelope,ซองจดหมาย
+MsgExtraLargeBox,กล่องขนาดใหญ่พิเศษ
+MsgLargeBox,กล่องขนาดใหญ่
+MsgMediumBox,กล่องขนาดกลาง
+MsgPak,กล่อง Pak
+MsgSmallBox,กลอ่งขนาดเล็ก
+MsgWaitingForInformation,กำลังรอ %@ ข้อมูล
+MsgDeliveryDate,โดยประมาณ วันที่ส่งมอบ:
+MsgShippingOrders,การจัดส่งคำสั่งซื้อ
+BtnIncomplete,เสร็จสิ้น
+BtnUnshipped,จัดส่งแล้ว
+BtnShipped,จัดส่งแล้ว
+MsgGetLabel,รับ\\nลาเบล
+MsgUpdateRates,อัปเดต RPI
+MsgPrintLabel,พิมพ์\nลาเบล
+MsgPrintShippingLabel,พิมพ์ลาเบล
+MsgEmailShippingOrder,ยกเลิกคำสั่งซื้อ
+MsgItems,รายการ
+MsgEditItems,เพิ่มรายการ
+MsgTrackingNumber,การติดตามหมายเลข
+MsgFetchShipOrders,กำลังนำเข้าคำสั่งซื้อที่จัดส่ง...
+MsgPlsAdditemsToPackage,โปรดเพิ่มรายการไปยังแพ็กเกจ
+MsgOrderHasNoItemsToShip,คำสั่งซื้อนี้ไม่มีคะแนน
+MsgTargetShipDate,วันที่จัดส่งที่ตั้งเป้าหมาย
+MsgActualShipDate,วันที่จัดส่ง
+MsgOrderWillBeShipped,คำสั่งซื้อจะถูกส่งไปยัง UPS คุณแน่ใจหรือไม่?
+MsgWaitingSyncOrder,กำลังรอการซิงก์คำสั่งซื้อ
+MsgReturnOrderToUnshipped,คืนค่าคำสั่งซื้อไปเป็นยังไม่ได้จัดส่ง
+MsgWouldYouLikeToPlaceThisOrderBackToUnshippedQueue,คุณต้องการวางคำสั่งซื้อนี้กลับไปยังลำดับที่ยังไม่ได้จัดส่งหรือไม่?
+MsgPleaseEnterANeededFields,โปรดกรอกข้อมูลในช่องว่างให้สมบูรณ์
+MsgUpdatePackageFailed,อัปเดตแพ็กเกจล้มเหลว
+MsgIncorrectTimeRange,ช่วงเวลาไม่ถูกต้อง
+MsgChooseACustomDateRange,เลือกช่วงวันที่ที่กำหนดค่าเอง
+MsgPageOf,หน้า %d จาก %d
+MsgTaxRatesRetrievalFailed,การเรียกข้อมูลอัตราภาษีล้มเหลว
+MsgRetrievingTaxRates,กำลังเรียกข้อมูลอัตราภาษี
+MsgSomeFieldsHasChanged,บางช่องข้อมูลถูกเปลี่ยนแปลง โปรดคำนวณค่าใช้จ่ายในการจัดส่งใหม่อีกครั้ง
+MsgShippingOrdersDoNotSupportSplitBills,การจัดส่งคำสั่งซื้อไม่สนับสนุนการแยกบิล
+MsgShippingLabelSizeTitle,ขนาดลาเบล
+MsgRemoveShipping,การส่งมอบ
+MsgShippingConfirmRemove,คุณแน่ใจหรือไม่ว่า คุณต้องการลบที่อยู่นี้?
+MsgUpdateWeight,ป้อนน้ำหนัก
+MsgUndo,เป็นยังไม่ได้ทำ
+MsgSignatureOptionNone,ไม่มี
+MsgSignatureOptionRequire,ลายมือชื่อ
+MsgSignatureOptionRequireDirect,ลายมือชื่อ
+MsgSignatureOptionRequireIndirect,ลายมือชื่อ
+MsgSignatureOptionDefault,ใช้ค่าเริ่มต้น
+MsgShippingTracking,การติดตามหมายเลข
+MsgShippingNoAvailableServices,ค่าธรรมเนียมการบริการที่ไม่สามารถเก็บภาษีได้
+MsgDuSettingsEnableSignature,เปิดการใช้งานลายมือชื่อ
+MsgDuSettingsEnableTips,เปิดใช้งานทิป
+MsgDuSettingsShowSwipePrompt,แสดงพรอมท์การรูด
+MsgDuSettingsWelcomeMessage,ข้อความต้อนรับ
+MsgDuSettingsEnableProductImages,เปิดใช้งานรูปภาพผลิตภัณฑ์
+MsgDuSettingsEnablePrintReceipts,พิมพ์ใบเสร็จ
+MsgDuSettingsEnableEmailReceipts,อีเมลใบเสร็จ
+MsgDuNoTip,ไม่มีทิป
+MsgDuRewardOrPhone,รางวัล # หรือโทรศัพท์ #:
+MsgDuEmailAddressIsEmpty,ที่อยู่ว่างเปล่า
+MsgDuLast4Digits,4 หลักสุดท้าย: %@
+MsgDuChooseBackgroundImage,เลือกรูปภาพฉากหลัง
+MsgDuBackgroundImageIsFilled,รูปภาพฉากหลังถูกเติมไปยังหน้าจอ
+MsgDuUseDefault,ใช้ค่าเริ่มต้น
+MsgDuFromImagePicker,จาก ImagePicker
+MsgDuLogoImageIsLocated,รูปภาพโลโก้อยู่ที่ด้านบนซ้ายของหน้าจอ ขนาดที่ควรใช้คือ 231x95
+MsgDuLogoImageIsLocatediPhone,รูปภาพโลโก้อยู่ที่ด้านบนซ้ายของหน้าจอโดยไม่มีสเกล ขนาดที่ควรใช้คือ 151x71
+MsgDuChooseLogoImage,เลือกรูปภาพโลโก้
+MsgDuCongratulations,ขอแสดงความยินดี!
+MsgDuYouveEarnedARewardRedeemNow,คุณได้รับรางวัล แลกตอนนี้หรือไม่?
+MsgDuCashRoundedTotal,ยอดรวมเงินสดที่ปัดเศษ: %@
+MsgDuDiscountsTotal,ยอดรวมส่วนลด
+MsgDuNumberWasNotFoundPleaseTryAgain,ไม่พบ [หมายเลข] โปรดลองอีกครั้ง
+MsgDuIncludesServiceFee,รวมถึงค่าธรรมเนียมการบริการ: %@
+MsgDuPleaseWait,โปรดรอ
+MsgDuPleaseEnterRewardCardNumber,โปรดป้อนบัตรรางวัล # หรือโทรศัพท์ #
+MsgSelectEmailTitle,เลือกลิ้นชักเก็บเงิน
+MsgKdsPosTriesToConnectToCds,POS พยายามที่จะเชื่อมต่อไปยังบริการการแสดงผลลูกค้า โปรดตรวจสอบการกำหนดค่าของคุณ
+MsgKdsPosTriesToConnectToPos,POS พยายามเชื่อมต่อไปยัง POS อื่น โปรดตรวจสอบการกำหนดค่าของคุณ
+MsgKdsRecall,เรียกคืน
+MsgKdsCompleted,เสร็จสิ้นแล้ว
+MsgKdsVoid,ยกเลิก
+MsgKdsOrderUp,เพิ่มคำสั่งซื้อ!
+MsgKdsWorking,การทำงาน
+MsgKdsAllDayView,มุมมองวันทั้งหมด
+MsgKdsRegularView,มุมมองปกติ
+MsgKdsGroupBy,จัดกลุ่มโดย
+MsgKdsOrderBy,สั่งซื้อโดย
+MsgKdsItemName,ชื่อรายการ
+MsgKdsHideItem,ซ่อนรายการ
+MsgKdsOrderStatus,สถานะคำสั่งซื้อ
+MsgKdsClearAll,ลบทั้งหมด
+MsgKdsOldestOnTop,เก่าที่สุดอยู่บนสุด
+MsgKdsNewestOnTop,ใหม่ที่สุดอยู่บนสุด
+MsgKdsMove,   ย้าย:
+MsgKdsCompletedToTop,   ทำให้เสร็จสิ้นไปยังด้านบนสุด
+MsgKdsKitchenDisplaySettings,การตั้งค่าการแสดงผลห้องครัว
+MsgKdsDisplayStylePreview,เรียกดูรูปแบบการแสดงผล:
+MsgKdsExpedite,เร่งการดำเนินการ
+MsgKdsTileExpedite,ช่องเร่งการดำเนินการ
+MsgKdsKitchen,ห้องครัว
+MsgKdsOrderDisplay,การแสดงผลคำสั่งซื้อ
+MsgKdsCompletedBecomes,เสร็จสิ้นแล้วกลายเป็น
+MsgKdsBump,กระทบ
+MsgKdsBumped,ถูกกระทบ
+MsgKdsClosed,ปิด
+MsgKdsByItem,โดยรายการ
+MsgKdsByOrder,โดยคำสั่งซื้อ
+MsgKdsAsUndo,เป็นยังไม่ได้ทำ
+MsgKdsTimeDisplay,เวลาที่แสดง:
+MsgKdsTimeElapsed,เวลาที่ผ่านไป
+MsgKdsTimeReceived,เวลาที่ได้รับ
+MsgKdsSounds,เสียง:
+MsgKdsOn,ปิด
+MsgKdsOff,เปิด
+MsgKdsClearCache,ล้างแคช
+MsgKdsSaveClose,บันทึกและปิด
+MsgKdsOrderDetails,รายละเอียดคำสั่งซื้อ:
+MsgKdsModifiers,ตัวดัดแปลง
+MsgKdsCompletedOrderBlinking,การกระพริบสำหรับคำสั่งซื้อที่เสร็จสิ้นแล้ว
+MsgKdsGroupIdenticalProducts,กลุ่มผลิตภัณฑ์เดียวกัน:
+MsgKdsThemeColor,สีของธีม:
+MsgKdsWhite,ขาว
+MsgKdsBlack,ดำ
+MsgKdsTimers,ตัวจับเวลา:
+MsgKdsMin,%d นาที 
+MsgKdsMarkCompletedBy,ทำสัญลักษณ์เสร็จสิ้นโดย:
+MsgKdsTipWorksInRegularView,มุมมองปกติ
+MsgKdsVersionEstab,รุ่น: %@\nรหัสเครื่องติดตั้ง: %d\nชื่อเครื่องบริการ: %@\n URL: %@
+MsgKdsVersionPleaseCheckConfiguration,รุ่น: %@\nโปรดตรวจสอบการกำหนดค่า
+MsgKdsTotalRowsCountInDb,จำนวนแถวทั้งหมดใน DB คือ %d
+MsgKdsMaxStorageLimitInDb,จำกัดการจัดเก็บสูงสุดใน DB คือ %d
+MsgKdsTheRemovableRowsCount,จำนวนแถวที่ลบออกได้คือ %d
+MsgKdsAreYouSure,คุณแน่ใจหรือไม่?
+MsgKdsSeparateByModifier,แยกโดยตัวดัดแปลง
+MsgKdsGroupByProduct,จัดกลุ่มโดยผลิตภัณฑ์
+MsgKdsGroupByOrder,จัดกลุ่มโดยคำสั่งซื้อ
+MsgKdsGroupByItem,จัดกลุ่มโดยรายการ
+MsgKdsGroupByTime,จัดกลุ่มโดยเวลา
+MsgKdsQuantity09,จำนวน 0-9
+MsgKdsQuantity90,จำนวน 9-0
+MsgKdsItemNameAZ,ชื่อรายการ A-Z
+MsgKdsItemNameZA,ชื่อรายการ Z-A
+MsgKdsDiningOption,การรับประทานอาหาร\nตัวเลือก
+MsgKdsSpecialRequest,คำร้องขอพิเศษ
+MsgKdsEnterPasscode,ป้อนรหัสผ่าน
+MsgKds5FailedPasscodeAttempts,การพยายามด้วยรหัสผ่านล้มเหลว 5 ครั้ง
+MsgKdsEnterYourRestrictionsPasscode,ป้อนรหัสผ่านข้อจำกัดของคุณ
+MsgKdsDishName,ชื่ออาหาร
+MsgKdsKdsIsStillNotInitialized,KDS ยังไม่ได้เริ่มต้น โปรดคลิกปุ่มรีเฟรช เพื่อดาวน์โหลดการตั้งค่าจากระบบส่วนหลัง
+MsgKdsThisKdsAndThePosAreOnIncompatible,KDS นี้และ POS อยู่ในรุ่นที่ไม่สามารถทำงานร่วมกันได้ อันอาจทำให้ข้อมูลผิดพลาดได้ โปรดอัปเกรด KDS ของคุณ
+MsgKdsVersion,รุ่น: %@
+MsgKdsKdsName,ชื่อ KDS: %@
+MsgKdsCheckYourNetwork,ตรวจสอบเครือข่ายของคุณ
+MsgKdsSorry,ขออภัย!
+MsgKdsThisWillDeleteAllRecords,นี่จะลบข้อมูลทั้งหมดจากฐานข้อมูลภายในเครื่อง
+MsgKdsDatabasePurged,ฐานข้อมูลถูกล้าง
+MsgKdsOrder#,คำสั่งซื้อ # %@
+MsgKdsTrainingMode,*** โหมดการฝึกอบรม ***
+MsgKdsPrinterNotResponding,เครื่องพิมพ์ไม่ตอบสนอง โปรดตรวจสอบว่าเครื่องพิมพ์ได้เปิดอยู่
+MsgKdsNothing,ไม่มีสิ่งใด
+MsgKdsWhatWouldYouLikeToDoWithTheOrder,คุณต้องการทำอะไรกับคำสั่งซื้อ?
+MsgKdsTileExpediteSeat, ที่นั่ง %@ /
+MsgKdsTileExpediteCourse, อาหารชุด %@ /
+MsgKdsKdshasntBeenInitializedTheUpdatedSettings,KDS ไม่ได้ถูกเริ่มต้นทำงาน การตั้งค่าที่อัปเดตแล้วไม่สามารถอัปโหลดไปยังเซิร์ฟเวอร์ได้ เพิ่มเริ่มต้นการทำงาน โปรดไปยังมุมมองการตั้งค่า และคลิกปุ่มรีเฟรช
+MsgKdsHasntBeenSynchronizedWithPos,KDS ไม่ได้ถูกซิงก์ไว้กับ POS โปรดลองรีเฟรชอีกครั้งใน 1 นาที
+MsgKdsTheSettingsAreDownloadedSuccessfully,การตั้งค่าได้รับการดาวน์โหลดสำเร็จแล้ว
+MsgKdsTheCurrentDeviceDoesNotExistInTheEstablishment,อุปกรณ์ปัจจุบันไม่มีอยู่ในการติดตั้ง %d
+MSgKdsServerCommunicationIssuePleaseCheckYourNetwork,มีปัญหาในการสื่อสารกับเซิร์ฟเวอร์ โปรดตรวจสอบเครือข่ายของคุณ
+MsgKdsWaiting,กำลังรอ
+MsgKdsInProgressMode,โหมด “อยู่ระหว่างดำเนินการ”:
+MsgKdsDoubleTapToComplete,แตะสองครั้งเพื่อทำให้เสร็จสมบูรณ์
+MsgKdsInProgress,อยู่ระหว่างดำเนินการ
+MsgKdsLanguagePackHasBeenUpdated,แพ็กภาษาได้รับการอัปเดตแล้ว โปรดปิดแล้วเปิด KDS ใหม่
+MsgKdsPrint,พิมพ์
+MsgKdsTapDoneonWaitingOrders,แตะ เสร็จสิ้น ที่คำสั่งซื้อที่รอ
+MsgProductAdded,เพิ่มผลิตภัณฑ์แล้ว
+MsgSelectACategory,เลือกหมวดหมู่
+MsgSelectASubcategory,เลือกหมวดหมู่ย่อย
+MsgSelectAProduct,เลือกผลิตภัณฑ์
+MsgFailedTitle,รายการที่ล้มเหลว
+MsgDescription,รายละเอียด
+MsgOrderInfoDescription,คำสั่งซื้อ: %@
+MsgOrderInfoCreated,สร้างแล้ว: %@
+MsgOrderInfoCreatedNoArgs,สร้าง
+MsgManagerSyncLog,บันทึกการซิงก์ข้อมูล
+MsgManagerSyncLogMaxRetries,ลองซิงก์สูงสุด
+MsgManagerRunEOD,เสร็จสิ้นกระบวนการของวัน
+MsgManagerEOD,สิ้นสุดวัน
+MsgManagerEODTaskCloseNullOrders,ปิดคำสั่งซื้อคงเหลือ 0.00
+MsgManagerEODCloseNullOrdersProgress,ปิดคำสั่งซื้อคงเหลือ 0.00...
+MsgManagerEODTaskReconcileOrders,กระทบยอดคำสั่งซื้อที่เปิด
+MsgManagerEODTaskProcessCreditCards,ดำเนินการกับบัตรเครดิตทั้งหมด
+MsgManagerEODTaskDeclinedPayments,การชำระเงินที่ถูกปฏิเสธ
+MsgManagerEODTaskOfflinePayments,การชำระเงินแบบออฟไลน์
+MsgManagerEODTaskConfirmTimeCards,ยืนยันบัตรลงเวลาของพนักงาน
+MsgManagerEODTaskCloseAllTills,ปิดลิ้นชักเก็บเงินทั้งหมด
+MsgManagerEODVoidRefundButton,ยกเลิก/ขอคืนเงิน
+MsgManagerEODCloseCashButton,ปิดไปยังเงินสด
+MsgManagerEODCarryNextDayButton,ยกยอดไปวันถัดไป
+MsgManagerEODPrintReport,พิมพ์รายงาน
+MsgManagerEODTaskAdditionalTasks,งานเพิ่มเติม
+MsgManagerEODTillsOpened,เปิด
+MsgManagerEODPosStation,เครื่องบริการ POS
+MsgManagerEODClockOutAll,ลงเวลาออกงานทั้งหมด
+MsgManagerEODNoTasksAlert,ไม่มีงานที่ต้องดำเนินการ
+MsgManagerEODProcessSuccess,กระบวนการเมื่อสิ้นสุดวันเสร็จสมบูรณ์แล้ว เครื่องบริการ POS จะรีเฟรชตอนนี้
+MsgManagerEODReportsAllEmployees,พนักงานทั้งหมด (รวมไว้ในหนึ่งรายงาน)
+MsgManagerEODRunPrompt,โปรดรัน 'ขั้นตอนปฏิบัติการเมื่อสิ้นสุดวัน'
+MsgManagerEODGoToNextStep,ขั้นตอนถัดไป
+MsgManagerEODUnableToRun,ไม่สามารถรันสิ้นสุดวันได้
+MsgManagerEODCurrentOrderOpen,คำสั่งซื้อหมายเลข %@ เปิดอยู่! โปรดปิดคำสั่งซื้อก่อนที่จะรัน 'สิ้นสุดวัน'
+MsgManagerEODSynLogMenu,สิ้นสุดวัน
+MsgManagerEODErrorUnsyncedOrdersCheck,คำสั่งซื้อที่ไม่ถูกซิงก์
+MsgManagerEODInstructionsStep1BoldOrders,คำสั่งซื้อ
+MsgManagerEODInstructionsStep1BoldUnsyncedOrders,คำสั่งซื้อที่ไม่ถูกซิงก์
+MsgManagerSyncLogSignatures,ลายมือชื่อ
+MsgManagerSyncLogOrders,คำสั่งซื้อ
+MsgManagerSelectLogItem,โปรดเลือกรายการบันทึกเพื่อแสดง
+MsgManagerSyncShowButton,แสดง
+MsgNotSupportedForIphoneApp,แอปไอโฟนไม่ได้รับการสนับสนุน
+MsgAgeVerification,การตรวจสอบความถูกต้องของอายุ
+MsgCustomerBirthdateMessage,ลูกค้าต้องเกิดก่อน %@ เพื่อจะซื้อผลิตภัณฑ์นี้\nโปรดยืนยันรหัสและวันเกิดของลูกค้า
+MsgItemDetailsBIN,BIN
+MsgItemDetailsDetails,รายละเอียดผลิตภัณฑ์
+BtnItemDetailsInventoryLookup,ค้นหาข้อมูลสินค้าคงเหลือ
+MsgWarningDeleteSignature,คุณแน่ใจหรือไม่ว่า คุณต้องการที่จะลบข้อมูลลายมือชื่อ?
+MsgDeleteSignatureError,ไม่สามารถลบลายมือชื่อจากดิสก์
+MsgBLECheckedIn,เช็กอินลูกค้าด้วยบลูธูท
+MsgOrderDetailsCustomerCheckInfo,ตรวจสอบลูกค้า
+MsgAggregate,รวบรวม
+MsgVoidServiceProduct,ผลิตภัณฑ์
+MsgVoidServicePrice,ราคา
+MsgVoidSelectItems,รายการที่จะยกเลิก
+MsgReturnSelectItems,รายการที่จะส่งคืน
+MsgVoidReturnSelectItems,รายการที่จะส่งคืน
+MsgCompSelectItems,รายการที่จะทำให้เสร็จสมบูรณ์
+MsgVoidQtyLeft,จำนวนที่เหลือ
+MsgRPIUpdateConfirm,นี่จะเป็นการอัปเดต PI คุณแน่ใจหรือไม่?
+MsgRPIUpdateSuccess,อัปเดต_ PI สำเร็จแล้ว
+MsgRPIUpdateFail,อัปเดต PI ล้มเหลว
+MsgRPICommunicationFail,การสื่อสารกับศูนย์เครือข่ายล้มเหลว เสียบสายเชื่อมต่อเครือข่ายอีกครั้ง หรือโปรดปิดแล้วเปิดฮับใหม่อีกครั้ง
+MsgRPIDevicesInfo,ข้อมูลอุปกรณ์ RPI v. %@
+MsgRPIConnectedDevices,อุปกรณ์ที่เชื่อมต่อ
+MsgRPINonMappedDevices,อุปกรณ์ที่ไม่ได้จับคู่
+MsgReceiptTitleGuestCheck,ใบเสร็จของลูกค้า
+MsgReceiptNumberOfHeldOrders,ระงับคำสั่งซื้อ
+MsgReceiptTotalSumOfHeldOrders,ยอดรวม
+MsgOrderExchangeFrom,[จาก %@]
+MsgOrderExchangeDoneAddItems,รายการที่แลกเปลี่ยน  โปรดเพิ่มรายการใหม่ไปยังคำสั่งซื้อนี้
+MsgOrderExchangeExceedsPurchaseAmountTitle,เพิ่มรายการ
+MsgOrderExchangeExceedsPurchaseAmountMessage,ค่าแลกเปลี่ยนเกินกว่าค่าจัดซื้อ โปรดเพิ่มรายการเพื่อใช้เงินทุนที่เหลือ
+MsgSelectItemsToExchangeSelectItemsToExchange,เลือกรายการเพื่อแลกเปลี่ยน
+MsgSelectItemsToExchangePleaseSelectItems,โปรดเลือกรายการเพื่อแลกเปลี่ยน
+MsgSelectItemsToExchangeItemsToExchange,รายการเพื่อแลกเปลี่ยน
+MsgSelectItemsToExchangeQtyLeft,จำนวนที่เหลือ
+MsgSelectItemsToExchangeExchange,แลกเปลี่ยน
+MsgSelectItemsToExchangeOrderHasCoupon,คำสั่งซื้อนี้มีคูปอง  คูปองนี้มีผลต่อราคาของรายการแลกเปลี่ยนหรือไม่
+MsgSelectItemsToExchangeOrderHasCoupons,คำสั่งซื้อนี้มีคูปอง.  โปรดเลือกคูปองใด ๆ ที่มีผลต่อราคาของรายการที่แลกเปลี่ยน
+MsgSpecifyReasonForExchangeSpecifyReasonForExchange,ระบุเหตุผลสำหรับการแลกเปลี่ยน
+MsgSpecifyReasonForExchangeGrandTotal,ยอดรวมทั้งหมด:
+MsgReceiptEXCHANGE,แลกเปลี่ยน
+BtnOTEPShowAllOrders,แสดงคำสั่งซื้อทั้งหมด
+BtnOTEPTables,โต๊ะ
+BtnOTEPBarTabs,แท็บบาร์
+BtnOTEPBarTab,แท็บบาร์
+BtnTablesNewParty,+ งานสังสรรค์ใหม่
+MsgTransferOrdersTableHeader,โอนย้ายคำสั่งซื้อ | เลือกโต๊ะ และ/หรือแท็บ
+BtnTransferOrdersTransfer,โอนย้าย
+BtnTransferOrdersHideClockedOutEmployees,ซ่อนพนักงานที่ลงเวลาออกงานแล้ว
+BtnTransferOrdersClockedIn,ลงเวลาเข้างาน
+MsgTransferOrdersTransfersFailed,การโอนย้ายล้มเหลว
+MsgTransferOrdersTransfersFailedForOrders,การโอนย้ายล้มเหวสำหรับคำสั่งซื้อที่มีรหัส:
+BtnTransferOrdersAllEmployees,พนักงานทั้งหมด
+MsgExistingDiscounts,ส่วนลดที่มีอยู่ในรายการ
+MsgItemName,ชื่อรายการ
+MsgDiscountName,ชื่อส่วนลด
+MsgReplaceDiscountAmount,จำนวนส่วนลด
+MsgReplaceDiscount,แทนที่ส่วนลดหรือไม่
+MsgTheseItemsHaveDiscounts,รายการเหล่านี้มีส่วนลดอยู่แล้ว. แทนที่ส่วนลดหรือไม่
+MsgStanfordPhotoConfirmation,ตรวจสอบและยืนยันรูปภาพ
+MsgStanfordCheckBalance,ตรวจสอบยอดคงเหลือ
+MsgWaitingForFoodNonFood,กำลังรอการเลือกทิป
+MsgEditEntry,แก้ไขรายการ
+MsgAssignTable(s),กำหนดตาราง
+MsgSendMessage,ส่งข้อความ
+MsgRemoveEntry,ลบรายการออก
+MsgPleaseFillPhoneNumberProceedToEditTheReservation,โปรดป้อนหมายเลขโทรศัพท์ ดำเนินการเพื่อแก้ไขการจองหรือไม่
+MsgSendSMSmessageTo,ส่งข้อความ SMS ไปยัง %@
+MsgSendEmailTo,ส่งอีเมลไปยัง %@
+MsgSendingFailed,การส่งล้มเหลว
+MsgYouHaveAnReservation,คุณมีหนึ่งการจอง
+MsgNextReservation,การจองถัดไป
+MsgPreviousAssignment,การมอบหมายก่อนหน้า
+MsgEditReservation,แก้ไขการจอง
+MsgAddReservation,เพิ่มการจอง
+MsgWaitlist,รายการรอ
+MsgAddNewParty,เพิ่มงานสังสรรค์ใหม่
+MsgAllChangesWillBeLostContinue,การเปลี่ยนแปลงทั้งหมดจะสูญหายไป ดำเนินการต่อหรือไม่
+MsgBirthday,วันเกิด
+MsgNoTable(s)Assigned,ไม่มีโต๊ะที่มอบหมายไว้
+MsgPleaseFillName,โปรดป้อนชื่อ
+MsgPleaseFillPhoneNumber,โปรดป้อนหมายเลขโทรศัพท์
+MsgThereArentAvailableSeatsWouldYouLike,ไม่มีเก้าอี้นั่งว่าง คุณต้องการสร้างการจองใหม่หรือไม่
+MsgWalkIn,ไม่ได้โทรจอง
+MsgCallIn,โทรจอง
+MsgShortManual,M: %ld
+MsgPartyNSize,ขนาด\nงานเลี้ยง
+MsgPartySize,ขนาดงานเลี้ยง
+MsgEnterPartySize,ป้อนขนาดงานเลี้ยง
+MsgCheckNIn,เช็ก\nอิน
+MsgThisTableIsOccupiedWhatWouldYouLikeToDo,โต๊ะนี้ไม่ว่าง คุณต้องการทำอะไร
+MsgMerge,รวม
+MsgKeepSeparate,แยกไว้
+MsgSeated,มีคนนั่งแล้ว
+MsgPleaseSelectAnyTable,โปรดเลือกโต๊ะอื่น
+MsgAssign,มอบหมายให้
+MsgPleaseSelectTableSections,โปรดเลือกโต๊ะ
+MsgTables,โต๊ะ
+MsgTable(s),โต๊ะ
+MsgHistory,ประวัติ
+MsgReasonForRemoval,เหตุผลสำหรับการลบออก
+MsgReturnToWaitlist,ส่งกลับไปยังรายการรอ
+MsgEditNEntry,แก้ไข\nรายการ
+MsgSeatNParty,เก้าอี้\nสำหรับงานสังสรรค์
+MsgNewParty,+ งานสังสรรค์ใหม่
+MsgReservationsDashboard,แดชบอร์ดการจอง
+MsgRefreshing,กำลังรีเฟรช
+MsgIncludedTags,แท็กที่รวมอยู่
+MsgDaysIncludedInAverage,วันรวมถึงที่เฉลี่ย
+MsgQuotedWait,รอราคาที่บอกไว้
+MsgPartyDetails,รายละเอียดงานสังสรรค์
+MsgTablePreferences,โต๊ะที่ต้องการ
+MsgAddToWaitlist,เพิ่มไปยังรายการรอ
+MsgNParties,งานสังสรรค์
+MsgTotalGuests,จำนวนลูกค้ารวม
+MsgAvailableTables,โต๊ะที่ว่าง
+MsgAvailableCapacity,ที่ว่างที่สามารถรองรับได้
+MsgReservations,การจอง
+MsgSendMessage(s),ส่งข้อความ:
+MsgHistoryIsNotSupportedNow,ประวัติไม่ได้รับการสนับสนุนตอนนี้
+MsgSections,ส่วน
+MsgAllTables,โต๊ะทั้งหมด
+MsgDay(s),วัน
+MsgSomeChangesHaveBeenMade,มีการเปลี่ยนแปลงบางอย่าง คุณต้องการบันทึกก่อนที่จะดำเนินการต่อหรือไม่
+MsgGasStationSelectClearType,เลือกประเภทการเคลียร์
+MsgGasStationInternalErrorNoFuelTransactionFound,ข้อผิดพลาดภายใน ไม่พบการทำรายการเชื้อเพลิง
+MsgForecourtController,เชื่อมต่อลานหน้าอาคารแล้ว
+BtnMoveOrdersMove,ย้าย
+BtnMoveOrdersMerge,รวม
+BtnMoveOrdersTablesInUse,แสดงโต๊ะที่ใช้งานอยู่
+BtnMoveOrdersTablesNotInUse,แสดงโต๊ะที่ไม่ได้ใช้งานอยู่
+MsgMoveOrdersIsNotPossible,การเคลื่อนย้ายเป็นไปไม่ได้ เนื่องจากคำสั่งซื้อปลายทางหรือต้นทางไม่ได้ซิงก์ไปยังเครื่อง POS หลัก
+MsgMoveOrdersTableHeader,ย้ายคำสั่งซื้อ | เลือกโต๊ะ และ/หรือแท็บ
+MsgMoveOrdersOrderStatus,สถานะคำสั่งซื้อ
+MsgMoveOrdersAllSections,ทุกส่วน
+MsgMoveOrdersRefundManually,สามารถย้ายได้เฉพาะรายการ  ไม่สามารถย้ายการชำระเงินคำสั่งซื้อ %@ และต้องขอคืนเงินด้วยตนเอง
+MsgMergeOrdersWhichToKeep,คำสั่งซื้อใดที่คุณต้องการเก็บไว้
+MsgMergeOrdersTableHeader,รวมคำสั่งซื้อ | เลือกคำสั่งซื้อที่จะรวม
+MsgMoveOrdersPaymentsRefundManually,ไม่สามารถย้ายการชำระเงินคำสั่งซื้อ: %@ และต้องขอคืนเงินด้วยตนเอง
+MsgMoveOrdersPaymentsDiscountMove,ไม่สามารถย้ายส่วนลดคำสั่งซื้อ และต้องขอคืนเงินด้วยตนเอง
+MsgMoveOrdersPaymentsServiceFeeMove,ไม่สามารถย้ายค่าธรรมเนียมการบริการของคำสั่งซื้อ และต้องขอคืนเงินด้วยตนเอง
+MsgMergeOrderSplitBillsClear,การแยกบิลตามคำสั่งซื้อ: %@จะถูกล้าง คุณแน่ใจหรือไม่?
+MsgMoveMergeOrderPaymentMoved, การชำระเงินแรกเริ่มถูกย้ายไปยังคำสั่งซื้อ
+MsgMergeOrders,รวมคำสั่งซื้อ
+MsgMoveOrdersIsNotPossibleDueDestinationOrder,การรวมเป็นไปไม่ได้ เนื่องจากคำสั่งซื้อปลายทางหมายเลข %@ มีการแยกบิลและการชำระเงิน โปรดเคลียร์บิลที่มีการแยกบิลด้วยตนเอง
+MsgGiftCardBlances,ยอดคงเหลือใหม่ของคุณถูกแสดงตามด้านล่าง
+MsgOrderCustomerTrackingNumber,หมายเลขคำสั่งซื้อ ลูกค้า หมายเลขการติดตาม
+MsgShipped,จัดส่งแล้ว
+MsgNormal,ปกติ
+MsgComments,ข้อคิดเห็น
+MsgKdsShowQuantity,แสดงจำนวน
+MsgKdsCallNameFontSize,ขนาดตัวอักษรชื่อเรียก:
+MsgKdsDoubleTapDoneonWaitingOrders,แตะสองครั้งที่ เสร็จสิ้น ที่คำสั่งซื้อที่รอ
+MsgAddNewCheck,เพิ่มการตรวจสอบใหม่
+MsgWetstockOverviewHeader,การจัดการสินค้าชนิดเปียก - ภาพรวม
+MsgWetstockPumpManagementHeader,การจัดการสินค้าชนิดเปียก - การบริหารจัดการปั๊ม
+BtnWetstockEndOfDay,สิ้นสุดวัน
+BtnWetstockReconcile,ปรับยอด
+BtnWetstockDetails,รายละเอียด
+MsgWetstockDateTime,วันที่/เวลา
+MsgWetstockEvent,กิจกรรม
+MsgWetstockAmtDispenced,จำนวนเงิน ที่จ่ายออกไป
+MsgWetstockAmtonMeter,จำนวนบนมิเตอร์
+MsgWetstockGrade,เกรด
+MsgWetstockAllHoses,สายยางทั้งหมด
+MsgWetstockTransactionSale,การขาย
+MsgWetstockTransactionReconcile,ปรับยอด
+BtnWetstockTankTransfer,โอนย้ายถัง
+BtnWetstockPrintForecourtMap,พิมพ์แผนที่ลานหน้าอาคาร
+MsgWetstockAllTanks,โต๊ะทั้งหมด
+MsgFailedToUpdateTips,การอัปเดตทิปล้มเหลว
+MsgNothingToUpdate,ไม่มีสิ่งที่จะอัปเดต
+MsgTransferTo,โอนย้ายไปยัง
+MsgHours,ชั่วโมง
+MsgAppliedPumpPricePrice,นำเงินฝากมาใช้
+MsgHintPosSettings,การตั้งค่า POS
+MsgHintFinancials,การเงิน
+MsgHintOfflinePayments,การชำระเงินแบบออฟไลน์
+MsgHintDeclinePayments,การชำระเงินที่ถูกปฏิเสธ
+MsgHintSyncLog,บันทึกการซิงก์ข้อมูล
+MsgHintTroubleShoot,โหมดการแก้ปัญหา
+MsgHintBatchProcess,การประมวลผลเชิงกลุ่ม
+MsgHintManageItem,จัดการโหมดรายการ
+MsgHouseAccountPaymentHistory,การชำระเงิน
+MsgHouseAccountFetchingData,บัญชีค่านายหน้า
+MsgHouseAccountFailedToFetch,การนำเข้ารายงานล้มเหลว โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณ และลองอีกครั้งภายหลัง
+MsgHouseAccountPaymentType,ประเภทการชำระเงิน
+MsgHouseAccountDisplayHouseAccountPayments,แสดงเฉพาะบัญชีค่านายหน้าเท่านั้น
+MsgHouseAccountUnpaidHouseAccountOrders,บัญชีค่านายหน้า
+MsgHouseAccountErrorAccountNotEnabledForEstablishment,อุปกรณ์ปัจจุบันไม่มีอยู่ในการติดตั้ง %d
+MsgHouseAccountErrorFailedToSyncPayment,อัปเดตข้อมูลการชำระเงินล้มเหลว
+MsgHouseAccountPayment,บัญชีค่านายหน้า
+MsgHouseAccountPayments,บัญชีค่านายหน้า
+MsgHouseAccountLocked,คำสั่งซื้อถูกแก้ไขโดย %@ บนเครื่องบริการ %@
+MsgOnboardingEstablishmentNotSet,ไม่มีการตั้งค่าการติดตั้ง หรือเครื่องบริการ POS!\n\nโปรดรีเฟรช!
+MsgOnboardingFailedToSaveBackendSettings,การอัปเดตทิปล้มเหลว
+MsgOnboardingFailedToSaveSupportTopics,การอัปเดตทิปล้มเหลว
+BtnOnboardingCloseWizard,ปิดคำสั่งซื้อ
+MsgOnboardingAdditionalSetUpAssistance,การดำเนินการเพิ่มเติม
+BtnOnboardingRetail,การขายปลีก
+BtnOnboardingQuickService,การบริการ
+BtnOnboardingTableService,ค่าธรรมเนียมการบริการที่เก็บภาษีได้
+MsgOnboardingPaymentMethods,เลือกวิธีการชำระเงิน
+MsgOnboardingBusinessName,ชื่อที่อยู่
+MsgOnboardingAddress1,ที่อยู่
+MsgOnboardingAddress2,ที่อยู่
+MsgOnboardingProvince,จังหวัด
+MsgOnboardingTaxName,ชื่อผู้โทร
+MsgOnboardingPointOfSale,ยอดคงเหลือคะแนน
+MsgOnboardingIsRequired,*จำเป็นต้องกรอกทุกช่อง
+MsgOnboardingPaymentType,การชำระเงิน
+MsgOnboardingPrintReceipt,ใบเสร็จเงินที่รับเข้า
+MsgOnboardingPaymentProcessors,การดำเนินการการชำระเงิน
+MsgOnboardingSelectYourProcessor,เลือกผลิตภัณฑ์
+MsgOnboardingReturns,คืนค่า
+MsgOnboardingHowWouldYoLikeToHandleReturns,คุณต้องการชำระเงินโดยวิธีใด?
+MsgOnboardingDebitCard,บัตรเครดิต
+MsgOnboardingCreditPlus,เครดิต +
+MsgOnboardingAllowReturnsWithoutReceipt,คุณต้องการพิมพ์ใบเสร็จหรือไม่?
+MsgOnboardingLimitReceiptlessReturnsTo,คืนค่าที่ไม่มีใบเสร็จ
+MsgOnboardingReceiptlessReturnTender,คืนค่าที่ไม่มีใบเสร็จ
+MsgOnboardingCashCredit,บันทึกเงินสดและเครดิต
+MsgOnboardingWouldYouLikeSetUpProducts,คุณต้องการสร้างผลิตภัณฑ์ใหม่ที่มีบาร์โค้ดที่ไม่ตรงกันหรือไม่?
+MsgOnboardingEnableOfflineCreditCardPayments,ปิดการใช้งานบัตรเครดิตแบบออฟไลน์
+MsgOnboardingMaximumAmountForSingleOfflinePayment,จำนวนเงินสูงสุดสำหรับการชำระเงินแบบออฟไลน์
+MsgOnboardingMaximumAmountForUnprocessedOfflinePayments,ยอดรวมสูงสุดสำหรับการชำระเงินแบบออฟไลน์ที่ไม่ได้ดำเนินการ
+MsgOnboardingMaximumAmountForUnprocessedDeclinedPayments,ยอดรวมสูงสุดสำหรับการชำระเงินที่ถูกปฏิเสธที่ไม่ได้ดำเนินการ
+MsgOnboardingHowWouldYouLikeEmployeesLogInOut,คุณต้องการรับใบแจ้งหนี้ด้วยวิธีใด?
+MsgOnboardingCloseHeldReceiptsAt,ปิดคำสั่งซื้อที่ถูกระงับไว้
+MsgOnboardingClockingIn,การลงเวลาเข้างาน
+MsgOnboardingHowWouldYouLikeEmployeesToClockIn,คุณต้องการรับใบแจ้งหนี้ด้วยวิธีใด?
+MsgOnboardingEmployeesMustClockInToAccessiPad,พนักงานไม่ได้ลงเวลาเข้างาน หรือการลงเวลาเข้างานไม่ได้รับการยืนยัน
+MsgOnboardingRequirePhotoToClockIn,ยังไม่ได้ลงเวลาเข้างาน
+BtnOnboardingSetUpProducts,ผลิตภัณฑ์
+MsgOnboardingEmployeeList,พนักงาน
+MsgOnboardingPINAlreadyExists,บัตรมีอยู่แล้ว
+MsgOnboardingPINValidationFailed,อัปเดต PI ล้มเหลว
+MsgOnboardingValidating,กำลังรอ
+MsgOnboardingSetupInterviewFailedToLoad,เทมเพลตใบแจ้งหนี้ไม่ถูกต้อง\nโปรดติดต่อฝ่ายช่วยเหลือลูกค้า
+MsgCustomerCompany,ชื่อบริษัท
+MsgDocumentStorage,ข้อคิดเห็น
+MsgDocumentPreview,หมายเลขการอนุญาต
+MsgDocumentSearchPlaceholder,ป้อนแท็บ # หรือ ชื่อลูกค้า
+MsgDocumentType,ข้อคิดเห็น
+MsgDocumentNumber,ข้อคิดเห็น
+MsgDocumentTaxID,ลูกค้าชำระเงิน
+MsgDocumentTypeFiscalInvoiceCopy,ใบแจ้งหนี้
+MsgDocumentTypeFiscalInvoiceDuplicate,ใบแจ้งหนี้
+MsgDocumentSearchFailed,%d ล้มเหลวในการเก็บข้อมูล
+MsgDocumentCheckInternetConnection,เกิดข้อผิดพลาดขึ้น โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณ!
+MsgDocumentCopyPrinted,%d ล้มเหลวในการเก็บข้อมูล
+MsgInvoice,ใบแจ้งหนี้
+MsgInvoiceVehicleRegistrationNumber,การลงทะเบียนล้มเหลว
+MsgInvoiceInvoiceItem,ใบแจ้งหนี้ #
+MsgInvoiceReceiptItem,พิมพ์รายการใหม่อีกครั้ง
+MsgInvoiceVRNPlaceholder,การลงทะเบียนล้มเหลว
+MsgDocuments,ข้อคิดเห็น
+MsgNonFiscalInvoiceCopy,ใบแจ้งหนี้
+MsgNonFiscalInvoiceDuplicate,ใบแจ้งหนี้
+MsgCustomerKioskProfileAvailableRewards,ไม่มีรางวัลอยู่
+MsgCustomerKioskProfileGiftCardsTableTitle,บัตรของขวัญ
+MsgCustomerKioskProfileGiftCardsTableBalance,ยอดที่เหลือ
+MsgFDAHotelName,ป้อนชื่อ
+MsgFDAReservationNumber,การจอง
+MsgFDAReferenceNumber,แก้ไขลูกค้า
+MsgFDAStatus,สถานะ
+MsgFDAStatusCheckedin,ลงเวลาเข้างาน
+MsgFDAStatusCheckedout,ลงเวลาออกงาน
+MsgFDAStatusWaiting,กำลังรอ
+MsgFiscalPeriods,รายงานการเงิน
+MsgPhysicalInventoryJoin,จัดการสินค้าคงเหลือ
+MsgPhysicalInventoryFetchingData,การนำเข้าข้อมูลสินค้าคงเหลือ
+MsgPhysicalInventoryFailedToFetch,การนำเข้ารายงานล้มเหลว โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณ และลองอีกครั้งภายหลัง
+MsgPhysicalInventoryNoActiveInventory,สินค้าคงเหลือที่แท้จริง (%@)
+MsgPhysicalInventoryCounting,ดำเนินการต่อ
+MsgPhysicalInventoryRecount,ส่วนลด
+MsgPhysicalInventoryAction,การดำเนินการ
+MsgPhysicalInventorySecondCount,จำนวนที่นั่ง
+MsgPhysicalInventoryInitialCount,คูปองไม่ถูกต้อง
+MsgPhysicalInventoryScanning,สแกน
+MsgPhysicalInventoryReadyForScan,พร้อมที่จะไปยัง
+MsgPhysicalInventoryNotCounted,ไม่ได้เชื่อมต่อ
+MsgPhysicalInventoryCount,ประเทศ
+MsgPhysicalInventoryEditQuantity,ป้อนจำนวน
+MsgPhysicalInventoryTypeOrScanBarcode,ชื่อ หรือบาร์โค้ด
+MsgPhysicalInventorySerialNumberNeeded,หมายเลขลำดับ
+MsgPhysicalInventoryMultipleMatchesFound,พบลูกค้าที่ตรงกันหลายราย
+MsgPhysicalInventoryMultipleUnitsFound,พบลูกค้าที่ตรงกันหลายราย
+MsgPhysicalInventoryPleaseSelectAUnit,โปรดเลือกรายการเพื่อแลกเปลี่ยน
+MsgPhysicalInventoryWaitingForScan,กำลังรอ
+MsgPhysicalInventorySectionLocked,คำสั่งซื้อถูกแก้ไขโดย %@ บนเครื่องบริการ %@
+MsgPhysicalInventoryRecountConfirm,คุณต้องการใบเสร็จหรือไม่?
+MsgPhysicalInventoryScanned,เครื่องสแกน
+MsgPhysicalInventoryUnknownProducts,ผลิตภัณฑ์ใหม่
+MsgPhysicalInventoryQuantityUpdated,สินค้าคงเหลือถูกอัปเดตแล้ว
+MsgPhysicalInventoryPleaseSelectUnit,โปรดเลือกรายการเพื่อแลกเปลี่ยน
+MsgSettingDeviceID,อุปกรณ์
+MsgSettingsRedirectTo,กำลังเปลี่ยนเส้นทางไปยัง
+MsgSettingsFontSize,ตั้งค่าขนาดตัวอักษร
+MsgSettingsFiscalPrintOptions,ตัวเลือกการพิมพ์ลาเบล
+MsgSettingsPrintReports,พิมพ์รายงาน
+MsgSettingsShowReports,รายงาน Z
+MsgSettingsSecondary,ครึ่งหลัง
+MsgSettingsCardSwipe,บัตรรูด
+MsgSettingsScale,สเกล
+MsgSettingsCoinDispenser,เครื่องจ่ายเหรียญ
+MsgSettingsRFIDReader,เครื่องอ่าน RFID
+MsgSettingsDefaultMenu,ค่าเริ่มต้น
+MsgSetttingsRequireEmployeesToClockIn,พนักงานไม่ได้ลงเวลาเข้างาน หรือการลงเวลาเข้างานไม่ได้รับการยืนยัน
+MsgSettingsManagersCanAlwaysLogin,เจ้าของและผู้จัดการสามารถเข้าสู่ระบบได้ตลอดเวลา และจะไม่ถูกแสดงรายชื่อที่นี่\nผู้ปรุงอาหารไม่สามารถเข้าสู่ระบบและจะไม่ถูกแสดงรายชื่อที่นี่\nสนับสนุนการล็อกหลายผู้ใช้
+MsgSettingsNetworkKey,เครือข่าย SSID:
+MsgSettingsiOSVersion,รุ่น
+MsgSettingsAppVersion,รุ่น
+MsgSettingsNetworkSSID,เครือข่าย SSID:
+MsgReturnToCard,จำนวนเงินที่มอบให้
+MsgMessageChargeBackEmptyError,โปรดป้อนจำนวนเงินที่ถูกต้อง
+MsgRevUserTutorialCompleteText,ยินดีด้วย คุณมี %@ คะแนนรางวัล
+MsgRevUserTutorialStepEditAProductTitle,เลือกผลิตภัณฑ์
+MsgRevUserTutorialStepSwipeToCloseTitle,รูดบัตรของขวัญ
+MsgRevUserTutorialStepEnterAmountTenderedTitle,จำนวนเงินที่มอบให้
+MsgRevUserTutorialStepSelectCashTitle,เลือกเช็ค
+MsgRevUserTutorialStepCompleteTransactionTitle,ธุรกรรมเครดิต
+MsgRevUserTutorialStepCredtCardTransactionTitle,ธุรกรรมเครดิต
+MsgRevUserTutorialStepSelectCreditTitle,ที่เลือกไว้
+MsgRevUserTutorialStepSwipeCardTitle,รูดบัตรของขวัญ
+MsgRevUserTutorialStepCreditCardCompleteTransactionText,เพื่อดำเนินการกับคำสั่งซื้อของคุณให้เสร็จสมบูรณ์
+MsgRevUserTutorialStepActionButtonsTitle,การดำเนินการ
+MsgRevUserTutorialStepDiscountOrderTitle,ส่วนลด\nคำสั่งซื้อ
+MsgRevUserTutorialStepDiningOptionTitle,การรับประทานอาหาร
+MsgRevUserTutorialStepHoldOrderTitle,ระงับคำสั่งซื้อ
+MsgRevUserTutorialStepRecallHeldOrdersTitle,คำสั่งซื้อที่ถูกระงับไว้
+MsgRevUserTutorialStepRefreshThePOSTitle,รีเฟรช POS

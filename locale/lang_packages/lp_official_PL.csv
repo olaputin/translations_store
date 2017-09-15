@@ -223,7 +223,7 @@ BtnOrderFastCashShell,Szybka\nGotówka
 BtnGasStationActionBlockPump,Zablokuj\npompę
 BtnGasStationActionUnblockPump,Odblokuj\nPompę
 BtnGasStationActionTogglePumpLights,Przełącz\nŚwiatła pomp
-BtnGasStationActionStopAllPumps,Zatrzymaj wszystkie\npompy
+BtnGasStationActionStopAllPumps,Zatrzymaj wszystkie\nPompy
 BtnGasStationActionStopPump,Zatrzymaj\ntankowanie z pompy
 BtnGasStationActionReservePump,Zarezerwuj\nPompę
 BtnGasStationActionPrePay,Przedpłata
@@ -1265,7 +1265,7 @@ MsgSplitItemNotAllowedPaid,Pozycja jest przypisana do opłaconego rachunku. Nie 
 MsgChangeSeatNotAllowedPaid,Pozycja jest przypisana do opłaconego rachunku. Nie można zmienić miejsca.
 ActionExchangeSelectedItem,Wymień wybrane pozycje
 ActionExchangeSeveralItems,Wymień kilka pozycji
-ActionVoidSelectedItem,Unieważnij wybraną pozycję
+ActionVoidSelectedItem,Unieważnij wybraną pozycje
 ActionVoidSeveralItems,Unieważnij kilka pozycji
 ActionReturnSelectedItem,Zwróć wybraną pozycję
 ActionReturnSeveralItems,Zwróć kilka pozycji
@@ -5056,3 +5056,7 @@ MsgRevUserTutorialStepSettingsText,Ikona koła zębatego ustawień oferuje kilka
 MsgRevUserTutorialStepSettings2Text,Tutaj można zainicjować procedurę zakończenia dnia w opcji 'Menedżer' lub wylogować się z POS.
 MsgRevUserTutorialStepRefreshThePOSTitle,Odśwież POS
 MsgRevUserTutorialStepRefreshThePOSText,"W każdej chwili można dokonać zmian w konsoli zarządzania, dotknij tutaj, aby odświeżyć POS, który będzie aktualizować ostatnie zmiany."
+MsgReceiptSiteId,"Numer stacji"
+MsgReceiptTerminalId,"Nr terminala"
+MsgCouponNoApplicableItems,Operacja nie powiodła się. Transakcja nie spełnia wymagań do wykorzystania tego kuponu.
+BtnPinDelete,Wyczyść

@@ -48,7 +48,7 @@ BtnRefresh,Odśwież
 BtnSave,Zapisz
 BtnDone,Gotowe
 BtnPrint,Drukuj
-BtnPrintLog,Wydruk rejestru
+BtnPrintLog,Rejestr
 BtnDismiss,Odrzuć
 BtnApprove,Zatwierdź
 BtnRefund,Zwrot
@@ -58,7 +58,7 @@ BtnPay,Zapłać
 BtnStack,Przetrzymanie
 BtnExport,Eksportuj
 BtnOriginal,Oryginał
-BtnCustom,Dostosuj
+BtnCustom,Bon paliwowy
 BtnSet,Ustaw
 BtnCheckout,Zamknięcie kasy
 BtnAddToOrder,Dodaj do transakcji
@@ -100,7 +100,7 @@ BtnAddNew,Dodaj nowe
 BtnOwn,Własne
 BtnResetAllBalances,Zresetuj wszystko
 BtnReset,Zresetuj
-BtnChange,Zamień
+BtnChange,Reszta
 BtnContinue,Kontynuuj
 BtnStartOver,Zacznij od nowa
 BtnConfirm,Potwierdź
@@ -216,21 +216,21 @@ MsgMeasureUnitShortLiters,L
 MsgMeasureUnitShortGallons,G
 MsgMeasureUnitShortCubicMeters,m3
 BtnPayTransaction,Zapłać\ntransakcję
-BtnClearTransaction,Wyczyść\nTransakcja
+BtnClearTransaction,Wyczyść\ntransakcję
 BtnStackTransaction,Przetrzymanie\nTransakcji
 BtnOrderFastCreditShell,Szybki\nKredyt
 BtnOrderFastCashShell,Szybka\nGotówka
 BtnGasStationActionBlockPump,Zablokuj\npompę
 BtnGasStationActionUnblockPump,Odblokuj\nPompę
 BtnGasStationActionTogglePumpLights,Przełącz\nŚwiatła pomp
-BtnGasStationActionStopAllPumps,Zatrzymaj wszystkie\nPompy
+BtnGasStationActionStopAllPumps,Zatrzymaj wszystkie\npompy
 BtnGasStationActionStopPump,Zatrzymaj\ntankowanie z pompy
 BtnGasStationActionReservePump,Zarezerwuj\nPompę
 BtnGasStationActionPrePay,Przedpłata
 BtnGasStationActionCancelReservePump,Anuluj\nRezerwację
 BtnGasStationActionAuthorizePump,Autoryzuj\nPompę
 BtnGasStationActionCancelAuthorizePump,Anuluj\nAutoryzację
-BtnGasStationActionPausePump,Wstrzymaj\nDozowanie
+BtnGasStationActionPausePump,Wstrzymaj\ndozowanie
 BtnGasStationActionResumePump,Wznów\nDozowanie
 BtnGasStationForecourtConnectionLost,Utracono połączenie z kontrolerem podjazdu. Ponowienie połączenia
 BtnGasStationForecourtConnected,Kontroler podjazdu połączony
@@ -256,7 +256,7 @@ MsgGasStationConfirmationTitle,Potwierdzenie:
 MsgGasStationCantAddFuelProductHoseBlocked,Nie można dodać towaru paliwa do transakcji. Pistolet jest zablokowany
 MsgGasStationRefundPrompt,"Klient zapłacił %@, ale dostał paliwa tylko %@\nCzy chcesz zwrócić %@?"
 MsgGasStationTransactionClearPrompt,"Transakcja została zakończona, ale nie jest wyczyszczona,\nCzy chciałbyś, aby ją wyczyścić?"
-MsgGasStationTransactionLockedByTermId,UWAGA:\nTransakcja jest zablokowana przez terminal z ID
+MsgGasStationTransactionLockedByTermId,UWAGA:\nTransakcja jest zablokowana przez terminal z nr
 MsgGasStationFuelTransactionIsAlreadyInTheOrderCloseCurrent,Paliwo Txn #%d zostało już opłacone w transakcji #%@. Proszę zamknąć bieżącą transakcję aby otworzyć przeszłe transakcje.
 MsgGasStationFuelTransactionIsAlreadyInTheOrder,Paliwo Txn #%d zostało już opłacone w transakcji #%@.
 MsgGasStationFuelGrade,Rodzaj paliwa
@@ -283,7 +283,7 @@ MsgGasStationClearTypeDriveOff,Ucieczka
 MsgGasStationClearTypeAttendant,Pracownik obsługi
 MsgGasStationAuthorizePromptTitle,Autoryzować %@?
 MsgGasStationCantAuthorizePump,Nie można zautoryzować %@. Pompa jest zablokowana.
-MsgGasStationCantManagePump,Nie można zarządzać %@. Pompa jest zarezerwowana przez terminal z id %d.
+MsgGasStationCantManagePump,Nie można zarządzać %@. Pompa jest zarezerwowana przez terminal z nr %d.
 MsgGasStationPumpAskingAuthorization,Użycie tek pompy wymaga autoryzacji. Czy chciałbyś autoryzować %@?
 MsgGasStationTransaction#,Transakcja nr
 MsgGasStationTxn#,Txn #
@@ -983,7 +983,7 @@ MsgFilterYesterday,Wczoraj
 MsgFilterEverything,Wszystko
 MsgFilterWeek,Tydzień
 MsgFilterMonth,Miesiąc
-MsgFilterAnyDate,Data końcowa
+MsgFilterAnyDate,Dowolna data
 MsgFilterActive,Pokaż aktywne
 MsgFilterComplete,Pokaż zakończone
 MsgOrdersExpand,Rozwiń wszystko
@@ -992,12 +992,12 @@ MsgOrdersGroupByItem,Grupuj wg pozycji
 MsgOrderPriceOverrideDaily,Ta operacja spowoduje zmianę ceny pozycji wyłącznie dla danego stanowiska POS. Zmiana musi zostać wprowadzona ręcznie.
 MsgOrderPriceOverrideServer,Ta operacja spowoduje zmianę ceny pozycji na serwerze. Wprowadzenie nowej ceny wymaga odświeżenia innych stanowisk.
 MsgOrderPriceOverrideServerSuccess,"Zmieniono cenę. Nowa cena: %@. Odśwież inne stanowiska POS, aby wprowadzić zmianę."
-MsgOrderPriceOverrideServerFail,Zastępowanie ceny nie powiodło się.
-MsgOrderOverridePrice,Zastąp cenę
-BtnOrderOverridePricePerUnit,Zastąp cenę jednostkową
-BtnOrderOverridePriceTotal,Zastąp cenę całkowitą
+MsgOrderPriceOverrideServerFail,Zmiana ceny nie powiodła się.
+MsgOrderOverridePrice,Zmiana ceny
+BtnOrderOverridePricePerUnit,Zmiana ceny jednostkowej
+BtnOrderOverridePriceTotal,Zmiana ceny całkowitej
 MsgOrderPriceOverrideHelp,Pojedynczo – zmień cenę pozycji tylko w jednym przypadku.\n\nCały dzień – do północy stosuj zmienioną cenę pozycji dla tego stanowiska POS.\n\nKonsola zarządzania – zmień cenę pozycji na konsoli zarządzania. Wprowadzenie nowej ceny wymaga odświeżenia innych stanowisk POS.
-BtnOrderSingleOverride,Zastąp pojedynczo
+BtnOrderSingleOverride,Zmień pojedynczo
 BtnOrderDailyOverride,Zastąp na cały dzień
 BtnOrderServerOverride,Zaktualizuj cenę
 MsgOrderPriceOverrideSaving,Zapisywanie
@@ -1145,7 +1145,7 @@ MsgTillAlertSubject,Ostrzeżenia dot. kasy %@
 MsgTillAlertMessage,"Kasa %@, szuflada nr %d – osiągnięto poziom %@."
 MsgTillAlertMessageToCashier,Środki pieniężne w kasie przekroczyły limit %@.\n Proszę teraz wykonać depozyt sejfowy.
 MsgTillsTillNameSingular,Kasa
-MsgTillsReassignTill,Czy chcesz przypisać tą kasę?
+MsgTillsReassignTill,Czy chcesz przypisać kasę?
 MsgTillsNoActiveTills,Brak aktywnych kas.
 MsgSystemHasActiveTills,System posiada aktywną kasę należącą do innego pracownika.
 MsgTillMaxAmountReached,"Osiągnięto limit pieniężny %@ dla tej kasy. Wszystkie transakcje są obecnie zawieszone.  Proszę przeprowadzić depozyt sejfu, aby kontynuować przyjmowanie transakcji lub ją zamknąć/wstrzymać i otworzyć nową kasę."
@@ -1178,9 +1178,9 @@ BtnOrderEditFirstHalf,Pierwsza połowa
 BtnOrderEditSecondHalf,Druga połowa
 BtnOrderEditPrintLabel,Drukuj etykietę
 BtnOrderEditServiceFee,Opłata serwisowa
-BtnOrderOverridePrice,Zastąp cenę
+BtnOrderOverridePrice,Zmiana ceny
 BtnOrderTrackCateringDelivery,Data dostawy
-BtnOrderCopyItem,Kopiuj
+BtnOrderCopyItem,Kopia
 BtnOrderInventoryLookup,Wyszukiwanie zapasów
 BtnOrderModOptionRegular,Regularne
 BtnOrderModOptionNo,Nie
@@ -1189,7 +1189,7 @@ BtnOrderModOptionOnly,Tylko
 BtnOrderModOptionLite,Lekki
 MsgOrderPayBalanceDue,Należność
 MsgOrderPayAmountTendered,Kwota
-MsgOrderPayChangeTitle,Zamień
+MsgOrderPayChangeTitle,Reszta
 MsgOrderPayChangeDueTitle,Należna reszta
 MsgOrderPayHide,Ukryj
 MsgOrderPayTip,Napiwek: %@
@@ -1265,7 +1265,7 @@ MsgSplitItemNotAllowedPaid,Pozycja jest przypisana do opłaconego rachunku. Nie 
 MsgChangeSeatNotAllowedPaid,Pozycja jest przypisana do opłaconego rachunku. Nie można zmienić miejsca.
 ActionExchangeSelectedItem,Wymień wybrane pozycje
 ActionExchangeSeveralItems,Wymień kilka pozycji
-ActionVoidSelectedItem,Unieważnij wybraną pozycje
+ActionVoidSelectedItem,Unieważnij wybraną pozycję
 ActionVoidSeveralItems,Unieważnij kilka pozycji
 ActionReturnSelectedItem,Zwróć wybraną pozycję
 ActionReturnSeveralItems,Zwróć kilka pozycji
@@ -1302,7 +1302,7 @@ ActionSendCourse,Wyślij danie
 ActionDiscountSelectedItem,Rabat wybranej pozycji
 ActionDiscountSeveralItems,Rabat kilku pozycji
 ActionSelectItemsTo,Wybierz pozycję(e) do %@
-ActionOverridePrice,Zastąp cenę
+ActionOverridePrice,Zmiana ceny
 ActionCopy,Kopiuj pozycje
 ActionVoid,Unieważnij pozycję(e)
 ActionLayaway,Rezerwacja towaru
@@ -1580,7 +1580,7 @@ MsgSplitBillSelectProducts,Wybierz towary
 MsgSplitBillAdjustBillsTitle,Skoryguj rachunki
 MsgSplitBillAdjustAmountDue,Wymagana korekta
 MsgSplitBillAdjustTotal,Łącznie
-MsgSplitBillAdjustAdjust,Dostosuj kwotę
+MsgSplitBillAdjustAdjust,Korekta kwoty
 MsgSplitBillAdjustBill,czek
 MsgSplitBillApplyOrderDiscount,Transakcja objęta rabatem %@.  Do którego czeku zastosować rabat?
 MsgSplitBillOrderNumberReceipt,Numer transakcji – Paragon
@@ -1784,7 +1784,7 @@ MsgPurchaseRewardsEarned,Zdobyte bonusy za zakupy: %@
 MsgVisitsRewardsEarned,Zdobyte bonusy za wizyty: %@
 MsgCurrentPurchaseRewards,Aktualny bonus za zakupy: %@
 MsgCurrentVisitsRewards,Aktualny bonus za wizyty: %@
-MsgRewardPointsEarned,Zdobyte punkty bonusowe: %@
+MsgRewardPointsEarned,Otrzymane punkty bonusowe: %@
 MsgCurrentRewardPoints,Aktualne punkty bonusowe: %@
 MsgNextRewardPoints,Następny bonus: %@
 MsgVisits,wizyty
@@ -1809,7 +1809,7 @@ MsgItemPoints,Punkty za pozycje
 MsgVisitPoints,Punkty za wizyty
 MsgNoRewardsAvailable,Nie ma dostępnych bonusów
 MsgLoyaltyTiers,Programy lojalnościowe
-MsgLoyalty,Lojalność
+MsgLoyalty,Karty lojalnościowe
 MsgRewardDiscountsHaveConflicts,Wybrane rabaty mają konflikty z zastosowanymi rabatami. Kontynuuj mimo to?
 MsgRewardEnterPointsToRedeem,Wprowadź punkty to wykorzystania
 MsgRewardCardsPointsRedeemed,Punkty wykorzystane
@@ -1852,7 +1852,7 @@ MsgGenPaymentManEntrNotSuppOffl,W trybie offline nie można wprowadzać danych r
 MsgGenPaymentEmptyMessage,Pusty komunikat
 MsgGenPaymentTakingLonger,Trwa dłużej niż oczekiwano ... Proszę czekać co najmniej 60 sekund.
 MsgGenPaymentPaymentStatus,Status płatności
-MsgGenPaymentDuplicate,Duplikuj
+MsgGenPaymentDuplicate,Duplikat
 MsgGenPaymentCheckSettings,Ustawienia czeku
 MsgGenPaymentMagTekError,Błąd MagTek
 MsgGenPayment3773NotSupp,(3773) Nieobsługiwany
@@ -1860,7 +1860,7 @@ MsgGenPaymentiPP350USAEPAY,iPP350 USA EPAY
 MsgGenPaymentNotSupported,Nieobsługiwany
 MsgGenPaymentMercuryPayFailed,MercuryPay nieudane
 MsgGenPaymentTrack2empty,Ścieżka 2 pusta
-MsgGenPaymentCardSwipeLaneIDEmpty,Parametr LaneID terminalu płatniczego jest pusty.\nPrzypisz parametr LaneID do terminalu.
+MsgGenPaymentCardSwipeLaneIDEmpty,Parametr LaneID terminalu płatniczego jest pusty.\nPrzypisz parametr LaneID do terminala.
 MsgGenPaymentKSNempty,KSN pusty
 MsgGenPaymentReturnToWrongAccount,Próba przyznania zwrotu na nieprawidłowe konto.
 MsgGenPaymentDebitSupportForRetailAndGrocery,Płatności debetowe są obsługiwane tylko dla handlu detalicznego i sklepu spożywczego!\nProszę użyć innej metody.
@@ -2045,7 +2045,6 @@ MsgOrderHistDateDue,Termin
 MsgOrderHistEmployeeName,Nazwisko pracownika
 MsgOrderHistOrderTotal,Łącznie
 MsgOrderHistPrintId,Drukuj
-MsgOrderHistInvoiced,Project-Id-Version: \nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2017-03-02 16:54:21\nPO-Revision-Date: 2017-03-02 16:54:21\nLast-Translator: \nLanguage-Team: \nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nLanguage: pl\nPlural-Forms: nplurals=2; plural=(n != 1);\nX-Generator: Poedit 1.8.7\n
 MsgOrderHistBar,Bar nr %d
 MsgOrderInvoiceToOrderConfirmation,Transakcja zostanie utworzona na podstawie faktury. Czy na pewno?
 MsgOrderFullyPaidInvoiceToOrderConfirmation,Ta faktura jest w pełni opłacona.\nPrzekształcić ją w transakcję?
@@ -2272,7 +2271,7 @@ MsgScreenEmailStoreCredit,Email kredytu sklepowego
 MsgDUWelcomeBackCustomer,%@ – witamy ponownie!
 MsgScreenDollars,Dolary
 MsgScreenCurrencySign,$
-MsgScreenOtherTotal,Inne łącznie
+MsgScreenOtherTotal,Suma
 MsgScreenSumTotal,Łączna suma
 MsgScreenTillManagementCheckout,Zamknięcie kasy
 MsgScreenByBillType,Typ\nrachunku
@@ -2291,7 +2290,7 @@ MsgScreenPayIn,Wpłata
 MsgScreenPayout,Wypłata
 MsgScreenOpenCashDrawer,Otwórz szufladę kasową
 MsgScreenPrintBankDrop,Drukuj        Depozyt bankowy
-MsgScreenPrintEmptySafeDrop,Wydrukuj pusty paragon depozytu sejfowego
+MsgScreenPrintEmptySafeDrop,Wydrukuj pusty paragon depozytu sejfu
 MsgScreenAmountSafe,Kwota w sejfie
 MsgScreenSafeDrop,Depozyt sejfu
 MsgScreenTotalEndingCash,Końcowa gotówka łącznie:
@@ -2450,7 +2449,7 @@ MsgScrTroubleshootSupportLineTitle,Infolinia całodobowa:
 MsgScrTroubleshootSupportLineNumber,415.744.1433 – wewn. 2
 MsgScrTroubleshootSupportOnboardingTitle,Wprowadzenie:
 MsgScrTroubleshootSupportOnboardingNumber,415.744.1433 - wewn. 3
-MsgScrTroubleshootSupportSubmitCaseQuestion,"Jeśli chcesz uzyskać pomoc, użyj poniższego przycisku Prześlij zgłoszenie."
+MsgScrTroubleshootSupportSubmitCaseQuestion,"Jeśli chcesz uzyskać pomoc, użyj poniższego przycisku 'Zatwierdź zgłoszenie'."
 MsgScrTroubleshootSubmitSupportTicketTitle,Prześlij zgłoszenie
 MsgScrTroubleshootSubmitSupportTicketSubmittedText,"Twój problem jest dla nas bardzo ważny, zajmiemy się nim możliwie najszybciej. Możesz zadzwonić do nas, aby uzyskać dalsze informacje."
 MsgScrTroubleshootSubmitSupportTicketSubmitFailed,Nie można przesłać zgłoszenia. Sprawdź status sieci Wi-Fi i spróbuj ponownie lub prześlij zgłoszenie za pomocą portala konsoli zarządzania.
@@ -2543,7 +2542,7 @@ MsgScrSettingsPrintCashLog,Drukuj rejestr gotówki
 MsgScrSettingsPrintCashLog2,Drukuj\nrejestr gotówki
 MsgScrSettingsEmailPaymentLog,Wyślij rejestr płatności e-mailem
 MsgScrSettingsPrintPaymentSummary,Drukuj podsumowanie płatności
-MsgScrSettingsPrintSafeDrop,Wydrukuj paragon depozytu sejfowego
+MsgScrSettingsPrintSafeDrop,Wydrukuj paragon depozytu sejfu
 MsgScrSettingsPrintPaymentLog,Drukuj rejestr płatności
 MsgScrSettingsPrintSalesReport,Drukuj raport wyników sprzedaży
 MsgScrSettingsOverridePrevailingTax,Podstawowa stawka podatku
@@ -2733,7 +2732,7 @@ MsgScrSettingsNoCashWithdraw,Brak gotówki do wycofania z kasy.
 MsgScrSettingsBankDropManager,Menedżer depozytu bankowego
 MsgScrSettingsAmountTills,Kwota w kasach
 MsgScrSettingsEnterAmount,Wpisz kwotę
-MsgScrSettingsPrintEmptySafeDrop,Wydrukuj pusty paragon depozytu sejfowego
+MsgScrSettingsPrintEmptySafeDrop,Wydrukuj pusty paragon depozytu sejfu
 MsgScrSettingsOpenCashDrawer,Otwórz szufladę kasową
 MsgScrSettingsQuestQT720PinPad,Zadanie QT720 PinPad
 MsgScrSettingsPinPadSerialNumber,Numer seryjny PinPad:
@@ -2974,7 +2973,7 @@ MsgDOMCouponUsed,Wykorzystany kupon
 MsgDOMRewardUsed,Wykorzystany bonus
 MsgDOMCustomerOwes,Należność klienta
 MsgDOMAddAuthNumber,Dodaj nr autoryzacji
-MsgDOMPointsEarned,Zdobyte punkty
+MsgDOMPointsEarned,Otrzymane punkty
 MsgDOMTotalPoints,Punkty łącznie
 MsgDOMCashEarned,Zarobiona gotówka
 MsgDOMRewardBalance,Saldo bonusów
@@ -3106,7 +3105,7 @@ MsgInventoryNone,Brak
 MsgInventoryUpdate,Zaktualizuj
 MsgInventoryUpdatePrice,Zaktualizuj cenę
 MsgInventoryUpdateCost,Zaktualizuj cenę zakupu
-MsgInventoryAdjustCost,Dostosuj kwotę
+MsgInventoryAdjustCost,Korekta kosztu
 MsgInventoryPriceUpdated,Zaktualizowano cenę
 MsgInventoryCostUpdated,Zaktualizowano cenę zakupu
 MsgInventoryNewPrice,Nowa cena: %@
@@ -3572,7 +3571,7 @@ MsgProductsFromComboOutOfStock,Obecnie brak na stanie poniższego(ych) towaru(ó
 MsgProductProceed,Dodaj mimo to
 MsgResetAllBalancesWouldYouLikeToProceed,"Wszystkie salda towarów zostaną zaktualizowane do \""na stanie magazynu\"". Chcesz kontynuować?"
 MsgWarningOnSendPayHold,"Transakcja zawiera pozycje, których liczba jest większa niż dostępny stan magazynu. Anulować operację i dostosować transakcję?"
-BtnAdjustTheOrder,Dostosuj transakcję
+BtnAdjustTheOrder,Korekta transakcji
 BtnProceedAnyway,Przetwórz mimo to
 BtnContinueAnyway,Kontynuuj mimo to
 MsgCopyAddOutOfStockMessage,"Liczba dostępnych towarów jest niewystarczająca. Jeśli będziesz kontynuować, liczba niektórych towarów będzie ujemna. Odpowiednie pozycje transakcji zostaną wyróżnione na czerwono."
@@ -3740,7 +3739,7 @@ MsgPrintDuplicateOfClosingReceipt,Wydrukować duplikat końcowego paragonu?
 MsgPrintDuplicateOfGuestCheck,Wydrukować kopię rachunku gościa?
 MsgQuebecSRMContinuousModeTip,"Użyj tej opcji, jeśli podłączony SRM przestał działać."
 MsgQuarterly,Kwartalny
-MsgMonthly,Miesiąc
+MsgMonthly,Miesięcznie
 BtnContinueWith,Kontynuuj z %@
 MsgOrderDetailsOrderDetails,Szczegóły transakcji nr %@
 MsgOrderDetailsOrderDetailsWebOrder,Szczegóły transakcji nr %@ [transakcja online]
@@ -3864,7 +3863,7 @@ MsgReservationServiceProvider,Dostawca usług
 MsgReservationServiceProviderShowAll,Pokaż wszystkich\ndostawców
 MsgSSMCCheckInTime,Zameldować się
 MsgEnterCustomIDLabel,Wprowadź %@
-PaymentCustom,Dostosuj
+PaymentCustom,Bon paliwowy
 MsgEntityLoading,Wczytywanie
 MsgEntitySaving,Zapisywanie
 MsgEntityChangedSaveFailed,Z poziomu stanowiska głównego wprowadzono zmiany dot.: %@; zastąpiono dane lokalne
@@ -4230,7 +4229,7 @@ MsgManagerEODTaskAdditionalTasks,Dodatkowe zadania
 MsgManagerEODCloseTillButton,Zamknij kasę
 MsgManagerEODCloseVirtualTillButton,Zamknij wirtualną kasę
 MsgManagerEODTillsOpened,Otwarte
-MsgManagerEODPosStation,Stacja POS
+MsgManagerEODPosStation,Satnowisko POS
 MsgManagerEODContinueShift,Kontynuuj zmiane
 MsgManagerEODClockOutAll,Zakończ zmiany wszystkich
 MsgManagerEODNoTasksAlert,Brak zadań do wykonania
@@ -4300,7 +4299,7 @@ MsgManagerEODFailedToSyncOrders,Nie udało się zsynchronizować transakcji. Nie
 MsgManagerEODCloseToCashActionIsUnavail,Działanie 'Zamknij jako gotówka' jest nie dostępne.\nTo zlecenie nie może być modyfikowane.
 MsgManagerEODFailedActionTillsAreNotConfigured,"Obecna konfiguracja systemu wymaga, aby kasa była otwarta i ustawiona przed użyciem tej funkcji."
 MsgManagerEODFailedActionOrderHasRequiredOption,Działanie jest nie dostępne.\nZlecenie posiada jakieś wymagane opcje. 
-MsgManagerEODUnsyncedQueue,Brak synchronizacji szeregu
+MsgManagerEODUnsyncedQueue,Brak synchronizacji transakcji
 MsgManagerEODSyncFailures,Błędy synchronizacji
 MsgManagerEODSubmitAllButton,Zatwierdź wszystkie
 MsgManagerEODProceedWarning,"Uwaga, istnieją błędy synchronizacji. Kontynuuj mimo to?"
@@ -4478,7 +4477,7 @@ MsgTableReservations,Rezerwacja stolika
 MsgIncomingSms,Przychodzące sms
 MsgOutcomingSms,Wychodzące sms
 MsgGasStationStartFueltransactionConfirmation,Czy chciałbyś autoryzować transakcję dla %@?\n\nNumer pistoleta: %d\nIlość: %.2f\nCena: %.2f\nŁączna cena: %.2f
-MsgGasStationSelectClearType,Wybierz wyraźny typ
+MsgGasStationSelectClearType,Wybierz rodzaj
 MsgGasStationFailedToClearTransactionPleaseTryAgain,"Nie udało się wyczyścić transakcji, prosimy spróbować ponownie"
 MsgGasStationInternalErrorNoFuelTransactionFound,Błąd wewnętrzny. Nie znaleziono transakcji paliwa
 MsgSomeTransactionsAreNotCleared,%d transakcja(e) nie jest (są) wyczyszczone
@@ -4804,14 +4803,14 @@ BtnOnboardingDetach,Odłącz
 BtnOnboardingDeactivate,Dezaktywuj
 MsgCustomerIndividual,Indywidualny
 MsgCustomerCompany,Firma
-MsgDocumentAddTo,Dodaj do dokumentu
+MsgDocumentAddTo,Dodaj
 MsgDocumentOnlyCustomer,"Klient nie może zostać zapisany, ponieważ brakuje wypełnienia niektórych z wymaganych pól lub są one nieprawidłowe. Możliwe jest jednak zignorowanie tych pól i dodanie klienta do dokumentu."
 MsgDocumentStorage,Faktury
 MsgDocumentPreview,Podgląd dokumentu
-MsgDocumentSearchPlaceholder,Podaj numer rachunku w barze lub nazwę klienta
+MsgDocumentSearchPlaceholder,Numer faktury lub imię nazwisko klienta
 MsgDocumentType,Rodzaj dokumentu
-MsgDocumentNumber,Dokument nr
-MsgDocumentTaxID,ID podatku klienta
+MsgDocumentNumber,Nr dokumentu
+MsgDocumentTaxID,NIP
 MsgDocumentCopyCounter,Liczba kopii
 MsgDocumentTypeFiscalInvoiceCopy,Kopia faktury fiskalnej
 MsgDocumentTypeFiscalInvoiceDuplicate,Duplikat faktury fiskalnej
@@ -4824,7 +4823,7 @@ MsgInvoice,Faktura
 MsgInvoiceVehicleRegistrationNumber,Numer rejestracyjny auta
 MsgInvoiceInvoiceItem,Nr faktury
 MsgInvoiceReceiptItem,Drukuj pozycję ponownie
-MsgInvoiceVRNPlaceholder,Rejestracja nieudana
+MsgInvoiceVRNPlaceholder,Rejestracja # (opcjonalnie)
 MsgDocuments,Dokumenty
 MsgNonFiscalInvoice,Faktura niefiskalna
 MsgNonFiscalInvoiceCopy,Kopia faktury niefiskalnej
@@ -5057,5 +5056,3 @@ MsgRevUserTutorialStepSettingsText,Ikona koła zębatego ustawień oferuje kilka
 MsgRevUserTutorialStepSettings2Text,Tutaj można zainicjować procedurę zakończenia dnia w opcji 'Menedżer' lub wylogować się z POS.
 MsgRevUserTutorialStepRefreshThePOSTitle,Odśwież POS
 MsgRevUserTutorialStepRefreshThePOSText,"W każdej chwili można dokonać zmian w konsoli zarządzania, dotknij tutaj, aby odświeżyć POS, który będzie aktualizować ostatnie zmiany."
-MsgReceiptSiteId,"Numer stacji"
-MsgReceiptTerminalId,"Nr terminala"

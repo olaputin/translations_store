@@ -1962,7 +1962,6 @@ MsgOrderHistDateDue,Fälligkeitsdatum
 MsgOrderHistEmployeeName,Mitarbeitername
 MsgOrderHistOrderTotal,Summe
 MsgOrderHistPrintId,Drucken
-MsgOrderHistInvoiced,Project-Id-Version: \nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2017-03-02 16:57:32\nPO-Revision-Date: 2017-03-02 16:57:32\nLast-Translator: \nLanguage-Team: \nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nLanguage: de\nPlural-Forms: nplurals=2; plural=(n != 1);\nX-Generator: Poedit 1.8.7\n
 MsgOrderHistBar,Bar #%d
 MsgOrderInvoiceToOrderConfirmation,Dadurch wird eine Bestellung aus der Rechnung erstellt. Bist du dir sicher?
 MsgOrderFullyPaidInvoiceToOrderConfirmation,Diese Rechnung ist voll bezahlt.\nKonvertieren Sie es zur Bestellung?

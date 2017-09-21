@@ -1958,7 +1958,6 @@ MsgOrderHistDateDue,Дата выполнения
 MsgOrderHistEmployeeName,Имя сотрудника
 MsgOrderHistOrderTotal,Итого
 MsgOrderHistPrintId,Распечатать
-MsgOrderHistInvoiced,Project-Id-Version: \nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2017-03-02 16:55:56\nPO-Revision-Date: 2017-03-02 16:55:56\nLast-Translator: \nLanguage-Team: \nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nLanguage: ru\nPlural-Forms: nplurals=2; plural=(n != 1);\nX-Generator: Poedit 1.8.7\n
 MsgOrderHistBar,Бар №%d
 MsgOrderInvoiceToOrderConfirmation,На основании счета будет создан заказ. Вы уверены?
 MsgOrderFullyPaidInvoiceToOrderConfirmation,Этот счет полностью оплачен.\nСоздать заказ?

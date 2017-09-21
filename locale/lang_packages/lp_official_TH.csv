@@ -1679,7 +1679,6 @@ MsgOrderHistDateDue,วันที่ครบกำหนด
 MsgOrderHistEmployeeName,ชื่อพนักงาน
 MsgOrderHistOrderTotal,ยอดรวม
 MsgOrderHistPrintId,พิมพ์
-MsgOrderHistInvoiced,Project-Id-Version: \nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2017-03-02 17:07:06\nPO-Revision-Date: 2017-03-02 17:07:06\nLast-Translator: \nLanguage-Team: \nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nLanguage: th\nPlural-Forms: nplurals=2; plural=(n != 1);\nX-Generator: Poedit 1.8.7\n
 MsgOrderHistBar,บาร์ #%d
 MsgOrderInvoiceToOrderConfirmation,นี่จะสร้างคำสั่งซื้อจากใบแจ้งหนี้ คุณแน่ใจหรือไม่?
 MsgManageCustomersPhoneCaption,โทรศัพท์ #

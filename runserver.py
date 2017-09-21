@@ -66,4 +66,4 @@ if __name__ == '__main__':
         ssl_args = {}
 
     LOGINFO('Listening on {}:{}'.format(bind_host, bind_port))
-    bottle.run(app=TStoreApp, host=bind_host, port=bind_port, **ssl_args)
+    bottle.run(app=TStoreApp, host=bind_host, port=bind_port, quiet=True, **ssl_args)
